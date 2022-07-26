@@ -1,0 +1,19 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "- Clone - Run `python3 -m venv venv`. - Run `. venv/bin/activate`. - Run `python install -e .`. - Run `run` to execute script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-0x:0xlucyfer/translator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ensdomains/eth-ens-namehash": "^2.0.15"
+  }
+}
