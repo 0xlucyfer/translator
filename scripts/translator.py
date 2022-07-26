@@ -33,10 +33,10 @@ def translate() -> Dict[str, List[str]]:
             count+=1
             # print(f"EN: {eng_word} || ES: {translation.text}")
             # print(f"{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})")
-        import pdb; pdb.set_trace()
+        # import pdb; pdb.set_trace()
         print(f"Translated {count} english words into spanish from {file.split('/')[-1]}...")
         total_translated_lists[(file.split('/'))[-1]] = spanish_translations
-    import pdb; pdb.set_trace()
+    # import pdb; pdb.set_trace()
     return total_translated_lists
 
 
