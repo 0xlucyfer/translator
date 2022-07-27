@@ -1,5 +1,4 @@
 import requests
-import re
 from pprint import pprint
 from bs4 import BeautifulSoup
 from scripts.settings import (
@@ -9,27 +8,41 @@ from scripts.utils import (
     load_fixture
 )
 
-ANIMALS_PATTERN = r"<a href=.*</a>"
+
+# ANIMALS_PATTERN = r"<a href=.*>(.*)</a>"
 
 # import pdb; pdb.set_trace()
 def run_scraper():
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
-    results = soup.find(id="ResultsContainer")
+    
+    # Grab CSS animal container.
+    animals_container = soup.select('div[class*="entry-content"]')
+    animal_hrefs = []
+    extracted = []
 
-    # html = soup.prettify("utf-8")
-    # with open("tests/fixtures/english-animals-2.html", "wb") as file:
-    #     file.write(html)
+    # Iterate entire animals container.
+    for animals in animals_container:
+        # Container with all li objects.
+        pay_load = animals.findAll("div", {"class": "container"})
 
-    regex_pattern = re.compile(ANIMALS_PATTERN)
-    # x = '<li class="list-item"><a href="https://a-z-animals.com/animals/aardvark/">Aardvark</a></li><li'
+        # Get hrefs in li
+        for animal in pay_load:
+            links = animal.select('li a[href]')
 
-    for pay_load in soup.select('div[class*="entry-content"]'):
-        animals = pay_load.findAll("div", {"class": "container"})
+            # Extract text from link. Those are the animals.
+            for link in links:
+                link = link.text.split('(')
+                extracted.append(link[0].strip())
 
-        for animal in animals:
-            import pdb; pdb.set_trace()
-            x = re.findall(regex_pattern, animal.text)
+                if len(link) == 2:
+                    link = link[1].replace(')', "")
+                    link = link.strip()
+                    extracted.append(link)
 
-    import pdb; pdb.set_trace()
+    f = open(f"tests/fixtures/english-animals.txt", 'w')
+    for element in extracted:
+        f.write(element)
+        f.writelines('\n')
+    f.close()
