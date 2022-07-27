@@ -1,0 +1,1 @@
+FIXTURE_PATH = '/tests/fixtures'
