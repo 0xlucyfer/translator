@@ -8,13 +8,17 @@ from scripts.settings import (
 
 def load_fixture(file_name='ES-nouns-verbs.json'):
     '''
-        Fixtures to mock objects.
+        Loads Fixtures to mock objects.
         - ES-nouns-verbs.json: all English nouns & verbs translated into Spanish.
         - english-animals.html: from https://a-z-animals.com/animals/
     '''
     full_fixture_path = f'{os.getcwd()}{FIXTURE_PATH}/{file_name}'
-    with open(full_fixture_path) as json_file:
-        fixture = json.load(json_file)
+    if 'json' in file_name:
+        with open(full_fixture_path) as json_file:
+            fixture = json.load(json_file)
+    elif 'html' in file_name:
+        with open(full_fixture_path, "r", encoding='utf-8') as f:
+            fixture= f.read()
     return fixture
 
 
