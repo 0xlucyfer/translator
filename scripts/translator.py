@@ -52,16 +52,15 @@ def get_csv_file_paths(csv_files: str = '/collections') -> List[str]:
     return glob.glob(os.path.join(path, "*.csv"))
 
 
-def load_fixture(file_path='/tests/fixtures', fix_name=None):
+def load_fixture(fixture_path='/tests/fixtures', file_path='ES-nouns-verbs.json'):
     '''
         Inject fixtures so we dont need to 
         run calculations each time.
+        Fixture to mock translate().
     '''
-    # Set fixture vars
-    FIX_BASE = path = os.getcwd()
-    SWAGGER_FIX = 'example_ingestion_manager_swagger.json'
 
-    fixture_path = f'{ os.getcwd()}{file_path}'
-    with open(fixture_path) as json_file:
+    # fixture_path = f'{os.getcwd()}{file_path}'
+    full = fixture_path + '/' + file_path
+    with open(full) as json_file:
         fixture = json.load(json_file)
     return fixture
