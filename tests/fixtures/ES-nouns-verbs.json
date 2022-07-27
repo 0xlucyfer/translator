@@ -1,5 +1,5 @@
 {
-	"english-nouns.csv": ["años",
+	"es-nouns.csv": ["años",
 		"ayuda",
 		"apuntar",
 		"aire",
@@ -2963,7 +2963,7 @@
 		"pentodo",
 		"cártel"
 	],
-	"english-verbs.csv": ["humillar",
+	"en-verbs.csv": ["humillar",
 		"disminuir",
 		"abreviar",
 		"abdicar",

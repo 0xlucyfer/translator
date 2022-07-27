@@ -7,6 +7,7 @@ from googletrans import Translator
 from pprint import pprint
 from typing import List, Dict
 
+FIXTURE_PATH = '/tests/fixtures'
 
 # import pdb; pdb.set_trace()
 def translate():
@@ -52,15 +53,12 @@ def get_csv_file_paths(csv_files: str = '/collections') -> List[str]:
     return glob.glob(os.path.join(path, "*.csv"))
 
 
-def load_fixture(fixture_path='/tests/fixtures', file_path='ES-nouns-verbs.json'):
+def load_fixture(file_name='ES-nouns-verbs.json'):
     '''
-        Inject fixtures so we dont need to 
-        run calculations each time.
-        Fixture to mock translate().
+        Fixtures to mock objects.
+        - ES-nouns-verbs.json: all English nouns & verbs translated into Spanish.
     '''
-
-    # fixture_path = f'{os.getcwd()}{file_path}'
-    full = fixture_path + '/' + file_path
-    with open(full) as json_file:
+    full_fixture_path = f'{os.getcwd()}{FIXTURE_PATH}/{file_name}'
+    with open(full_fixture_path) as json_file:
         fixture = json.load(json_file)
     return fixture
