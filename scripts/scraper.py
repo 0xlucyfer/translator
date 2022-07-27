@@ -12,6 +12,21 @@ from scripts.utils import (
 # ANIMALS_PATTERN = r"<a href=.*>(.*)</a>"
 
 # import pdb; pdb.set_trace()
+'''
+These animals where missing from this list. As time goes on the community might
+remove/add/amend the list as they see fit.
+    serpent
+    black widow
+    antilope
+    bass
+    manturon
+    himalayan bear
+    orangutan
+    sea snake
+    condor
+    panda
+    cacatua
+'''
 def run_scraper():
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
@@ -34,12 +49,12 @@ def run_scraper():
             # Extract text from link. Those are the animals.
             for link in links:
                 link = link.text.split('(')
-                extracted.append(link[0].strip())
+                extracted.append((link[0].strip()).lower())
 
                 if len(link) == 2:
                     link = link[1].replace(')', "")
                     link = link.strip()
-                    extracted.append(link)
+                    extracted.append(link.lower())
 
     f = open(f"tests/fixtures/english-animals.txt", 'w')
     for element in extracted:
