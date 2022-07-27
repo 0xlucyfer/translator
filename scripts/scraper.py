@@ -12,22 +12,28 @@ from scripts.utils import (
 # ANIMALS_PATTERN = r"<a href=.*>(.*)</a>"
 
 # import pdb; pdb.set_trace()
-'''
-These animals where missing from this list. As time goes on the community might
-remove/add/amend the list as they see fit.
-    serpent
-    black widow
-    antilope
-    bass
-    manturon
-    himalayan bear
-    orangutan
-    sea snake
-    condor
-    panda
-    cacatua
-'''
+
+## As time goes on the community might
 def run_scraper():
+    missing = [
+        'serpent',
+        'black widow',
+        'antilope',
+        'bass',
+        'manturon',
+        'himalayan bear',
+        'orangutan',
+        'sea snake',
+        'condor',
+        'panda',
+        'cacatua'
+    ]
+    remove = [
+        'asp',
+        'american wirehair traits: what to know before you buy',
+        'sphynx traits: what to know before you buy',
+        ''
+    ]
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -56,8 +62,22 @@ def run_scraper():
                     link = link.strip()
                     extracted.append(link.lower())
 
+    # Needed for directe english to spanish translation.
     f = open(f"tests/fixtures/english-animals.txt", 'w')
     for element in extracted:
         f.write(element)
+        f.writelines('\n')
+    for element in missing:
+        f.write(element)
+        f.writelines('\n')
+    f.close()
+
+    # Need for ENS hashing.
+    f = open(f"tests/fixtures/english-animals-nospaces.txt", 'w')
+    for element in extracted:
+        f.write(element.replace(" ", ""))
+        f.writelines('\n')
+    for element in missing:
+        f.write(element.replace(" ", ""))
         f.writelines('\n')
     f.close()
