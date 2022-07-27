@@ -14,6 +14,7 @@ def translate():
         Loads, reads, translates, QAs, & prints english words to spanish.
         Saves new csv file for each file in collections.
     '''
+    translator = Translator()
     csv_files = get_csv_file_paths()
     total_translated_lists = {}
 
