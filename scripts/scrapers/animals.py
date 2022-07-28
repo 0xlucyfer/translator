@@ -1,4 +1,5 @@
 import requests
+import sys
 from pprint import pprint
 from bs4 import BeautifulSoup
 from scripts.settings import (
@@ -8,6 +9,16 @@ from scripts.settings import (
 
 ## As time goes on the community will add/remove/ammend animals on the list.
 def run_scraper():
+    '''
+        Extracts all animals from "https://a-z-animals.com/animals/".
+        Creates/Writes two files. Sys.arg1
+        
+        sys.argv[1]: location to save cleaned animal words - txt.
+        Ex.          $ animals 'cleaned-animals.txt`
+        sys.argv[2]: location to save cleaned animal words with
+                     no spaces - txt. This makes the words hash ready.
+        Ex.          $ animals 'cleaned-animals.txt` 'cleaned-animals-nospaces.txt`
+    '''
     add = [
         'serpent',
         'black widow',
@@ -28,6 +39,7 @@ def run_scraper():
         'american wirehair traits: what to know before you buy',
         'sphynx traits: what to know before you buy'
     ]
+
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html.parser")
@@ -52,22 +64,31 @@ def run_scraper():
                 extracted.append((link[0].strip()).lower())
 
                 if len(link) == 2:
-                    link = link[1].replace(')', "")
-                    link = link.strip()
-                    extracted.append(link.lower())
+                    link = ((link[1].replace(')', "")).strip()).lower()
+                    extracted.append(link)
 
-    # Needed for directe english to spanish translation.
-    f = open(f"tests/fixtures/english-animals.txt", 'w')
+    # Save animals into text file.
+    try:
+        f = open(f"{FIXTURE_PATH}/{sys.argv[1]}", 'w')
+    except IndexError as ie:
+        print(f"CMD: `$ animals file1.txt file2-nospaces.txt`")
+        sys.exit("Invalid run command.")
+        
     for element in extracted:
         f.write(element)
         f.writelines('\n')
-    for element in add:
+    for element in add: # Add missing animals.
         f.write(element)
         f.writelines('\n')
     f.close()
 
-    # Need for ENS hashing.
-    f = open(f"tests/fixtures/english-animals-nospaces.txt", 'w')
+    try:
+        # Save cleaned animals words without spaces for correct ens hashes.
+        f = open(f"{FIXTURE_PATH}/{sys.argv[2]}", 'w')
+    except IndexError as ie:
+        print(f"CMD: `$ animals file1.txt file2-nospaces.txt`")
+        sys.exit("Invalid run command.")
+
     for element in extracted:
         f.write(element.replace(" ", ""))
         f.writelines('\n')

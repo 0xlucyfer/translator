@@ -22,10 +22,9 @@ def load_fixture(file_name='ES-nouns-verbs.json'):
     return fixture
 
 
-def get_csv_file_paths(csv_files: str = '/collections') -> List[str]:
+def get_csv_file_paths(csv_files: str = None) -> List[str]:
     '''
-        Load CSV files.
-        csv_files (str): Location of csv files
+        Load CSV files at location.
     '''
     path = os.getcwd()
     path = path + csv_files

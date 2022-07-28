@@ -1,4 +1,6 @@
-const fs = require('fs'); 
+// will improve this script with time
+
+const fs = require('fs');
 var namehash = require('@ensdomains/eth-ens-namehash');
 
 

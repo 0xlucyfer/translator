@@ -23,8 +23,9 @@ setup(
     install_requires=install_dependencies,
     entry_points={
         'console_scripts': [
-            "run = scripts.translator:translate",
-            "scrape = scripts.scraper:run_scraper",
+            "run-csv = scripts.translator:translate_csv",
+            "run-txt = scripts.translator:translate_txt",
+            "animals = scripts.scrapers.animals:run_scraper",
         ]
     }
 )
