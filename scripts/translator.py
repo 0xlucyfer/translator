@@ -9,6 +9,7 @@ from scripts.utils import (
 )
 
 # # import pdb; pdb.set_trace()
+# # Reading from CSV file
 # def translate():
 #     '''
 #         CSV files: Loads, reads, translates, QAs, & prints english
@@ -41,24 +42,36 @@ from scripts.utils import (
 #             f.writelines('\n')
 #         f.close()
 
-
+# Reading from text file
 def translate():
     '''
         CSV files: Loads, reads, translates, QAs, & prints english
         words to spanish. Saves new csv file for each file in collections.
     '''
-    translator = Translator()
-    lines = []
-    with open('tests/fixtures/english-animals.txt', 'r') as f:
+    # translator = Translator()
+    # lines = []
+    # with open('tests/fixtures/english-animals.txt', 'r') as f:
+    #     lines = f.readlines()
+
+    # f = open('tests/fixtures/spanish-animals.txt', 'w')
+    # for line in lines:
+    #     line = line.strip('\n')
+    #     translation = translator.translate(line, src='en', dest='es')
+    #     print(f"{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})")
+
+    #     f.write(((translation.text).lower()).strip())
+    #     f.writelines('\n')
+    # f.close()
+
+    with open('tests/fixtures/spanish-animals.txt', 'r') as f:
         lines = f.readlines()
 
-    f = open('tests/fixtures/spanish-animals.txt', 'w')
+    f = open('tests/fixtures/spanish-animals-nospaces.txt', 'w')
     for line in lines:
         line = line.strip('\n')
-        translation = translator.translate(line, src='en', dest='es')
-        print(f"{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})")
+        line = line.replace(" ", "")
 
-        f.write(translation.text)
+        f.write(((line).lower()).strip())
         f.writelines('\n')
     f.close()
 

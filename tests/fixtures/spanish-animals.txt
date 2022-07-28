@@ -2,7 +2,7 @@ cerdo hormiguero
 protelo
 abisinio
 acrioptera manga
-Addax
+addax
 pinguino adelaida
 serpiente de esculapio
 affenpinscher
@@ -12,7 +12,7 @@ elefante africano de sabana
 civeta africana
 rana africana con garras
 elefante africano del bosque
-Loro gris africano
+loro gris africano
 civeta de palma africana
 pingüino africano
 sapo de árbol africano
@@ -28,7 +28,7 @@ pastor akita
 alabai
 husky de alaska
 alaska klee kai
-Malamute de Alaska
+malamute de alaska
 abadejo de alaska
 pastor de alaska
 el atún blanco
@@ -60,11 +60,11 @@ sabueso leopardo americano
 pit bull terrier americano
 cabra pigmea americana
 petirrojo americano
-American Staffordshire Terrier
+american staffordshire terrier
 sapo americano
 perro de aguas americano
 pitón amatista
-El Leopardo de Amur
+el leopardo de amur
 anaconda
 perro pastor de anatolia
 anchoas
@@ -91,7 +91,7 @@ arqueoterio
 tortuga archelon
 zorro ártico
 liebre ártica
-Lobo ártico
+lobo ártico
 arctodus
 arctoterio
 escorpión de corteza de arizona
@@ -101,7 +101,7 @@ armadillo
 lagarto armadillo
 gusano cogollero
 serpiente de cascabel
-Arowana asiático
+arowana asiático
 cucaracha asiática
 elefante asiático
 avispón gigante asiático
@@ -124,7 +124,7 @@ perro kelpie australiano
 labradoodle australiano
 niebla australiana
 perro perdiguero australiano
-Pastor australiano
+pastor australiano
 terrier australiano
 australopiteco
 avoceta
@@ -134,9 +134,9 @@ babirusa
 babuino
 camello bactriano
 tejón
-Baiji
-serpiente rata de Baird
-Águila calva
+baiji
+serpiente rata de baird
+águila calva
 ballena barbada
 balinés
 lince balcánico
@@ -165,10 +165,10 @@ tiburón peregrino
 bajista
 basset fauve de bretaña
 sabueso basset
-Bassetoodle
+bassetoodle
 murciélago
 pez murciélago
-Sabueso bávaro de montaña
+sabueso bávaro de montaña
 bahía
 bea-tzu
 beabull
@@ -179,9 +179,9 @@ más rudo
 beago
 llevar
 collie barbudo
-Dragón barbudo
+dragón barbudo
 quebrantahuesos
-Beaski
+beaski
 beauceron
 serpiente rata de belleza
 castor
@@ -192,15 +192,15 @@ búfalo
 búfala
 escarabajo
 pastor belga
-Tervuren belga
+tervuren belga
 esturión beluga
-Tigre de Bengala
+tigre de bengala
 bergamasco
 picard de berger
 bernedoodle
-Perro de montaña de Bernese
+perro de montaña de bernese
 pastor bernés
-pez Betta
+pez betta
 pez luchador siamés
 bichir
 bichón frisé
@@ -210,12 +210,12 @@ borrego cimarrón
 bilby
 binturong
 pájaro
-AVE del Paraiso
+ave del paraiso
 birmano
 escarabajo de las galletas
 bisonte
 coonhound negro y fuego
-Mamba negro
+mamba negro
 aguja negra
 serpiente rata negra
 rinoceronte negro
@@ -244,7 +244,7 @@ picogrueso azul
 iguana azul
 arrendajo azul
 perro de encaje azul
-Spaniel de picardía azul
+spaniel de picardía azul
 corredor azul
 tiburón azul
 alionín
@@ -252,7 +252,7 @@ ballena azul
 pulpo de anillos azules
 atún rojo
 mojarra azul
-Coonhound Bluetick
+coonhound bluetick
 boas
 gato montés
 boboenlace
@@ -262,7 +262,7 @@ terrier boglen
 boiga
 anaconda boliviana
 perro boloñesa
-Bombay
+bombay
 bongó
 pescado bonito
 tiburón cabeza de bonete
@@ -274,8 +274,8 @@ collie de la frontera
 terrier fronterizo
 bordillo
 borracho
-orangután de Borneo
-elefante de Borneo
+orangután de borneo
+elefante de borneo
 terrier de boston
 delfín nariz de botella
 bouvier des flandres
@@ -295,7 +295,7 @@ serpiente ciega brahminy
 terrier brasileño
 pitón de bredl
 madera británica
-Bretaña
+bretaña
 brontosaurio
 tiburón ballenero de bronce
 brookesia micra
@@ -311,7 +311,7 @@ grifón de bruselas
 periquito
 búfalo
 tiburón toro
-Bull terrier
+bull terrier
 trucha toro
 buldog
 rana mugidora
@@ -399,13 +399,13 @@ perro crestado chino
 gansos chinos
 pez espátula chino
 shar-pei chino
-Chinook
+chinook
 salmón chinook
 pinguino barbijo
 ardilla listada
 chipoo
 gorrión astillado
-Chiweenie
+chiweenie
 chorlito
 chow chow
 pastor chow
@@ -425,7 +425,7 @@ pez cobia
 cobras
 cockalero
 cacatúa
-Cocker
+cocker
 cucaracha
 bacalao
 polilla de la manzana
@@ -456,12 +456,12 @@ corgipoo
 corcho
 pastor corman
 gato rex de maíz
-rex de Cornualles
+rex de cornualles
 serpiente de maíz
 algodón de tulear
 tití cabeciblanco
 boca de algodón
-Puma
+puma
 vaca
 coyote
 cangrejo
@@ -472,7 +472,7 @@ grua
 pez mojarra
 geco crestado
 pinguino con cresta
-Grillo
+grillo
 cocodrilo
 zorro cruzado
 gorila de río cruzado
@@ -524,7 +524,7 @@ garrapata de perro
 dogo argentino
 dogo de burdeos
 delfín
-Burro
+burro
 dorgi
 tonto
 lirón
@@ -565,14 +565,14 @@ ardilla gris oriental
 mamba verde oriental
 serpiente índigo oriental
 gorila oriental de tierras bajas
-Phoebe oriental
+phoebe oriental
 corredor del este
 serpiente rata oriental
 rata de bosque oriental
 equidna
 loro eclectus
 rana comestible
-Anguila
+anguila
 cobra egipcia
 ganso egipcio
 mau egipcio
@@ -580,7 +580,7 @@ elando
 elasmosaurio
 elastomio
 bagre eléctrico
-Anguila electrica
+anguila electrica
 charrán elegante
 elefante
 elefante marino
@@ -590,7 +590,7 @@ monitor de árbol esmeralda
 pingüino emperador
 tití emperador
 emú
-Bulldog inglés
+bulldog inglés
 cocker spaniel ingles
 golden retriever inglés crema
 sabueso ingles
@@ -638,7 +638,7 @@ perro de aguas de campo
 serpiente feroz
 fila brasilero
 aleta de ballena
-perro de Pomerania finlandés
+perro de pomerania finlandés
 anguila de fuego
 salamandra de fuego
 sapo vientre de fuego
@@ -669,13 +669,13 @@ zorro
 serpientes zorro
 ardilla zorro
 foxterrier
-Bulldog francés
+bulldog francés
 frenchton
 frenético
 cocodrilo de agua dulce
 anguila de agua dulce
 medusas de agua dulce
-Pájaro de fragata
+pájaro de fragata
 lagarto con volantes
 tiburón con volantes
 rana
@@ -683,7 +683,7 @@ pez sapo
 murciélago de la fruta
 mosca de la fruta
 piel de foca
-víbora de Gabón
+víbora de gabón
 pingüino de galápagos
 tiburón galápagos
 tortuga galápagos
@@ -704,20 +704,20 @@ guia pastor aleman
 pastor alemán
 pastor alemán
 braco alemán de pelo corto
-perro de Pomerania aleman
+perro de pomerania aleman
 gavial
 bagre fantasma
 cangrejo fantasma
 caracol gigante africano
 armadillo gigante
-Almeja gigante
+almeja gigante
 polilla leopardo gigante
 oso panda gigante
 salamandra gigante
 schnauzer gigante
 schnoodle gigante
 gibón
-monstruo Gila
+monstruo gila
 jirafa
 rana de cristal
 lagarto de cristal
@@ -740,7 +740,7 @@ perro perdiguero de oro
 santo dorado
 pastor dorado
 zorro volador de corona dorada
-Doodle dorado
+doodle dorado
 pez de colores
 rana goliat
 pez tigre goliat
@@ -762,7 +762,7 @@ zorro gris
 rana de árbol gris
 gran garza azul
 gran papamoscas crestado
-Gran Danés
+gran danés
 gran danoodle
 gran garceta
 gran tiburón martillo
@@ -780,8 +780,8 @@ serpiente rata verde
 serpiente verde
 rana de árbol verde
 pitón de árbol verde
-perro de Groenlandia
-tiburón de Groenlandia
+perro de groenlandia
+tiburón de groenlandia
 garza gris
 lémur ratón gris
 tiburón gris de arrecife
@@ -790,27 +790,27 @@ galgo
 buitre leonado
 condado de griffon
 oso grizzly
-Groenendael
+groenendael
 serpiente de tierra
 marmota
-marmota de América
+marmota de américa
 agrupador
 queja
-gallina de Guinea
+gallina de guinea
 conejillo de indias
 guppy
 serpiente habu
 eglefino
 pez bruja
-Hipogloso
-Tiburon martillo
+hipogloso
+tiburon martillo
 hámster
 foca de puerto
 bagre cabeza dura
 liebre
 serpiente arlequín
 foca arpa
-Águila arpía
+águila arpía
 aguilucho
 halcón harris
 bichón habanero
@@ -828,7 +828,7 @@ cangrejo ermitaño
 garza
 arenque
 ganado de las tierras altas
-Himalaya
+himalaya
 hipopótamo
 hipopótama
 murciélago canoso
@@ -842,7 +842,7 @@ oropéndola encapuchada
 sello encapuchado
 serpiente marina de nariz ganchuda
 abubilla
-Horgi
+horgi
 tiburon cuerno
 cálao
 víbora cornuda
@@ -891,7 +891,7 @@ polilla de la harina india
 serpiente índigo
 tigre de indochina
 indri
-Taipan interior
+taipan interior
 insecto
 insectos
 garabato irlandés
@@ -915,12 +915,12 @@ escarabajo japonés
 barbilla japonesa
 macaco japonés
 serpiente rata japonesa
-perro de Pomerania japones
+perro de pomerania japones
 ardilla japonesa
 terrier japonés
 rinoceronte de java
 javanés
-Medusa
+medusa
 gerbo
 escarabajo joya
 cangrejo jonás
@@ -932,18 +932,18 @@ kai ken
 kakapo
 kangal
 canguro
-Rata canguro
+rata canguro
 tucán pico de quilla
 quilla
 keeshond
-boa de arena de Kenia
+boa de arena de kenia
 terrier azul de kerry
 cernícalo
 salmón keta
 ciervo clave
 cabra kiko
 asesino
-Orca
+orca
 sanguijuela roja gigante de kinabalu
 cabra más amable
 cobra real
@@ -951,7 +951,7 @@ cangrejo real
 pingüino real
 serpiente rata rey
 rey pastor
-Rey Serpiente
+rey serpiente
 buitre rey
 martín pescador
 kinkajú
@@ -964,7 +964,7 @@ klipspringer
 coala
 kodkod
 pez koi
-Dragón de Komodo
+dragón de komodo
 kooikerhondje
 cucaburra
 koolie
@@ -977,7 +977,7 @@ labahoula
 laboratoriomaraner
 labradane
 labradoodle
-Labrador retriever
+labrador retriever
 labraheeler
 mariquita
 esturión de lago
@@ -994,7 +994,7 @@ tortuga laúd
 sanguijuela
 leming
 lémur
-Leonberger
+leonberger
 leopardo
 gato leopardo
 rana leopardo
@@ -1039,14 +1039,14 @@ boa del árbol de madagascar
 pinguino de magallanes
 gusano
 urraca
-Mahi mahi
+mahi mahi
 pez delfín
 maiasaura
 maine coon
 civeta malaya
 krait malayo
 tigre malayo
-Malchi
+malchi
 pato real
 malteagle
 maltés
@@ -1059,13 +1059,13 @@ manatí
 terrier de manchester
 serpiente rata mandarina
 mandril
-Lobo amelenado
+lobo amelenado
 serpiente de manglar
-Manta raya
+manta raya
 rana mantella
 cigüeña marabú
 zorro de mármol
-Iguana marina
+iguana marina
 sapo marino
 marjor
 tití
@@ -1080,7 +1080,7 @@ efímera
 meagle
 cochinilla
 suricata
-Megalania
+megalania
 megalodón
 tiburón boca ancha
 megaterio
@@ -1109,7 +1109,7 @@ mojarra
 serpiente de cascabel de mojave
 mola mola
 pez luna del océano
-Topo
+topo
 grillo topo
 serpiente topo
 muchacha
@@ -1134,12 +1134,12 @@ pájaro azul de la montaña
 perro de montaña
 pelea de montaña
 gorila de montaña
-León de montaña
-Paloma de luto
+león de montaña
+paloma de luto
 ratón
 mozambique cobra escupidora
 serpiente de barro
-Mudi
+mudi
 cachorro de barro
 mula
 serpiente mulga
@@ -1147,7 +1147,7 @@ muntjac
 buey almizclero
 rata almizclera
 serpiente mussurana
-Muttaburrasaurio
+muttaburrasaurio
 pájaro myna
 rata topo desnuda
 narval
@@ -1158,7 +1158,7 @@ nebelung
 aguja
 tetra neón
 mero neptuno
-Terranova
+terranova
 nuevofypoo
 tritón
 paloma nicobar
@@ -1167,7 +1167,7 @@ víbora nocturna
 garza nocturna
 serpiente nocturna
 ruiseñor
-cocodrilo del Nilo
+cocodrilo del nilo
 nilgai
 no nos vemos
 terrier norfolk
@@ -1198,7 +1198,7 @@ okapi
 viejo pastor ingles
 babuino de oliva
 serpiente de mar verde oliva
-Olmo
+olmo
 zarigüeya
 orangután
 curruca corona naranja
@@ -1242,11 +1242,11 @@ pekinés
 pelícano
 corgi gales de pembroke
 pingüino
-Cucaracha de madera de Pensilvania
+cucaracha de madera de pensilvania
 polilla moteada
 pez ángel de menta
 el ciervo de pere david
-Halcón peregrino
+halcón peregrino
 sumador de peringuey
 perro de presa canario
 persa
@@ -1255,7 +1255,7 @@ loro de peset
 loro drácula
 petit basset leonado vendeano
 pequeño garabato dorado
-Faisán
+faisán
 cobra filipina
 forusrhacos
 pitón bola de varios colores
@@ -1304,10 +1304,10 @@ puerco espín
 marsopa
 potoo
 potoroo
-Perrito de las praderas
+perrito de las praderas
 serpiente de cascabel de la pradera
 gamba
-Mantis religiosa
+mantis religiosa
 mono narigudo
 procoptodón
 berrendo
@@ -1320,7 +1320,7 @@ pez globo
 frailecillo
 doguillo
 pugapoo
-Puggle
+puggle
 pugshire
 puma
 pumi
@@ -1343,7 +1343,7 @@ serpiente reina
 quetzal
 quokka
 quoll
-Conejo
+conejo
 mapache
 perro mapache
 serpiente corredora
@@ -1362,13 +1362,13 @@ pinzón rojo
 zorro rojo
 cometa roja
 tarántula de rodilla roja
-Panda rojo
+panda rojo
 serpiente corredora roja
 cobra escupidora roja
-Ardilla roja
+ardilla roja
 boa de cola roja
 boa común
-Lobo rojo
+lobo rojo
 serpiente negra de vientre rojo
 ave quelea de pico rojo
 deslizador de orejas rojas
@@ -1380,7 +1380,7 @@ pez murciélago de labios rojos
 mirlo de alas rojas
 mirlo
 araña de espalda roja
-Coonhound de hueso rojo
+coonhound de hueso rojo
 bagre de cola roja
 tiburón de arrecife
 reno
@@ -1396,25 +1396,25 @@ martín pescador anillado
 serpiente rinkhals
 nutria de río
 tortuga de rio
-Robin
+robin
 cangrejo de roca
 hyrax de roca
 pitón de roca
 pescado de roca
 pingüino penacho amarillo
 roedores
-Corzo
+corzo
 gallo
 picogrueso de pecho rosa
 espátula rosada
 boa rosada
-Rottsky
+rottsky
 rottweiler
 serpiente verde áspera
 pinguino real
 boa de goma
 colibrí garganta de rubí
-Vuelvepiedras rojizo
+vuelvepiedras rojizo
 víbora de russell
 terrier russell
 perro oso ruso
@@ -1422,18 +1422,18 @@ azul ruso
 tortuga rusa
 cabra saanen
 perro lobo de saarloos
-Tigre dientes de sable
+tigre dientes de sable
 sable
 pastor aleman negro sable
 hurón sable
-Saiga
+saiga
 san berdoodle
-San Bernardo
+san bernardo
 santo pastor
 salamandra
 salmón
 tiburón salmón
-Saluki
+saluki
 sambar
 samoyedo
 serpiente de liga de san francisco
@@ -1441,7 +1441,7 @@ cangrejo de arena
 lagarto de arena
 tiburón tigre de arena
 víbora de arena
-Saola
+saola
 sardinas
 geco satánico de cola de hoja
 sauropoda
@@ -1452,7 +1452,7 @@ pez sierra
 serpiente rey escarlata
 guacamaya roja
 salteado
-Schneagle
+schneagle
 schnoodle
 órix de cuernos de cimitarra
 escorpión
@@ -1462,15 +1462,15 @@ rana escroto
 esculpir
 anémona de mar
 dragón marino
-Águila marina
-León marino
+águila marina
+león marino
 nutria de mar
 cucaracha de mar
 babosa de mar
 ascidia
 tortuga marina
 erizo de mar
-Gaviota
+gaviota
 caballo de mar
 caballito de mar
 sello
@@ -1485,7 +1485,7 @@ garabato de ovejas
 garabato
 shepkita
 shepweiler
-Shiba Inu
+shiba inu
 mierda caca
 shih-tzu
 cigüeña picozapato
@@ -1496,10 +1496,10 @@ musaraña
 camarón
 siamés
 siberiano
-Husky siberiano
+husky siberiano
 cabra montés siberiano
 perro perdiguero siberiano
-Tigre siberiano
+tigre siberiano
 siberpoo
 sidewinder
 pollo sedoso
@@ -1532,7 +1532,7 @@ cangrejo de las nieves
 leopardo de nieve
 raqueta de nieve
 liebre de patas blancas
-buho Nevado
+buho nevado
 salmón rojo
 somalí
 gorrión cantor
@@ -1574,12 +1574,12 @@ calamar
 ardilla
 mono ardilla
 pez ardilla
-elefante de Sri Lanka
+elefante de sri lanka
 stabyhoun
-Staffordshire Bull Terrier
+staffordshire bull terrier
 escarabajo ciervo
 schnauzer estándar
-Topo de nariz estrella
+topo de nariz estrella
 estrella de mar
 pez astrónomo
 salmón trucha arco iris
@@ -1613,16 +1613,16 @@ taco terrier
 taipán
 tomando
 tamaskan
-Espiga
+espiga
 orangután tapanuli
 tapir
 halcón tarántula
 tarbosaurio
 sábalo
 tarsero
-Demonio de Tasmania
-Tigre de Tasmania
-buho Carabo
+demonio de tasmania
+tigre de tasmania
+buho carabo
 oso de peluche hámster
 peluche roosevelt terrier
 pez telescopio
@@ -1651,9 +1651,9 @@ perro de aguas tibetano
 terrier tibetano
 garrapata
 tiffany
-Tigre
+tigre
 escarabajo tigre
-Piel de tigre
+piel de tigre
 serpiente de cascabel tigre
 salamandra tigre
 tiburón tigre
@@ -1682,11 +1682,11 @@ trucha
 mosca tsetse
 tuátara
 atún
-Turquía
+turquía
 angora turca
 tortugas
 serpiente ramita
-tirano-saurio Rex
+tirano-saurio rex
 uakarí
 uguisu
 ardilla de tierra
@@ -1701,11 +1701,11 @@ murciélago vampiro
 calamar vampiro
 vaquita
 velociraptor
-Venus atrapamoscas
+venus atrapamoscas
 mono verde
 vicuña
 serpiente de vid
-Vinagre
+vinagre
 víbora
 tiburón víbora
 cazón
@@ -1723,10 +1723,10 @@ albatros errante
 jabalí
 avispa
 búfalo de agua
-Dragón de agua
+dragón de agua
 campañol de agua
 comadreja
-Tejedor de aves
+tejedor de aves
 weimaraner
 weimardoodle
 bagre wels
@@ -1752,18 +1752,18 @@ hurón blanco
 hurones albinos
 rinoceronte blanco
 tiburón blanco
-Tigre blanco
+tigre blanco
 capuchino de cara blanca
 ciervo de cola blanca
 águila de cola blanca
 pescadilla
 gritar
 grulla blanca
-Jabalí
+jabalí
 ñu
 curruca de sauce
 fox terrier de alambre
-Grifón señalador de pelo duro
+grifón señalador de pelo duro
 lobo
 anguila lobo
 serpiente lobo
@@ -1780,7 +1780,7 @@ cochinilla
 araña cochinilla
 pájaro carpintero
 rata de bosque
-Mamut lanudo
+mamut lanudo
 mono lanudo
 rinoceronte lanudo
 gusano
