@@ -15,11 +15,16 @@ def translate_csv():
     '''
         Translates existing english words lists from ens.vision
         into spanish. Can work for any language but src/dest hardcoded atm.
-        Saves text file of clean translated words in /tests/fixtures/*.txt. 
-        Place csv files in /collections/*.csv.
+
+        Saves text file of cleaned translated words in /tests/fixtures/*.txt.
+        Text files will have file name of parent csv file. 
+
+        Place csv files in /collections/*.csv. Reads all csv files at
+        location.
+
         https://github.com/Zimtente/ens-collections/tree/main/collections.
 
-        CMD EX: $ run-csv translated-words-cleaned.txt
+        CMD EX: $ run-csv
     '''
     translator = Translator()
     csv_files = get_csv_file_paths(csv_files=CSV_FILE_LOCATION)
@@ -28,7 +33,7 @@ def translate_csv():
     # Read csv, create text file of cleaned words from csv file.
     for file in csv_files:
         # Create a file for cleaned translated words.
-        f = open(f"{FIXTURE_PATH}/{sys.argv[1]}", 'w')
+        f = open(f"{FIXTURE_PATH}/{file.split('/')[-1]}.txt", 'w')
         print(f"Working on translating {file.split('/')[-1]} into spanish...")
         
         # Read existing ens.vision csv file.
@@ -61,15 +66,16 @@ def translate_txt():
         CMD EX: $ run-txt english-animals.txt spanish-animals.txt spanish-animals-nospaces.txt
     '''
     try:
-        CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}" # 'tests/fixtures/english-animals.txt'
-        TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}" # 'tests/fixtures/spanish-animals.txt'
-        TRANSALTED_CLEAN_NOSPACES = f"{FIXTURE_PATH}/{sys.argv[3]}" # 'tests/fixtures/spanish-animals-nospaces.txt'
+        CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}"
+        TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}"
+        TRANSALTED_CLEAN_NOSPACES = f"{FIXTURE_PATH}/{sys.argv[3]}"
     except IndexError as ie:
         print(f"CMD: `$ run-txt file1.txt file2.txt file3.txt`")
         sys.exit("Invalid run command.")
 
     translator = Translator()
     lines = []
+
     # Read from clean words file.
     with open(CLEAN_WORDS_FILE, 'r') as f:
         lines = f.readlines()
