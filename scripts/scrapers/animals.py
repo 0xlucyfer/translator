@@ -17,7 +17,7 @@ def run_scraper():
         Ex.          $ animals 'cleaned-animals.txt`
         sys.argv[2]: location to save cleaned animal words with
                      no spaces - txt. This makes the words hash ready.
-        Ex.          $ animals 'cleaned-animals.txt` 'cleaned-animals-nospaces.txt`
+        Ex.          $ animals cleaned-animals.txt cleaned-animals-nospaces.txt
     '''
     add = [
         'serpent',
