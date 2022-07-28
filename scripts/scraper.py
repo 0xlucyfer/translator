@@ -4,18 +4,11 @@ from bs4 import BeautifulSoup
 from scripts.settings import (
     FIXTURE_PATH
 )
-from scripts.utils import (
-    load_fixture
-)
 
 
-# ANIMALS_PATTERN = r"<a href=.*>(.*)</a>"
-
-# import pdb; pdb.set_trace()
-
-## As time goes on the community might
+## As time goes on the community will add/remove/ammend animals on the list.
 def run_scraper():
-    missing = [
+    add = [
         'serpent',
         'black widow',
         'antilope',
@@ -26,13 +19,14 @@ def run_scraper():
         'sea snake',
         'condor',
         'panda',
-        'cacatua'
+        'cacatua',
+        'dragon',
+        'hydra'
     ]
     remove = [
         'asp',
         'american wirehair traits: what to know before you buy',
-        'sphynx traits: what to know before you buy',
-        ''
+        'sphynx traits: what to know before you buy'
     ]
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
@@ -67,7 +61,7 @@ def run_scraper():
     for element in extracted:
         f.write(element)
         f.writelines('\n')
-    for element in missing:
+    for element in add:
         f.write(element)
         f.writelines('\n')
     f.close()
@@ -77,7 +71,7 @@ def run_scraper():
     for element in extracted:
         f.write(element.replace(" ", ""))
         f.writelines('\n')
-    for element in missing:
+    for element in add:
         f.write(element.replace(" ", ""))
         f.writelines('\n')
     f.close()

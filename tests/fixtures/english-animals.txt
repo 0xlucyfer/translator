@@ -1823,3 +1823,5 @@ sea snake
 condor
 panda
 cacatua
+dragon
+hydra

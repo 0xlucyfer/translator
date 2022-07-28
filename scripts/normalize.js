@@ -6,7 +6,7 @@ try {
     var es_nouns = fs.readFileSync('tests/fixtures/es-nouns.txt').toString().split("\n");
     var es_verbs = fs.readFileSync('tests/fixtures/es-verbs.txt').toString().split("\n");
     var en_animals = fs.readFileSync('tests/fixtures/english-animals-nospaces.txt').toString().split("\n");
-    console.log(en_animals)
+    // console.log(en_animals)
 } catch(e) {
     console.log('Error:', e.stack);
 }
