@@ -3,8 +3,10 @@
 I should have unit tests for this but I dont.
 I do test everything manually from my terminal using import pdb; pdb.set_trace().
 
-Clean list = lower-cased, striped of white space on R/L, & alphabetical (a-z) desc.
+#### Clean List
+Lower cased & stripped of white spaces on both sides.
 
+#### Instructions
 - Clone
 - Run `python3 -m venv venv`.
 - Run `. venv/bin/activate`.
@@ -13,10 +15,10 @@ Clean list = lower-cased, striped of white space on R/L, & alphabetical (a-z) de
 - Run `run` to execute script.
 
 ### Commands
-- Run `clean spanish-animals.txt ` creates a clean list - and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
+- Run `clean spanish-animals.txt ` creates a clean list and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
 - Run `run-csv` to translate existing ens.vision csv files into another language.
-- Rub `run-txt english-animals.txt spanish-animals.txt spanish-animals-nospaces.txt` to translate a cleaned text file into another language, and produce a hash ready file.
-- Run `animals cleaned-animals.txt cleaned-animals-nospaces.txt`  to scrape animals & produce a hash ready file.
+- Rub `run-txt english-animals.txt spanish-animals.txt` to translate an existing text file into a new cleaned translated file.
+- Run `animals cleaned-animals.txt cleaned-animals-nospaces.txt` to scrape animals & produce a hash ready file.
 
 
 #### working on starwars characters

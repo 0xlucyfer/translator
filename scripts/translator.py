@@ -102,4 +102,5 @@ def translate_txt():
     with open(TRANSLATED_CLEAN_WORDS_FILE, 'r') as f:
         lines = f.readlines()
 
+    # Feed cleaned file, creates alphabetical + no spaces text files.
     create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)

@@ -3,42 +3,58 @@ import sys
 from pprint import pprint
 from bs4 import BeautifulSoup
 from scripts.settings import (
-    FIXTURE_PATH
+    FIXTURE_PATH,
+    create_ordered_alpha_txt_files
 )
 
+ADD = [
+    'serpent',
+    'black widow',
+    'antilope',
+    'bass',
+    'manturon',
+    'himalayan bear',
+    'orangutan',
+    'sea snake',
+    'condor',
+    'panda',
+    'cacatua',
+    'dragon',
+    'hydra',
+    'leprechauns'
+    'cyclops'
+    'ogre'
+    'goblins'
+    'goblin'
+    'fairies'
+    'fairy'
+    'hadas'
+    'gorgon'
+    'mermaid'
+    'minotaur'
+    'centaur'
+    'centaurs'
+    'fauns'
+    'faun'
+    'werewolf'
+    'loch ness monster'
+    'griffin'
+]
+
+REMOVE = [
+    'asp',
+    'american wirehair traits: what to know before you buy',
+    'sphynx traits: what to know before you buy'
+]
 
 ## As time goes on the community will add/remove/ammend animals on the list.
 def run_scraper():
     '''
         Extracts all animals from "https://a-z-animals.com/animals/".
-        Creates/Writes two files. Sys.arg1
         
-        sys.argv[1]: location to save cleaned animal words - txt.
+        sys.argv[1]: location to save cleaned animal words.
         Ex.          $ animals 'cleaned-animals.txt`
-        sys.argv[2]: location to save cleaned animal words with
-                     no spaces - txt. This makes the words hash ready.
-        Ex.          $ animals cleaned-animals.txt cleaned-animals-nospaces.txt
     '''
-    add = [
-        'serpent',
-        'black widow',
-        'antilope',
-        'bass',
-        'manturon',
-        'himalayan bear',
-        'orangutan',
-        'sea snake',
-        'condor',
-        'panda',
-        'cacatua',
-        'dragon',
-        'hydra'
-    ]
-    remove = [
-        'asp',
-        'american wirehair traits: what to know before you buy',
-        'sphynx traits: what to know before you buy'
-    ]
 
     URL = "https://a-z-animals.com/animals/"
     page = requests.get(URL)
@@ -67,7 +83,10 @@ def run_scraper():
                     link = ((link[1].replace(')', "")).strip()).lower()
                     extracted.append(link)
 
-    # Save animals into text file.
+    # Have all animals, cleaned.
+    extracted.extend(ADD)
+
+    # Save cleaned animals into text file.
     try:
         f = open(f"{FIXTURE_PATH}/{sys.argv[1]}", 'w')
     except IndexError as ie:
@@ -77,22 +96,7 @@ def run_scraper():
     for element in extracted:
         f.write(element)
         f.writelines('\n')
-    for element in add: # Add missing animals.
-        f.write(element)
-        f.writelines('\n')
     f.close()
 
-    try:
-        # Save cleaned animals words without spaces for correct ens hashes.
-        f = open(f"{FIXTURE_PATH}/{sys.argv[2]}", 'w')
-    except IndexError as ie:
-        print(f"CMD: `$ animals file1.txt file2-nospaces.txt`")
-        sys.exit("Invalid run command.")
-
-    for element in extracted:
-        f.write(element.replace(" ", ""))
-        f.writelines('\n')
-    for element in add:
-        f.write(element.replace(" ", ""))
-        f.writelines('\n')
-    f.close()
+    # Feed cleaned file, creates alphabetical + no spaces text files.
+    create_ordered_alpha_txt_files(f"{FIXTURE_PATH}/{sys.argv[1]}")

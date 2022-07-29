@@ -62,3 +62,6 @@ def create_ordered_alpha_txt_files(file = None):
     f.close()
 
 # create_ordered_alpha_txt_file('spanish-verbs')
+x = ['leprechauns', 'cyclops', 'ogre', 'goblins', 'goblin', 'fairies', 'fairy', 'hadas', 'gorgon', 'mermaid', 'minotaur', 'centaur', 'centaurs', 'fauns', 'faun', 'werewolf', 'loch ness monster', 'griffin']
+for y in x:
+    print(y)
