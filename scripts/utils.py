@@ -56,4 +56,4 @@ def create_ordered_alpha_txt_file(file = None):
 
 
 
-create_ordered_alpha_txt_file('spanish-verbs')
+# create_ordered_alpha_txt_file('spanish-verbs')
