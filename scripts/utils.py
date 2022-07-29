@@ -30,9 +30,9 @@ def get_csv_file_paths(csv_files: str = None) -> List[str]:
     return glob.glob(os.path.join(path, "*.csv"))
 
 
-def alpha_order_list():
+def create_ordered_alpha_txt_file(file = None):
     # Read from cleaned transated words file.
-    with open(f"{FIXTURE_PATH}/spanish-verbs.txt", 'r') as f:
+    with open(f"{FIXTURE_PATH}/{file}.txt", 'r') as f:
         lines = f.readlines()
 
     clean = []
@@ -42,13 +42,13 @@ def alpha_order_list():
     # import pdb; pdb.set_trace()
 
     
-    f = open(f"{FIXTURE_PATH}/spanish-verbs-ordered.txt", 'w')
+    f = open(f"{FIXTURE_PATH}//{file}-ordered.txt", 'w')
     for word in clean:
         f.write(word)
         f.writelines('\n')
     f.close()
 
-    f = open(f"{FIXTURE_PATH}/spanish-verbs-ordered-nospaces.txt", 'w')
+    f = open(f"{FIXTURE_PATH}//{file}-ordered-nospaces.txt", 'w')
     for word in clean:
         f.write(word.replace(' ', ''))
         f.writelines('\n')
@@ -56,4 +56,4 @@ def alpha_order_list():
 
 
 
-alpha_order_list()
+create_ordered_alpha_txt_file('spanish-verbs')
