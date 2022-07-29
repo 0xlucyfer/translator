@@ -48,20 +48,15 @@ def create_ordered_alpha_txt_files(file = None):
     clean.sort()
     
     # Create alphabetical ordered text file.
-    f = open(f"{FIXTURE_PATH}//{file}-ordered.txt", 'w')
+    f = open(f"{FIXTURE_PATH}/{file}-ordered.txt", 'w')
     for word in clean:
         f.write(word)
         f.writelines('\n')
     f.close()
 
     # Create no spaces files from alphabetical file.
-    f = open(f"{FIXTURE_PATH}//{file}-ordered-nospaces.txt", 'w')
+    f = open(f"{FIXTURE_PATH}/{file}-ordered-nospaces.txt", 'w')
     for word in clean:
         f.write(word.replace(' ', ''))
         f.writelines('\n')
     f.close()
-
-# create_ordered_alpha_txt_file('spanish-verbs')
-x = ['leprechauns', 'cyclops', 'ogre', 'goblins', 'goblin', 'fairies', 'fairy', 'hadas', 'gorgon', 'mermaid', 'minotaur', 'centaur', 'centaurs', 'fauns', 'faun', 'werewolf', 'loch ness monster', 'griffin']
-for y in x:
-    print(y)
