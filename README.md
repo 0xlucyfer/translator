@@ -17,7 +17,7 @@ Lower cased & stripped of white spaces on both sides.
 ### Commands
 - Run `clean spanish-animals.txt ` - creates a clean list and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
 - Run `run-csv` to translate existing ens.vision csv files into another language.
-- Rub `run-txt english-animals.txt spanish-animals.txt` to translate an existing text file into a new cleaned translated file.
+- Rub `run-txt english-animals.txt spanish-animals.txt` to translate an existing clean text file into a new cleaned translated file.
 - Run `animals cleaned-animals.txt` to scrape animals & produce a hash ready file.
 
 
