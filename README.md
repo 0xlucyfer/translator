@@ -1,6 +1,6 @@
 # translator
 
-I should have unit tests for this but I down.
+I should have unit tests for this but I dont.
 I do test everything manually from my terminal using import pdb; pdb.set_trace().
 
 

@@ -33,6 +33,7 @@ alaskanpollock
 alaskanshepherd
 albacoretuna
 albatross
+albinoferrets
 aldabragianttortoise
 alligator
 alligatorgar
@@ -42,9 +43,9 @@ alpinedachsbracke
 alpinegoat
 alusky
 amargasaurus
+amarok
 amazonparrot
 amazonriverdolphin
-pinkdolphin
 amazontreeboa
 ambrosiabeetle
 americanalsatian
@@ -78,6 +79,7 @@ ant
 antarcticscaleworm
 anteater
 antelope
+antilope
 ape
 appenzellerdog
 appleheadchihuahua
@@ -148,6 +150,7 @@ bandedpalmcivet
 bandedwatersnake
 bandicoot
 banjocatfish
+banshee
 barb
 barbet
 barnowl
@@ -157,9 +160,11 @@ barracuda
 barramundifish
 barredowl
 basenjidog
+basilisk
 basilisklizard
 basilosaurus
 baskingshark
+bass
 bassador
 bassetfauvedebretagne
 bassethound
@@ -188,6 +193,7 @@ bedlingtonterrier
 bee
 beefalo
 beetle
+behemoth
 belgianshepherd
 belgiantervuren
 belugasturgeon
@@ -198,11 +204,11 @@ bernedoodle
 bernesemountaindog
 berneseshepherd
 bettafish
-siamesefightingfish
 bichir
 bichonfrise
 bichpoo
 biewerterrier
+bigfoot
 bighornsheep
 bilby
 binturong
@@ -218,6 +224,7 @@ blackratsnake
 blackrhinoceros
 blackrussianterrier
 blackwasp
+blackwidow
 blackwidowspider
 blackwitchmoth
 black-cappedchickadee
@@ -254,8 +261,10 @@ boas
 bobcat
 bobolink
 boelen’spython
+bogeyman
 boggle
 boglenterrier
+bogyman
 boiga
 boliviananaconda
 bolognesedog
@@ -265,6 +274,7 @@ bonitofish
 bonnetheadshark
 bonobo
 booby
+boogeyman
 boomslang
 borador
 bordercollie
@@ -324,6 +334,7 @@ bushmastersnake
 butterfly
 butterflyfish
 cabbagemoth
+cacatua
 cactusmoth
 cactusmouse
 caecilian
@@ -340,6 +351,7 @@ canadawarbler
 canadianeskimodog
 canadianhorse
 canecorso
+canebrakerattlesnake
 cantil
 capelion
 capybara
@@ -368,15 +380,20 @@ cavalierkingcharlesspaniel
 cavapoo
 cavebear
 cavelion
+ccylla
 cecropiamoth
+centaur
+centaurs
 centipede
 centralrangestaipan
 ceratosaurus
+cerberus
 ceskyfousek
 ceskyterrier
 chameleon
 chamois
 chartreux
+charybdis
 cheagle
 checkeredgartersnake
 cheetah
@@ -387,6 +404,7 @@ chickensnake
 chihuahua
 children’spython
 chimaera
+chimera
 chimpanzee
 chinchilla
 chinesealligator
@@ -406,6 +424,7 @@ chorkie
 chowchow
 chowshepherd
 christmasislandredcrab
+chupacabra
 cicada
 cichlid
 cinereousvulture
@@ -433,6 +452,7 @@ collett’ssnake
 collie
 colossalsquid
 cometmoth
+commonboa
 commonbuzzard
 commoneuropeanadder
 commonfrog
@@ -442,6 +462,7 @@ commonloon
 commonraven
 commontoad
 compsognathus
+condor
 congereel
 congosnake
 cookiecuttershark
@@ -454,8 +475,8 @@ corgipoo
 corkie
 cormanshepherd
 cornrexcat
-cornishrex
 cornsnake
+cornishrex
 cotondetulear
 cotton-toptamarin
 cottonmouth
@@ -482,6 +503,7 @@ cuckoo
 curlycoatedretriever
 cuscus
 cuttlefish
+cyclops
 czechoslovakianwolfdog
 dachsador
 dachshund
@@ -495,8 +517,8 @@ dark-eyedjunco
 darwin’sfox
 darwin’sfrog
 deathadder
-death’sheadcockroach
 deathwatchbeetle
+death’sheadcockroach
 deer
 deerheadchihuahua
 deertick
@@ -519,9 +541,11 @@ dobermanpinscher
 dodo
 dog
 dogtick
+dogfish
 dogoargentino
 doguedebordeaux
 dolphin
+dolphinfish
 donkey
 dorgi
 dorkie
@@ -531,6 +555,8 @@ douc
 doxiepoo
 doxle
 dracovolanslizard
+draculaparrot
+dragon
 dragonfish
 dragonfly
 drever
@@ -616,6 +642,8 @@ europeanrobin
 europeanwildcat
 eveningbat
 eyelashviper
+fairies
+fairy
 falcon
 fallowdeer
 falsecobra
@@ -624,8 +652,11 @@ falsekillerwhale
 falsewatercobra
 falsewidowspider
 fangtooth
+faun
+fauns
 feist
 fennecfox
+fenrir
 fer-de-lancesnake
 ferret
 ferruginoushawk
@@ -634,6 +665,7 @@ fieldspaniel
 fiercesnake
 filabrasileiro
 finwhale
+fingermonkey
 finnishspitz
 fireeel
 firesalamander
@@ -651,7 +683,6 @@ floridawoodscockroach
 flounder
 flowerhornfish
 flukefish
-summerflounder
 fly
 flyingfish
 flyinglemur
@@ -723,7 +754,9 @@ glowworm
 gnat
 goat
 goberian
+goblin
 goblinshark
+goblins
 goldador
 goldendox
 goldenlancehead
@@ -747,6 +780,7 @@ gopher
 gophersnake
 gophertortoise
 gordonsetter
+gorgon
 gorilla
 goshawk
 gouldianfinch
@@ -783,13 +817,13 @@ greymouselemur
 greyreefshark
 greyseal
 greyhound
+griffin
 griffonvulture
 griffonshire
 grizzlybear
 groenendael
 groundsnake
 groundhog
-woodchuck
 grouper
 grouse
 guineafowl
@@ -806,6 +840,7 @@ hardheadcatfish
 hare
 harlequinsnake
 harpseal
+harpy
 harpyeagle
 harrier
 harrishawk
@@ -825,6 +860,8 @@ heron
 herring
 highlandcattle
 himalayan
+himalayanbear
+hippogriff
 hippopotamus
 hoarybat
 hognosesnake
@@ -866,6 +903,7 @@ husky
 huskyjack
 huskydoodle
 hyaenodon
+hydra
 hyena
 ibex
 ibis
@@ -900,6 +938,7 @@ jacana
 jackrussell
 jackabee
 jackal
+jackalope
 jackdaw
 jackrabbit
 jackson’schameleon
@@ -965,6 +1004,7 @@ kookaburra
 koolie
 koribustard
 krait
+kraken
 krill
 kudu
 kuvasz
@@ -998,12 +1038,16 @@ leopardlizard
 leopardseal
 leopardshark
 leopardtortoise
+leprechaun
+leprechauns
+leviathan
 lhasaapso
 lhasapoo
 liger
+linnaeus’stwo-toedsloth
 lion
-lion’smanejellyfish
 lionfish
+lion’smanejellyfish
 littlebrownbat
 littlepenguin
 livyatan
@@ -1012,6 +1056,7 @@ lizardfish
 llama
 loach
 lobster
+lochnessmonster
 locust
 lonestartick
 long-earedowl
@@ -1035,7 +1080,6 @@ magellanicpenguin
 maggot
 magpie
 mahimahi
-dolphinfish
 maiasaura
 mainecoon
 malayancivet
@@ -1058,6 +1102,7 @@ manedwolf
 mangrovesnake
 mantaray
 mantellafrog
+manturon
 maraboustork
 marblefox
 marineiguana
@@ -1080,10 +1125,10 @@ megalodon
 megamouthshark
 megatherium
 mekonggiantcatfish
+mermaid
 mexicanalligatorlizard
 mexicanblackkingsnake
 mexicaneagle
-northerncrestedcaracara
 mexicanfree-tailedbat
 mexicanmolelizard
 microraptor
@@ -1098,12 +1143,12 @@ miniaturehusky
 miniaturepinscher
 mink
 minkewhale
+minotaur
 mississippikite
 moccasinsnake
 mojarra
 mojaverattlesnake
 molamola
-oceansunfish
 mole
 molecricket
 molesnake
@@ -1169,6 +1214,7 @@ norfolkterrier
 northamericanblackbear
 northernalligatorlizard
 northerncardinal
+northerncrestedcaracara
 northernfurseal
 northerninuitdog
 northernwatersnake
@@ -1185,10 +1231,12 @@ numbat
 nurseshark
 nyala
 oaktoad
+oceansunfish
 oceanicwhitetipshark
 ocelot
 octopus
 oenpellipython
+ogre
 okapi
 oldenglishsheepdog
 olivebaboon
@@ -1197,6 +1245,7 @@ olm
 opossum
 orang-utan
 orange-crownedwarbler
+orangutan
 orbweaver
 ornithomimus
 ortolanbunting
@@ -1213,6 +1262,7 @@ pacificsleepershark
 paddlefish
 pademelon
 paintedturtle
+panda
 pangolin
 panther
 papillon
@@ -1233,6 +1283,7 @@ peacockbutterfly
 peacockspider
 peagle
 peekapoo
+pegasus
 pekingese
 pelican
 pembrokewelshcorgi
@@ -1247,11 +1298,11 @@ perrodepresacanario
 persian
 peruvianincaorchid
 pesquet’sparrot
-draculaparrot
 petitbassetgriffonvendéen
 petitegoldendoodle
 pheasant
 philippinecobra
+phoenix
 phorusrhacos
 piedballpython
 piedtamarin
@@ -1263,6 +1314,7 @@ pileatedwoodpecker
 pinemarten
 pinesnake
 pinesnake
+pinkdolphin
 pinkfairyarmadillo
 pipesnake
 pipefish
@@ -1325,7 +1377,6 @@ purplefinch
 pussmoth
 pygmyhippopotamus
 pygmymarmoset
-fingermonkey
 pygmypython
 pygmyshark
 pygoragoat
@@ -1363,7 +1414,6 @@ redracersnake
 redspittingcobra
 redsquirrel
 redtailboa
-commonboa
 redwolf
 red-belliedblacksnake
 red-billedqueleabird
@@ -1410,8 +1460,8 @@ royalpenguin
 rubberboa
 ruby-throatedhummingbird
 ruddyturnstone
-russel’sviper
 russellterrier
+russel’sviper
 russianbeardog
 russianblue
 russiantortoise
@@ -1462,6 +1512,7 @@ sealion
 seaotter
 searoach
 seaslug
+seasnake
 seasquirt
 seaturtle
 seaurchin
@@ -1471,6 +1522,7 @@ seal
 sealyhamterrier
 seiwhale
 senegalparrot
+serpent
 serval
 shark
 sharp-tailedsnake
@@ -1489,6 +1541,7 @@ shortfinmakoshark
 shrew
 shrimp
 siamese
+siamesefightingfish
 siberian
 siberianhusky
 siberianibex
@@ -1544,6 +1597,7 @@ sparrowhawk
 speckledkingsnake
 spectacledbear
 spermwhale
+sphinx
 spider
 spiderballpython
 spidermonkey
@@ -1596,6 +1650,7 @@ sumatranelephant
 sumatranorang-utan
 sumatranrhinoceros
 sumatrantiger
+summerflounder
 sunbear
 sunbeamsnake
 surgeonfish
@@ -1652,7 +1707,6 @@ tigerrattlesnake
 tigersalamander
 tigershark
 timberrattlesnake
-canebrakerattlesnake
 timorpython
 tiretrackeel
 titanoboa
@@ -1680,6 +1734,7 @@ turkey
 turkishangora
 turtles
 twigsnake
+typhon
 tyrannosaurusrex
 uakari
 uguisu
@@ -1687,10 +1742,11 @@ uintagroundsquirrel
 uintatherium
 umbrellabird
 unau
-linnaeus’stwo-toedsloth
+unicorn
 uralowl
 urutusnake
 utonagan
+vampire
 vampirebat
 vampiresquid
 vaquita
@@ -1702,7 +1758,6 @@ vinesnake
 vinegaroon
 viper
 vipershark
-dogfish
 virginislandsdwarfgecko
 vizsla
 volpinoitaliano
@@ -1726,6 +1781,7 @@ weimardoodle
 welscatfish
 welshcorgi
 welshterrier
+werewolf
 westhighlandterrier
 westernblindsnake
 westerndiamondbackrattlesnake
@@ -1743,7 +1799,6 @@ whippet
 whiptaillizard
 whitebutterfly
 whiteferret
-albinoferrets
 whiterhinoceros
 whiteshark
 whitetiger
@@ -1770,6 +1825,7 @@ woodbison
 woodfrog
 woodtick
 woodturtle
+woodchuck
 woodlouse
 woodlousespider
 woodpecker
@@ -1783,6 +1839,7 @@ wrasse
 writingspider
 wroughtironbutterflyfish
 wyomingtoad
+wyvern
 x-raytetra
 xerus
 xoloitzcuintli
@@ -1796,6 +1853,7 @@ yellowspottedlizard
 yellow-belliedseasnake
 yellow-eyedpenguin
 yellowfintuna
+yeti
 yeticrab
 yoranian
 yorkiebichon
@@ -1809,19 +1867,7 @@ zebrashark
 zebrasnake
 zebraspittingcobra
 zebu
+zombie
 zonkey
 zorse
 zuchon
-serpent
-blackwidow
-antilope
-bass
-manturon
-himalayanbear
-orangutan
-seasnake
-condor
-panda
-cacatua
-dragon
-hydra

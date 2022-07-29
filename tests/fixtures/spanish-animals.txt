@@ -1839,3 +1839,38 @@ lobina
 jaguaresa
 pereza
 perezosa
+duendes
+duende
+cíclope
+ogro
+hadas
+hada
+gorgona
+sirena
+minotauro
+centauro
+centauros
+faunos
+fauno
+hombre lobo
+monstruo del lago ness
+grifo
+fénix
+basilisco
+unicornio
+pie grande
+quimera
+zombi
+vampiro
+coco
+esfinge
+hipogrifo
+arpía
+pegaso
+cerbero
+chupacabra
+tifón
+behemot
+escila
+guiverno
+leviatán
