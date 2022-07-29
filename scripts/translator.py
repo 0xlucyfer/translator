@@ -7,7 +7,8 @@ from scripts.settings import (
     CSV_FILE_LOCATION
 )
 from scripts.utils import (
-    get_csv_file_paths
+    get_csv_file_paths,
+    create_ordered_alpha_txt_file
 )
 
 # import pdb; pdb.set_trace()
@@ -63,14 +64,13 @@ def translate_txt():
         Reads a cleaned english text file, translates to spanish,
         and produces a hash ready text file of translations.
 
-        CMD EX: $ run-txt english-animals.txt spanish-animals.txt spanish-animals-nospaces.txt
+        CMD EX: $ run-txt english-animals.txt spanish-animals.txt
     '''
     try:
         CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}"
         TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}"
-        TRANSALTED_CLEAN_NOSPACES = f"{FIXTURE_PATH}/{sys.argv[3]}"
     except IndexError as ie:
-        print(f"CMD: `$ run-txt file1.txt file2.txt file3.txt`")
+        print(f"CMD: $ run-txt file1.txt file2.txt")
         sys.exit("Invalid run command.")
 
     translator = Translator()
@@ -93,12 +93,3 @@ def translate_txt():
     # Read from cleaned transated words file.
     with open(TRANSLATED_CLEAN_WORDS_FILE, 'r') as f:
         lines = f.readlines()
-
-    # Create hash ready translated words file.
-    f = open(TRANSALTED_CLEAN_NOSPACES, 'w')
-    for line in lines:
-        line = ((line.strip('\n')).replace(" ", "")).lower()
-        f.write(line)
-        f.writelines('\n')
-    f.close()
-
