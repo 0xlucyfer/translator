@@ -39,15 +39,15 @@ def create_ordered_alpha_txt_file(file = None):
     for line in lines:
         clean.append(line.replace('\n', ""))
     clean.sort()
-    # import pdb; pdb.set_trace()
-
     
+    # Create alphabetical ordered text file.
     f = open(f"{FIXTURE_PATH}//{file}-ordered.txt", 'w')
     for word in clean:
         f.write(word)
         f.writelines('\n')
     f.close()
 
+    # Create no spaces files from alphabetical file.
     f = open(f"{FIXTURE_PATH}//{file}-ordered-nospaces.txt", 'w')
     for word in clean:
         f.write(word.replace(' ', ''))
