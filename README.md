@@ -15,10 +15,10 @@ Lower cased & stripped of white spaces on both sides.
 - Run `run` to execute script.
 
 ### Commands
-- Run `clean spanish-animals.txt ` creates a clean list and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
+- Run `clean spanish-animals.txt ` - creates a clean list and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
 - Run `run-csv` to translate existing ens.vision csv files into another language.
 - Rub `run-txt english-animals.txt spanish-animals.txt` to translate an existing text file into a new cleaned translated file.
-- Run `animals cleaned-animals.txt cleaned-animals-nospaces.txt` to scrape animals & produce a hash ready file.
+- Run `animals cleaned-animals.txt` to scrape animals & produce a hash ready file.
 
 
 #### working on starwars characters
