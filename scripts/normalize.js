@@ -21,10 +21,15 @@ function hash(value) {
     console.log(value + "," + tokenId)
 }
 
-es_nouns.forEach(hash);
-console.log('\n\n\n\n');
-es_verbs.forEach(hash);
-console.log('\n\n\n\n');
-en_animals.forEach(hash);
-console.log('\n\n\n\n');
-es_animals.forEach(hash)
+
+const labelHash = utils.keccak256(utils.toUtf8Bytes('microsphere'))
+const tokenId = BigNumber.from(labelHash).toString()
+console.log('microsphere' + "," + tokenId)
+
+// es_nouns.forEach(hash);
+// console.log('\n\n\n\n');
+// es_verbs.forEach(hash);
+// console.log('\n\n\n\n');
+// en_animals.forEach(hash);
+// console.log('\n\n\n\n');
+// es_animals.forEach(hash)

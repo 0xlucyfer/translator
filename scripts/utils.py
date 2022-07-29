@@ -30,7 +30,14 @@ def get_csv_file_paths(csv_files: str = None) -> List[str]:
     return glob.glob(os.path.join(path, "*.csv"))
 
 
-def create_ordered_alpha_txt_file(file = None):
+def create_ordered_alpha_txt_files(file = None):
+    '''
+        Takes a clean text file as input.
+        Clean = lower cased & stripped of white spaces on both sides.
+
+        Creates an ordered (alphabetical) text file & a hash ready
+        no spaces file. 
+    '''
     # Read from cleaned transated words file.
     with open(f"{FIXTURE_PATH}/{file}.txt", 'r') as f:
         lines = f.readlines()
@@ -53,7 +60,5 @@ def create_ordered_alpha_txt_file(file = None):
         f.write(word.replace(' ', ''))
         f.writelines('\n')
     f.close()
-
-
 
 # create_ordered_alpha_txt_file('spanish-verbs')

@@ -8,26 +8,28 @@ from scripts.settings import (
 )
 from scripts.utils import (
     get_csv_file_paths,
-    create_ordered_alpha_txt_file
+    create_ordered_alpha_txt_files
 )
 
 '''
-This file simply translates words and places the translated words
+This file translates words, then writes translated words
 into their own text files.
+Saves text file of cleaned translated words in /tests/fixtures/*.txt.
 '''
 
 
 # import pdb; pdb.set_trace()
 def translate_csv():
     '''
-        Translates existing english words lists from ens.vision
+        Translates existing english word lists from ens.vision
         into spanish. 
-
-        Saves text file of cleaned translated words in /tests/fixtures/*.txt.
-        Text files will have file name of parent csv file.
 
         Place csv files in /collections/*.csv. Reads all csv files at
         location.
+
+        Creates one text file for every csv file found at location.
+        Text files will have file name of parent csv file. Change name
+        to new language.
 
         https://github.com/Zimtente/ens-collections/tree/main/collections.
 
@@ -99,3 +101,5 @@ def translate_txt():
     # Read from cleaned transated words file.
     with open(TRANSLATED_CLEAN_WORDS_FILE, 'r') as f:
         lines = f.readlines()
+
+    create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)
