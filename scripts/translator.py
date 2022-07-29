@@ -79,14 +79,20 @@ def translate_txt():
         TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}"
     except IndexError as ie:
         print(f"CMD: $ run-txt file1.txt file2.txt")
-        sys.exit("Invalid run command.")
+        sys.exit(f"Invalid run command. {ie}")
 
     translator = Translator()
     lines = []
 
+    import pdb; pdb.set_trace()
+
     # Read from clean words file.
     with open(CLEAN_WORDS_FILE, 'r') as f:
         lines = f.readlines()
+    import pdb; pdb.set_trace()
+    with open(CLEAN_WORDS_FILE, 'r') as f:
+        lines1 = f.readlines()
+    import pdb; pdb.set_trace()
 
     # Translation clean words & create a clean translated words file.
     f = open(TRANSLATED_CLEAN_WORDS_FILE, 'w')
