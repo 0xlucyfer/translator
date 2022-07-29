@@ -11,14 +11,20 @@ from scripts.utils import (
     create_ordered_alpha_txt_file
 )
 
+'''
+This file simply translates words and places the translated words
+into their own text files.
+'''
+
+
 # import pdb; pdb.set_trace()
 def translate_csv():
     '''
         Translates existing english words lists from ens.vision
-        into spanish. Can work for any language but src/dest hardcoded atm.
+        into spanish. 
 
         Saves text file of cleaned translated words in /tests/fixtures/*.txt.
-        Text files will have file name of parent csv file. 
+        Text files will have file name of parent csv file.
 
         Place csv files in /collections/*.csv. Reads all csv files at
         location.
