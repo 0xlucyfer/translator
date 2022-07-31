@@ -86,14 +86,8 @@ def translate_txt():
     lines = []
 
     # Read from clean words file.
-    with open(CLEAN_WORDS_FILE, 'r') as f: # KEEP
-        lines = f.readlines() # KEEP
-
-    ## REMOVE
-    import pdb; pdb.set_trace()
     with open(CLEAN_WORDS_FILE, 'r') as f:
-        lines1 = f.readlines()
-    import pdb; pdb.set_trace()
+        lines = f.readlines()
 
     # Translation clean words & create a clean translated words file.
     f = open(TRANSLATED_CLEAN_WORDS_FILE, 'w')
@@ -111,4 +105,3 @@ def translate_txt():
 
     # Feed cleaned file, creates alphabetical + no spaces text files.
     create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)
-
