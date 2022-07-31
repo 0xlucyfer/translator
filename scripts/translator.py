@@ -18,45 +18,6 @@ into their own text files.
 Saves text file of cleaned translated words in /tests/fixtures/*.txt.
 '''
 
-# MIN_POP = 2000
-# m_names_list = []
-# f_names_list = []
-# txt_files = get_text_file_paths(txt_files='/collections')
-# f = open(f"{FIXTURE_PATH}/all-female-names.txt", 'w')
-# m = open(f"{FIXTURE_PATH}/all-male-names.txt", 'w')
-
-# for file in txt_files:
-#     print(f'working on {file}')
-#     df = pd.read_csv(file)
-#     shape = df.shape
-
-#     for index in range(shape[0]):
-#         popularity = df.values[index, 2]
-
-#         if MIN_POP > popularity:
-#             break
-
-#         geneder = df.values[index, 1]
-#         name = df.values[index, 0]
-
-#         if geneder.lower() == 'm':
-#             m_names_list.append(name)
-#         else:
-#             f_names_list.append(name)
-
-# m_names_list = list(dict.fromkeys(m_names_list))
-# f_names_list = list(dict.fromkeys(f_names_list))
-
-# for name in f_names_list:
-#     f.write(name)
-#     f.writelines('\n')
-# f.close()
-
-# for name in m_names_list:
-#     m.write(name)
-#     m.writelines('\n')
-# m.close()
-
 
 # import pdb; pdb.set_trace()
 def translate_csv():
@@ -112,20 +73,17 @@ def translate_txt():
         Reads a cleaned english text file, translates to spanish,
         and produces a hash ready text file of translations.
 
-        CMD EX: $ run-txt english-animals.txt spanish-animals.txt
+        CMD EX: $ run-txt english-animals spanish-animals
     '''
     try:
         CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}"
         TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}"
     except IndexError as ie:
-        print(f"CMD: $ run-txt file1.txt file2.txt")
+        print(f"CMD: $ run-txt file1 file2")
         sys.exit(f"Invalid run command. {ie}")
 
     translator = Translator()
     lines = []
-
-    ## REMOVE
-    import pdb; pdb.set_trace()
 
     # Read from clean words file.
     with open(CLEAN_WORDS_FILE, 'r') as f: # KEEP
@@ -153,3 +111,4 @@ def translate_txt():
 
     # Feed cleaned file, creates alphabetical + no spaces text files.
     create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)
+
