@@ -15,10 +15,22 @@ Lower cased & stripped of white spaces on both sides.
 - Run `run` to execute script.
 
 ### Commands
-- Run `clean spanish-animals.txt ` - creates a clean list and creates a no spaces list based off cleaned list. Location is /tests/fixtures/*.txt.
-- Run `run-csv` to translate existing ens.vision csv files into another language.
-- Run `run-txt english-animals.txt spanish-animals.txt` to translate an existing clean text file into a new cleaned translated file.
-- Run `animals cleaned-animals.txt` to scrape animals & produce a hash ready file.
+- Files should be in `/tests/ficxtures/`.
+- Run `clean spanish-animals`.
+    - Creates a cleaned ordered list.
+    - Then creates a no spaces hash ready list (normalized).
+    - Normalized words with special characters get a copy of the word without special characters. Ex: `Tiburon` & `Tiburon` are both included in normalized list.
+    - ![Alt text](public/CMD-clean-example.png?raw=true "Example of files produced.")
+- Run `run-csv`.
+    - Translates existing English ens.vision csv files into Spanish.
+    - CSV files must be in `/collections/*.csv`.
+    - Translated file will be in `/tests/fixtures.*txt`.
+    - Language values hardcoded but can be easily changed to be automated.
+- Run `run-txt english-animals-file1 spanish-animals-file2`.
+    - File one must exist at `/tests/fixtures/*.txt.`
+    - Produces a cleaned translated file2 in `/tests/fixtures/*.txt`. 
+- Run `animals cleaned-animals`.
+    - Scraper for animals list.
 
 
 #### working on starwars characters

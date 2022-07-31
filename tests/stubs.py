@@ -44,3 +44,23 @@ class FakeRequest(object):
     @staticmethod
     def json():
         return {}
+
+class FakeOpen(object):
+    def __init__(self, value: list = None):
+        self.value = value
+
+    # def return_value(self):
+    #     return self.value
+    # @staticmethod
+    def readlines(self):
+        print()
+        # import pdb; pdb.set_trace()
+        return self.value
+    
+    @staticmethod
+    def __enter__():
+        pass
+
+    # @staticmethod
+    def __exit__(self, here, there, what):
+        return FakeOpen.readlines

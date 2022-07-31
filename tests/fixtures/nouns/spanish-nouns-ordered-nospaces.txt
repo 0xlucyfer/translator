@@ -137,6 +137,8 @@ arroz
 arruga
 arte
 artesanía
+ártico
+artico
 articulación
 artilugio
 artista
@@ -165,6 +167,8 @@ atención
 atender
 atenuación
 atigrado
+atlántico
+atlantico
 atmósfera
 atrevimiento
 atún
@@ -1195,7 +1199,10 @@ inclinación
 independencia
 independiente
 indicación
+índico
+indico
 individual
+indio
 industria
 inevitable
 infancia
@@ -1558,6 +1565,7 @@ oblea
 obligación
 observador
 ocasión
+oceanodelsur
 occidental
 ocultar
 ocurrencia
@@ -1596,6 +1604,8 @@ oído
 pablo
 paciencia
 paciente
+pacifico
+pacífico
 padrastro
 padre
 pagar
