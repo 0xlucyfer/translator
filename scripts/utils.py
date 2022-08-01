@@ -59,8 +59,12 @@ def create_ordered_alpha_txt_files(file = None):
 
     clean = []
     for line in lines:
+        line = line.lower()
         clean.append(line.replace('\n', ""))
+    
+    # Sort & dedup.
     clean.sort()
+    clean = list(dict.fromkeys(clean))
     
     # Produces cleaned file.
     f = open(f"{FIXTURE_PATH}/{file}-{CLEAN_WORD}.txt", 'w')

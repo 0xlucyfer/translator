@@ -130,3 +130,5 @@ dmypy.json
 
 # JS
 node_modules
+
+/priv_lists
