@@ -16,7 +16,6 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
 - Run `python install -e .`.
 
 ### Commands
-- Files should be in `/tests/fixtures/`.
 - Run `clean spanish-animals`.
     - Creates a `clean` text file at `/tests/fixtures/*-ordered.txt`.
     - Creates a `normalized` text file at `/tests/fixtures/*.txt`.
