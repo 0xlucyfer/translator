@@ -5,8 +5,8 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
 
 #### Definitions of text file states
 - `Clean`: Lower cased, stripped of white spaces on both sides.
-- `Special-Character`: Spanish words with that contain any characters in this list `['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']`.
-- `Normalize`: `Clean` + white space replaced with no space + `Special-Character` words get a non-special character copy. 
+- `Special-Word`: Any Spanish word(s) that contain any character(s) in this list `['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']`.
+- `Normalize`: `Clean` + white space replaced with no space + `Special-Word` words get a non-special character copy. 
 
 #### Instructions
 - Clone
