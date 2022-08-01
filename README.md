@@ -3,8 +3,8 @@
 I should have unit tests for this but I dont.
 I do test everything manually from my terminal using import pdb; pdb.set_trace().
 
-#### Clean List
-Lower cased & stripped of white spaces on both sides.
+#### Clean List Definition
+Lower cased, stripped of white spaces on both sides.
 
 #### Instructions
 - Clone
@@ -12,10 +12,9 @@ Lower cased & stripped of white spaces on both sides.
 - Run `. venv/bin/activate`.
 - Run `npm i`
 - Run `python install -e .`.
-- Run `run` to execute script.
 
 ### Commands
-- Files should be in `/tests/ficxtures/`.
+- Files should be in `/tests/fixtures/`.
 - Run `clean spanish-animals`.
     - Creates a cleaned ordered list.
     - Then creates a no spaces hash ready list (normalized).
