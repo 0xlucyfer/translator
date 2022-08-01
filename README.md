@@ -5,7 +5,8 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
 
 #### Definitions of text file states
 - `Clean`: Lower cased, stripped of white spaces on both sides.
-- `Normalize`: `Clean` + no white spaces + Spanish words with special characters such as `['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']` will include a copy of the word without special characters. 
+- `Special-Character`: Spanish words with that contain any characters in this list `['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']`.
+- `Normalize`: `Clean` + white space replaced with no space + `Special-Character` words get a non-special character copy. 
 
 #### Instructions
 - Clone
@@ -19,7 +20,6 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
 - Run `clean spanish-animals`.
     - Creates a `clean` text file at `/tests/fixtures/*-ordered.txt`.
     - Creates a `normalized` text file at `/tests/fixtures/*.txt`.
-    - Normalized words with special characters get a copy of the word without special characters.
     - ![Alt text](public/CMD-$-clean-file1.png?raw=true "Example of files produced.")
 - Run `run-csv`.
     - Translates existing English ens.vision csv files into Spanish.
@@ -27,14 +27,15 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
     - Translated file will be in `/tests/fixtures/.*txt`.
     - Language values hardcoded but can be easily changed to be automated.
 - Run `run-txt english-animals-file1 spanish-animals-file2`.
-    - Input: File1 must exist at `/tests/fixtures/*.txt.`
-    - Output: Cleaned translated file2 in `/tests/fixtures/*.txt`. 
+    - Translates `file1` and writes output into `file2`.
+    - `file1` must exist at `/tests/fixtures/*.txt.`.
+    - `file2` will exist at `/tests/fixtures/*.txt`. 
 - Run `animals cleaned-animals`.
     - Scraper for animals list.
 - Run `node scripts/normalize.js`
-    - Update the location of a normalized text file on line 8.
-    - Prints to console, csv formatted, requirements ready data.
-    - Copy text on console into your local copy of ens-collections. Copy into `ens-collections/collections/*.csv`.
+    - Update the location of a `normalized` text file on line 8.
+    - Prints to console ens-collection ready csv data.
+    - Copy text on console into your local copy of ens-collections, in `ens-collections/collections/*.csv`.
 
 
 #### working on starwars characters
