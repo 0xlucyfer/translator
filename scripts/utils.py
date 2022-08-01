@@ -6,7 +6,9 @@ import unicodedata
 from typing import List, Dict
 from scripts.settings import (
     FIXTURE_PATH,
-    SPANISH_TILDES
+    SPANISH_TILDES,
+    NORMALIZE_WORD,
+    CLEAN_WORD
 )
 from unittest.mock import mock_open
 
@@ -44,18 +46,14 @@ def get_text_file_paths(txt_files: str = None) -> List[str]:
 
 def create_ordered_alpha_txt_files(file = None):
     '''
-        Takes a clean text file as input.
-        Clean = lower cased & stripped of white spaces on both sides.
-
-        Creates an ordered (alphabetical) text file, a hash ready, and copies
-        all tilde words into nontilde, keeps both.
-        no spaces file. 
+        Takes an uncleaned file and produces a cleaned &
+        normalized file.
     '''
     # import pdb; pdb.set_trace()
     if file == None:
         file = sys.argv[1]
 
-    # Read from cleaned transated words file.
+    # Read from uncleaned file.
     with open(f"{FIXTURE_PATH}/{file}.txt", 'r') as f:
         lines = f.readlines()
 
@@ -64,21 +62,21 @@ def create_ordered_alpha_txt_files(file = None):
         clean.append(line.replace('\n', ""))
     clean.sort()
     
-    # Create alphabetical ordered text file.
-    f = open(f"{FIXTURE_PATH}/{file}-clean.txt", 'w')
+    # Produces cleaned file.
+    f = open(f"{FIXTURE_PATH}/{file}-{CLEAN_WORD}.txt", 'w')
     for word in clean:
         f.write(word)
         f.writelines('\n')
     f.close()
 
-    # Create no spaces files from alphabetical file.
-    # Includes tilde & nontilde copy.
-    f = open(f"{FIXTURE_PATH}/{file}-normalize.txt", 'w')
+    # Produced normalized file.
+    f = open(f"{FIXTURE_PATH}/{file}-{NORMALIZE_WORD}.txt", 'w')
     for word in clean:
         word = word.replace(' ', '')
         f.write(word)
         f.writelines('\n')
-
+        
+        # If word is special, create non-special copy.
         if tilde_identifier(word) == True:
             non_tilde_copy = remove_accents(word)
             f.write(non_tilde_copy)
@@ -88,8 +86,9 @@ def create_ordered_alpha_txt_files(file = None):
 
 # tilde_identifier('drügonñátest')
 def tilde_identifier(word : str = None):
-    # Check if spanish word contains tildes/spanish
-    # specific special characters.
+    '''
+        Answers, does word contain any special characters.
+    '''
     if any(tilde in word for tilde in SPANISH_TILDES):
         print(f"Tilde found in {word}.")
         return True
@@ -106,13 +105,14 @@ def remove_accents(word):
 
 
 def multi_mock_open(*file_contents):
-    """Create a mock "open" that will mock open multiple files in sequence
-    Args:
-        *file_contents ([str]): a list of file contents to be returned by open
-    Returns:
-        (MagicMock) a mock opener that will return the contents of the first
-            file when opened the first time, the second file when opened the
-            second time, etc.
+    """
+        Create a mock "open" that will mock open multiple files in sequence
+        Args:
+            *file_contents ([str]): a list of file contents to be returned by open
+        Returns:
+            (MagicMock) a mock opener that will return the contents of the first
+                file when opened the first time, the second file when opened the
+                second time, etc.
     """
     mock_files = [mock_open(read_data=content).return_value for content in file_contents]
     mock_opener = mock_open()

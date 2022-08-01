@@ -14,3 +14,6 @@ LOG_KEYS = [
 ]
 
 SPANISH_TILDES = ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']
+
+CLEAN_WORD = 'cleaned'
+NORMALIZE_WORD = "normalized"

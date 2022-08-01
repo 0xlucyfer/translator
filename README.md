@@ -17,8 +17,8 @@ I do test everything manually from my terminal using import pdb; pdb.set_trace()
 
 ### Commands
 - Run `clean spanish-animals`.
-    - Creates a `clean` text file at `/tests/fixtures/*-ordered.txt`.
-    - Creates a `normalized` text file at `/tests/fixtures/*.txt`.
+    - Creates a `clean` text file at `/tests/fixtures/*-cleaned.txt`.
+    - Creates a `normalized` text file at `/tests/fixtures/*-normalizeded.txt`.
     - ![Alt text](public/CMD-$-clean-file1.png?raw=true "Example of files produced.")
 - Run `run-csv`.
     - Translates existing English ens.vision csv files into Spanish.
