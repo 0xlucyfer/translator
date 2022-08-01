@@ -5,7 +5,7 @@ const utils = ethers.utils
 
 
 try {  
-    var es_months_days = fs.readFileSync('tests/fixtures/spanish-months-days-ordered-nospaces.txt').toString().split("\n");
+    var data = fs.readFileSync('tests/fixtures/spanish-nouns-ordered-nospaces.txt').toString().split("\n");
     // console.log(es_animals)
 } catch(e) {
     console.log('Error:', e.stack);
@@ -18,4 +18,4 @@ function hash(value) {
 }
 
 
-es_months_days.forEach(hash);
+data.forEach(hash);

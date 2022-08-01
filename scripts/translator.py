@@ -105,3 +105,48 @@ def translate_txt():
 
     # Feed cleaned file, creates alphabetical + no spaces text files.
     create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)
+
+
+# def SS_data_from_1970():
+#     '''
+#         Rough draft which gets the most popular names according
+#         to social security records. 
+#     '''
+#     MIN_POP = 2000
+#     m_names_list = []
+#     f_names_list = []
+#     txt_files = get_text_file_paths(txt_files='/collections')
+#     f = open(f"{FIXTURE_PATH}/all-female-names.txt", 'w')
+#     m = open(f"{FIXTURE_PATH}/all-male-names.txt", 'w')
+
+#     for file in txt_files:
+#         print(f'working on {file}')
+#         df = pd.read_csv(file)
+#         shape = df.shape
+
+#         for index in range(shape[0]):
+#             popularity = df.values[index, 2]
+
+#             if MIN_POP > popularity:
+#                 break
+
+#             geneder = df.values[index, 1]
+#             name = df.values[index, 0]
+
+#             if geneder.lower() == 'm':
+#                 m_names_list.append(name)
+#             else:
+#                 f_names_list.append(name)
+
+#     m_names_list = list(dict.fromkeys(m_names_list))
+#     f_names_list = list(dict.fromkeys(f_names_list))
+
+#     for name in f_names_list:
+#         f.write(name)
+#         f.writelines('\n')
+#     f.close()
+
+#     for name in m_names_list:
+#         m.write(name)
+#         m.writelines('\n')
+#     m.close()

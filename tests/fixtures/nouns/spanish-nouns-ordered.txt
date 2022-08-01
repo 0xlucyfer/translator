@@ -165,6 +165,7 @@ atención
 atender
 atenuación
 atigrado
+atlántico
 atmósfera
 atrevimiento
 atún
@@ -1195,6 +1196,7 @@ inclinación
 independencia
 independiente
 indicación
+indio
 individual
 industria
 inevitable
@@ -1559,6 +1561,7 @@ obligación
 observador
 ocasión
 occidental
+oceanodelsur
 ocultar
 ocurrencia
 odio
@@ -1596,6 +1599,7 @@ oído
 pablo
 paciencia
 paciente
+pacífico
 padrastro
 padre
 pagar
@@ -2685,6 +2689,7 @@ zoólogo
 árbitro
 árbol
 área
+ártico
 énfasis
 éxito
 índice
