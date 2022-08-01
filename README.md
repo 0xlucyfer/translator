@@ -24,13 +24,17 @@ Lower cased & stripped of white spaces on both sides.
 - Run `run-csv`.
     - Translates existing English ens.vision csv files into Spanish.
     - CSV files must be in `/collections/*.csv`.
-    - Translated file will be in `/tests/fixtures.*txt`.
+    - Translated file will be in `/tests/fixtures/.*txt`.
     - Language values hardcoded but can be easily changed to be automated.
 - Run `run-txt english-animals-file1 spanish-animals-file2`.
-    - File one must exist at `/tests/fixtures/*.txt.`
-    - Produces a cleaned translated file2 in `/tests/fixtures/*.txt`. 
+    - Input: File1 must exist at `/tests/fixtures/*.txt.`
+    - Output: Cleaned translated file2 in `/tests/fixtures/*.txt`. 
 - Run `animals cleaned-animals`.
     - Scraper for animals list.
+- Run `node scripts/normalize.js`
+    - Update the location of a normalized text file on line 8.
+    - Prints to console, csv formatted, requirements ready data.
+    - Copy text on console into your local copy of ens-collections. Copy into `ens-collections/collections/*.csv`.
 
 
 #### working on starwars characters
