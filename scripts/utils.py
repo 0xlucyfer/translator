@@ -65,7 +65,7 @@ def create_ordered_alpha_txt_files(file = None):
     clean.sort()
     
     # Create alphabetical ordered text file.
-    f = open(f"{FIXTURE_PATH}/{file}-ordered.txt", 'w')
+    f = open(f"{FIXTURE_PATH}/{file}-clean.txt", 'w')
     for word in clean:
         f.write(word)
         f.writelines('\n')
@@ -73,7 +73,7 @@ def create_ordered_alpha_txt_files(file = None):
 
     # Create no spaces files from alphabetical file.
     # Includes tilde & nontilde copy.
-    f = open(f"{FIXTURE_PATH}/{file}-ordered-nospaces.txt", 'w')
+    f = open(f"{FIXTURE_PATH}/{file}-normalize.txt", 'w')
     for word in clean:
         word = word.replace(' ', '')
         f.write(word)

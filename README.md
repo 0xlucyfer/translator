@@ -3,8 +3,9 @@
 I should have unit tests for this but I dont.
 I do test everything manually from my terminal using import pdb; pdb.set_trace().
 
-#### Clean List Definition
-Lower cased, stripped of white spaces on both sides.
+#### Definitions of text file states
+- `Clean`: Lower cased, stripped of white spaces on both sides.
+- `Normalize`: `Clean` + no white spaces + Spanish words with special characters such as `['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']` will include a copy of the word without special characters. 
 
 #### Instructions
 - Clone
@@ -16,10 +17,10 @@ Lower cased, stripped of white spaces on both sides.
 ### Commands
 - Files should be in `/tests/fixtures/`.
 - Run `clean spanish-animals`.
-    - Creates a cleaned ordered list.
-    - Then creates a no spaces hash ready list (normalized).
-    - Normalized words with special characters get a copy of the word without special characters. Ex: `Tiburon` & `Tiburon` are both included in normalized list.
-    - ![Alt text](public/CMD-clean-example.png?raw=true "Example of files produced.")
+    - Creates a `clean` text file at `/tests/fixtures/*-ordered.txt`.
+    - Creates a `normalized` text file at `/tests/fixtures/*.txt`.
+    - Normalized words with special characters get a copy of the word without special characters.
+    - ![Alt text](public/CMD-$-clean-file1.png?raw=true "Example of files produced.")
 - Run `run-csv`.
     - Translates existing English ens.vision csv files into Spanish.
     - CSV files must be in `/collections/*.csv`.
