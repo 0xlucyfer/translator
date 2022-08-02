@@ -13,7 +13,6 @@ affenpinscher
 agrupador
 aguilucho
 aguja
-aguja
 aguja negra
 aidi
 aino
@@ -25,7 +24,6 @@ alabai
 alaska klee kai
 albatros
 albatros errante
-alce
 alce
 aleta de ballena
 aleta de proa
@@ -58,7 +56,6 @@ anguila lobo
 anolis verde
 anomalocaris
 antílope
-antílope
 anémona de mar
 arapaima
 araña
@@ -82,7 +79,6 @@ arctoterio
 ardilla
 ardilla de palma india
 ardilla de tierra
-ardilla de tierra
 ardilla gigante india
 ardilla gris oriental
 ardilla japonesa
@@ -95,7 +91,6 @@ arenque
 armadillo
 armadillo gigante
 armadillo hada rosa
-armiño
 armiño
 arowana asiático
 arpía
@@ -149,7 +144,6 @@ bahía
 baiji
 bajista
 bajo
-bajo
 balinés
 ballena
 ballena asesina
@@ -189,7 +183,6 @@ bichón habanero
 bichón yorkie
 bilby
 binturong
-birmano
 birmano
 bisonte
 bisonte de madera
@@ -252,7 +245,6 @@ bullmastiff
 burro
 búfala
 búfalo
-búfalo
 búfalo de agua
 búho
 búho barrado
@@ -287,8 +279,6 @@ cacatúa
 cachalote
 cachorro de barro
 caimán
-caimán
-calamar
 calamar
 calamar colosal
 calamar humboldt
@@ -312,7 +302,6 @@ cangrejo real
 cangrejo rojo de la isla de navidad
 cangrejo violinista
 cangrejo yeti
-canguro
 canguro
 canguro de árbol
 caniche
@@ -401,7 +390,6 @@ cobra monóculo
 cobra real
 cobra árabe
 cobras
-cochinilla
 cochinilla
 cockalero
 cocker
@@ -604,7 +592,6 @@ freno alemán
 frenético
 fénix
 gacela
-gacela
 galgo
 galgo italiano
 gallina de guinea
@@ -646,7 +633,6 @@ gato leopardo
 gato montés
 gato montés europeo
 gato pescador
-gato pescador
 gato rex de maíz
 gavial
 gavilán
@@ -679,7 +665,6 @@ gorila occidental de tierras bajas
 gorila oriental
 gorila oriental de tierras bajas
 gorrión
-gorrión
 gorrión astillado
 gorrión cantor
 gorrión sabana
@@ -710,7 +695,6 @@ guacamayo de spix
 guia pastor aleman
 guiverno
 guppy
-gusano
 gusano
 gusano cogollero
 gusano de escama antártica
@@ -771,7 +755,6 @@ insecto
 insecto asesino
 insecto palo
 insectos
-jabalí
 jabalí
 jacana
 jack russell
@@ -840,7 +823,6 @@ lagarto topo mexicano
 laika yakutiana
 lamprea
 langosta
-langosta
 langosta del desierto
 lebrel
 lechuza
@@ -850,7 +832,6 @@ lemúrido
 lenguado de verano
 lengüeta
 leonberger
-leopardo
 leopardo
 leopardo catahoula
 leopardo de nieve
@@ -865,11 +846,9 @@ lhasa apso
 lhasapoo
 libélula
 liebre
-liebre
 liebre de patas blancas
 liebre ártica
 ligre
-lince
 lince
 lince balcánico
 lince de canadá
@@ -892,7 +871,6 @@ locha
 lombriz
 lorito
 loro
-loro
 loro amazona
 loro de peset
 loro drácula
@@ -900,7 +878,6 @@ loro eclectus
 loro gris africano
 loro senegalés
 lubina de aleta de hoja
-luciérnaga
 luciérnaga
 lumpo
 lundehund noruego
@@ -940,7 +917,6 @@ mariposa monarca
 mariposa pavo real
 mariquita
 marjor
-marmota
 marmota
 marmota de américa
 marsopa
@@ -985,7 +961,6 @@ mojarra azul
 mola mola
 monitor de árbol esmeralda
 mono
-mono
 mono araña
 mono ardilla
 mono aullador
@@ -1005,7 +980,6 @@ mosca de la fruta
 mosca doméstica
 mosca linterna manchada
 mosca tsetse
-mosquito
 mosquito
 mozambique cobra escupidora
 muchacha
@@ -1044,13 +1018,11 @@ ogro
 okapi
 olmo
 orangután
-orangután
 orangután de borneo
 orangután de sumatra
 orangután tapanuli
 orca
 ornitomimo
-ornitorrinco
 ornitorrinco
 oropéndola
 oropéndola encapuchada
@@ -1089,7 +1061,6 @@ parasaurolophus
 paro
 pastor akita
 pastor aleman negro sable
-pastor alemán
 pastor alemán
 pastor australiano
 pastor beagle
@@ -1201,7 +1172,6 @@ pez espátula
 pez espátula chino
 pez futbol
 pez globo
-pez globo
 pez koi
 pez lagarto
 pez lechón
@@ -1222,7 +1192,6 @@ pez payaso
 pez pulmonado
 pez raya
 pez róbalo
-pez sapo
 pez sapo
 pez sapo ostra
 pez sierra
@@ -1302,14 +1271,12 @@ platino arowana
 pleco cebra
 pleco de ojos azules
 polilla
-polilla
 polilla bruja negra
 polilla cecropia
 polilla cometa
 polilla de espalda de diamante
 polilla de la col
 polilla de la harina india
-polilla de la manzana
 polilla de la manzana
 polilla del atlas
 polilla del boj
@@ -1346,7 +1313,6 @@ pulpo
 pulpo de anillos azules
 pulpo manta
 puma
-puma
 pumi
 punta de lanza dorada
 puntero
@@ -1354,7 +1320,6 @@ puntero inglés
 pájaro
 pájaro azul de la montaña
 pájaro azul del este
-pájaro carpintero
 pájaro carpintero
 pájaro carpintero de pico de marfil
 pájaro de fragata
@@ -1366,7 +1331,6 @@ quebrantahuesos
 queja
 quetzal
 quilla
-quimera
 quimera
 quokka
 quoll
@@ -1396,7 +1360,6 @@ rana toro africana
 rana verde
 rangos centrales taipán
 ranura
-rape
 rape
 raqueta de nieve
 rata
@@ -1431,7 +1394,6 @@ ruiseñor
 sabalote
 sable
 sabueso
-sabueso
 sabueso afgano
 sabueso basset
 sabueso bávaro de montaña
@@ -1451,7 +1413,6 @@ salmón chinook
 salmón keta
 salmón rojo
 salmón trucha arco iris
-saltador
 saltador
 saltamontes
 salteado
@@ -1483,7 +1444,6 @@ schnoodle gigante
 sello
 sello encapuchado
 serpiente
-serpiente
 serpiente arlequín
 serpiente bushmaster
 serpiente cebra
@@ -1499,7 +1459,6 @@ serpiente de agua del norte
 serpiente de agua marrón
 serpiente de archivo arafura
 serpiente de barro
-serpiente de cascabel
 serpiente de cascabel
 serpiente de cascabel de espalda de diamante occidental
 serpiente de cascabel de espalda de diamante oriental
@@ -1532,9 +1491,7 @@ serpiente de mar verde oliva
 serpiente de maíz
 serpiente de ojos de gato
 serpiente de pino
-serpiente de pino
 serpiente de pollo
-serpiente de tierra
 serpiente de tierra
 serpiente de vid
 serpiente de vid asiática
@@ -1826,8 +1783,6 @@ volpino italiano
 vuelvepiedras rojizo
 víbora
 víbora cornuda
-víbora cornuda
-víbora cornuda
 víbora cornuda de cola de araña
 víbora de alfombra
 víbora de arbusto
@@ -1854,7 +1809,6 @@ zarigüeya
 zombi
 zonkey
 zorrillo
-zorro
 zorro
 zorro cruzado
 zorro de darwin

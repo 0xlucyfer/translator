@@ -14,7 +14,6 @@ affenpinscher
 agrupador
 aguilucho
 aguja
-aguja
 agujanegra
 aidi
 aino
@@ -26,7 +25,6 @@ alabai
 alaskakleekai
 albatros
 albatroserrante
-alce
 alce
 aletadeballena
 aletadeproa
@@ -62,8 +60,6 @@ anguilahuelladeneumatico
 anguilalobo
 anolisverde
 anomalocaris
-antílope
-antilope
 antílope
 antilope
 anémonademar
@@ -106,7 +102,6 @@ arctoterio
 ardilla
 ardilladepalmaindia
 ardilladetierra
-ardilladetierra
 ardillagiganteindia
 ardillagrisoriental
 ardillajaponesa
@@ -119,8 +114,6 @@ arenque
 armadillo
 armadillogigante
 armadillohadarosa
-armiño
-armino
 armiño
 armino
 arowanaasiático
@@ -188,7 +181,6 @@ bahia
 baiji
 bajista
 bajo
-bajo
 balinés
 balines
 ballena
@@ -234,7 +226,6 @@ bichónyorkie
 bichonyorkie
 bilby
 binturong
-birmano
 birmano
 bisonte
 bisontedemadera
@@ -310,8 +301,6 @@ búfala
 bufala
 búfalo
 bufalo
-búfalo
-bufalo
 búfalodeagua
 bufalodeagua
 búho
@@ -358,9 +347,6 @@ cachalote
 cachorrodebarro
 caimán
 caiman
-caimán
-caiman
-calamar
 calamar
 calamarcolosal
 calamarhumboldt
@@ -389,7 +375,6 @@ cangrejoreal
 cangrejorojodelaisladenavidad
 cangrejoviolinista
 cangrejoyeti
-canguro
 canguro
 cangurodeárbol
 cangurodearbol
@@ -496,7 +481,6 @@ cobrareal
 cobraárabe
 cobraarabe
 cobras
-cochinilla
 cochinilla
 cockalero
 cocker
@@ -749,7 +733,6 @@ frenetico
 fénix
 fenix
 gacela
-gacela
 galgo
 galgoitaliano
 gallinadeguinea
@@ -795,7 +778,6 @@ gatomontes
 gatomontéseuropeo
 gatomonteseuropeo
 gatopescador
-gatopescador
 gatorexdemaíz
 gatorexdemaiz
 gavial
@@ -838,8 +820,6 @@ gorilaoriental
 gorilaorientaldetierrasbajas
 gorrión
 gorrion
-gorrión
-gorrion
 gorriónastillado
 gorrionastillado
 gorrióncantor
@@ -879,7 +859,6 @@ guacamayodespix
 guiapastoraleman
 guiverno
 guppy
-gusano
 gusano
 gusanocogollero
 gusanodeescamaantártica
@@ -964,8 +943,6 @@ insectopalo
 insectos
 jabalí
 jabali
-jabalí
-jabali
 jacana
 jackrussell
 jackabee
@@ -1042,7 +1019,6 @@ lagartotopomexicano
 laikayakutiana
 lamprea
 langosta
-langosta
 langostadeldesierto
 lebrel
 lechuza
@@ -1054,7 +1030,6 @@ lenguadodeverano
 lengüeta
 lengueta
 leonberger
-leopardo
 leopardo
 leopardocatahoula
 leopardodenieve
@@ -1076,12 +1051,10 @@ lhasapoo
 libélula
 libelula
 liebre
-liebre
 liebredepatasblancas
 liebreártica
 liebreartica
 ligre
-lince
 lince
 lincebalcánico
 lincebalcanico
@@ -1111,7 +1084,6 @@ locha
 lombriz
 lorito
 loro
-loro
 loroamazona
 lorodepeset
 lorodrácula
@@ -1121,8 +1093,6 @@ lorogrisafricano
 lorosenegalés
 lorosenegales
 lubinadealetadehoja
-luciérnaga
-luciernaga
 luciérnaga
 luciernaga
 lumpo
@@ -1172,7 +1142,6 @@ mariposamonarca
 mariposapavoreal
 mariquita
 marjor
-marmota
 marmota
 marmotadeamérica
 marmotadeamerica
@@ -1229,7 +1198,6 @@ molamola
 monitordeárbolesmeralda
 monitordearbolesmeralda
 mono
-mono
 monoaraña
 monoarana
 monoardilla
@@ -1251,7 +1219,6 @@ moscadoméstica
 moscadomestica
 moscalinternamanchada
 moscatsetse
-mosquito
 mosquito
 mozambiquecobraescupidora
 muchacha
@@ -1305,8 +1272,6 @@ okapi
 olmo
 orangután
 orangutan
-orangután
-orangutan
 orangutándeborneo
 orangutandeborneo
 orangutándesumatra
@@ -1315,7 +1280,6 @@ orangutántapanuli
 orangutantapanuli
 orca
 ornitomimo
-ornitorrinco
 ornitorrinco
 oropéndola
 oropendola
@@ -1362,8 +1326,6 @@ parasaurolophus
 paro
 pastorakita
 pastoralemannegrosable
-pastoralemán
-pastoraleman
 pastoralemán
 pastoraleman
 pastoraustraliano
@@ -1504,7 +1466,6 @@ pezespátulachino
 pezespatulachino
 pezfutbol
 pezglobo
-pezglobo
 pezkoi
 pezlagarto
 pezlechón
@@ -1532,7 +1493,6 @@ pezpulmonado
 pezraya
 pezróbalo
 pezrobalo
-pezsapo
 pezsapo
 pezsapoostra
 pezsierra
@@ -1653,14 +1613,12 @@ platinoarowana
 plecocebra
 plecodeojosazules
 polilla
-polilla
 polillabrujanegra
 polillacecropia
 polillacometa
 polilladeespaldadediamante
 polilladelacol
 polilladelaharinaindia
-polilladelamanzana
 polilladelamanzana
 polilladelatlas
 polilladelboj
@@ -1702,7 +1660,6 @@ pulpo
 pulpodeanillosazules
 pulpomanta
 puma
-puma
 pumi
 puntadelanzadorada
 puntero
@@ -1714,8 +1671,6 @@ pájaroazuldelamontaña
 pajaroazuldelamontana
 pájaroazuldeleste
 pajaroazuldeleste
-pájarocarpintero
-pajarocarpintero
 pájarocarpintero
 pajarocarpintero
 pájarocarpinterodepicodemarfil
@@ -1734,7 +1689,6 @@ quebrantahuesos
 queja
 quetzal
 quilla
-quimera
 quimera
 quokka
 quoll
@@ -1770,7 +1724,6 @@ ranaverde
 rangoscentralestaipán
 rangoscentralestaipan
 ranura
-rape
 rape
 raquetadenieve
 rata
@@ -1810,7 +1763,6 @@ ruisenor
 sabalote
 sable
 sabueso
-sabueso
 sabuesoafgano
 sabuesobasset
 sabuesobávarodemontaña
@@ -1837,7 +1789,6 @@ salmónrojo
 salmonrojo
 salmóntruchaarcoiris
 salmontruchaarcoiris
-saltador
 saltador
 saltamontes
 salteado
@@ -1872,7 +1823,6 @@ schnoodlegigante
 sello
 selloencapuchado
 serpiente
-serpiente
 serpientearlequín
 serpientearlequin
 serpientebushmaster
@@ -1891,7 +1841,6 @@ serpientedeaguamarrón
 serpientedeaguamarron
 serpientedearchivoarafura
 serpientedebarro
-serpientedecascabel
 serpientedecascabel
 serpientedecascabeldeespaldadediamanteoccidental
 serpientedecascabeldeespaldadediamanteoriental
@@ -1927,9 +1876,7 @@ serpientedemaíz
 serpientedemaiz
 serpientedeojosdegato
 serpientedepino
-serpientedepino
 serpientedepollo
-serpientedetierra
 serpientedetierra
 serpientedevid
 serpientedevidasiática
@@ -2318,10 +2265,6 @@ víbora
 vibora
 víboracornuda
 viboracornuda
-víboracornuda
-viboracornuda
-víboracornuda
-viboracornuda
 víboracornudadecoladearaña
 viboracornudadecoladearana
 víboradealfombra
@@ -2360,7 +2303,6 @@ zarigueya
 zombi
 zonkey
 zorrillo
-zorro
 zorro
 zorrocruzado
 zorrodedarwin
