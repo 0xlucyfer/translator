@@ -26,7 +26,7 @@ setup(
             "run-csv = scripts.translator:translate_csv",
             "run-txt = scripts.translator:translate_txt",
             "animals = scripts.scrapers.animals:run_scraper",
-            "clean = scripts.utils:create_ordered_alpha_txt_files"
+            "clean = scripts.utils:normalize_file"
         ]
     }
 )
