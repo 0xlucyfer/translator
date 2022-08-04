@@ -1,3 +1,4 @@
+
 aardvark
 aardwolf
 abyssinian
@@ -5,6 +6,7 @@ achriopteramanga
 addax
 adeliepenguin
 aesculapiansnake
+afanc
 affenpinscher
 afghanhound
 africanbullfrog
@@ -65,6 +67,7 @@ americanstaffordshireterrier
 americantoad
 americanwaterspaniel
 amethystinepython
+amphithere
 amurleopard
 anaconda
 anatolianshepherddog
@@ -80,7 +83,9 @@ antarcticscaleworm
 anteater
 antelope
 antilope
+anubis
 ape
+apophis
 appenzellerdog
 appleheadchihuahua
 applemoth
@@ -136,6 +141,7 @@ bactriancamel
 badger
 baiji
 baird’sratsnake
+bakunawa
 baldeagle
 baleenwhale
 balinese
@@ -429,6 +435,7 @@ cicada
 cichlid
 cinereousvulture
 cinnamonferret
+cipactli
 cloudedleopard
 clownfish
 clumberspaniel
@@ -436,12 +443,14 @@ coachwhipsnake
 coastalcarpetpython
 coastaltaipan
 coati
+coatl
 cobiafish
 cobras
 cockalier
 cockapoo
 cockatiel
 cockatoo
+cockatrice
 cockerspaniel
 cockroach
 codfish
@@ -513,6 +522,7 @@ dalmador
 dalmatian
 danios
 dappledachshund
+dargon
 dark-eyedjunco
 darwin’sfox
 darwin’sfrog
@@ -533,6 +543,7 @@ dhole
 diamondpython
 diamondbackmoth
 dik-dik
+dilong
 dingo
 diplodocus
 direwolf
@@ -554,11 +565,24 @@ doubledoodle
 douc
 doxiepoo
 doxle
+draak
+drac
+drache
 dracovolanslizard
+dracula
 draculaparrot
+drago
 dragon
+dragonessa
+dragonesse
 dragonfish
 dragonfly
+dragun
+drake
+drakon
+drakontas
+drakos
+dreki
 drever
 drumfish
 dubiacockroach
@@ -600,6 +624,7 @@ eel
 egyptiancobra
 egyptiangoose
 egyptianmau
+eikthyrnir
 eland
 elasmosaurus
 elasmotherium
@@ -655,6 +680,7 @@ fangtooth
 faun
 fauns
 feist
+fenghuang
 fennecfox
 fenrir
 fer-de-lancesnake
@@ -710,6 +736,7 @@ frogfish
 fruitbat
 fruitfly
 furseal
+fuzanglong
 gaboonviper
 galapagospenguin
 galapagosshark
@@ -771,6 +798,7 @@ goldenshepherd
 golden-crownedflyingfox
 goldendoodle
 goldfish
+goldhorn
 goliathfrog
 goliathtigerfish
 gomphotherium
@@ -828,6 +856,7 @@ grouper
 grouse
 guineafowl
 guineapig
+guldendraak
 guppy
 habusnake
 haddock
@@ -853,6 +882,7 @@ hawaiianmonkseal
 hawkmothcaterpillar
 hedgehog
 hellbender
+hellhound
 herculesbeetle
 herculesmoth
 hermitcrab
@@ -884,11 +914,13 @@ hornedviper
 horse
 horsefly
 horseshoecrab
+horus
 housefinch
 housesparrow
 housewren
 housefly
 howlermonkey
+hugin
 human
 humboldtpenguin
 humboldtsquid
@@ -1007,6 +1039,7 @@ krait
 kraken
 krill
 kudu
+kukulkan
 kuvasz
 labahoula
 labmaraner
@@ -1044,6 +1077,8 @@ leviathan
 lhasaapso
 lhasapoo
 liger
+lindworm
+lindwyrm
 linnaeus’stwo-toedsloth
 lion
 lionfish
@@ -1059,11 +1094,13 @@ lobster
 lochnessmonster
 locust
 lonestartick
+long
 long-earedowl
 long-hairedrottweiler
 long-tailedtit
 longfinmakoshark
 longnosegar
+longwang
 lorikeet
 lowchen
 lumpfish
@@ -1082,6 +1119,7 @@ magpie
 mahimahi
 maiasaura
 mainecoon
+makara
 malayancivet
 malayankrait
 malayantiger
@@ -1119,6 +1157,7 @@ mastiff
 mayfly
 meagle
 mealybug
+medusa
 meerkat
 megalania
 megalodon
@@ -1183,12 +1222,14 @@ mudi
 mudpuppy
 mule
 mulgasnake
+munin
 muntjac
 muskox
 muskrat
 mussuranasnake
 muttaburrasaurus
 mynabird
+naga
 nakedmolerat
 narwhal
 natterjack
@@ -1247,12 +1288,15 @@ orang-utan
 orange-crownedwarbler
 orangutan
 orbweaver
+ormr
 ornithomimus
+orthrus
 ortolanbunting
 oscarfish
 ostrich
 otter
 otterhound
+ouroboros
 oviraptor
 owl
 ox
@@ -1298,7 +1342,7 @@ perrodepresacanario
 persian
 peruvianincaorchid
 pesquet’sparrot
-petitbassetgriffonvendéen
+petitbassetgriffonvendeen
 petitegoldendoodle
 pheasant
 philippinecobra
@@ -1313,7 +1357,6 @@ pikefish
 pileatedwoodpecker
 pinemarten
 pinesnake
-pinesnake
 pinkdolphin
 pinkfairyarmadillo
 pipesnake
@@ -1323,6 +1366,7 @@ pitbull
 pitviper
 pitador
 pitsky
+pixiu
 plainshognosesnake
 platinumarowana
 platybelodon
@@ -1360,6 +1404,7 @@ proboscismonkey
 procoptodon
 pronghorn
 psittacosaurus
+psychopomp
 pteranodon
 pterodactyl
 pudelpointer
@@ -1388,6 +1433,7 @@ quagga
 quail
 queensnake
 quetzal
+quetzalcoatl
 quokka
 quoll
 rabbit
@@ -1442,6 +1488,7 @@ rinkhalssnake
 riverotter
 riverturtle
 robin
+roc
 rockcrab
 rockhyrax
 rockpython
@@ -1489,6 +1536,7 @@ sandviper
 saola
 sardines
 satanicleaf-tailedgecko
+satyr
 sauropoda
 savannagoat
 savannahsparrow
@@ -1521,6 +1569,7 @@ seahorse
 seal
 sealyhamterrier
 seiwhale
+selket
 senegalparrot
 serpent
 serval
@@ -1528,6 +1577,7 @@ shark
 sharp-tailedsnake
 sheep
 sheepadoodle
+shenlong
 shepadoodle
 shepkita
 shepweiler
@@ -1580,6 +1630,7 @@ snowleopard
 snowshoe
 snowshoehare
 snowyowl
+sobek
 sockeyesalmon
 somali
 songsparrow
@@ -1693,7 +1744,9 @@ thairidgeback
 thornydevil
 threshershark
 thrush
+thunderbird
 thylacoleo
+tianlong
 tibetanfox
 tibetanmastiff
 tibetanspaniel
@@ -1708,6 +1761,7 @@ tigersalamander
 tigershark
 timberrattlesnake
 timorpython
+tinniin
 tiretrackeel
 titanoboa
 toadfish
@@ -1733,6 +1787,7 @@ tuna
 turkey
 turkishangora
 turtles
+turul
 twigsnake
 typhon
 tyrannosaurusrex
@@ -1740,10 +1795,12 @@ uakari
 uguisu
 uintagroundsquirrel
 uintatherium
+uktena
 umbrellabird
 unau
 unicorn
 uralowl
+uroboros
 urutusnake
 utonagan
 vampire
@@ -1753,7 +1810,6 @@ vaquita
 velociraptor
 venusflytrap
 vervetmonkey
-vicuña
 vinesnake
 vinegaroon
 viper
@@ -1781,6 +1837,7 @@ weimardoodle
 welscatfish
 welshcorgi
 welshterrier
+werehyena
 werewolf
 westhighlandterrier
 westernblindsnake
@@ -1839,10 +1896,12 @@ wrasse
 writingspider
 wroughtironbutterflyfish
 wyomingtoad
+wyrm
 wyvern
 x-raytetra
 xerus
 xoloitzcuintli
+xolotl
 yak
 yakutianlaika
 yarara
@@ -1867,6 +1926,7 @@ zebrashark
 zebrasnake
 zebraspittingcobra
 zebu
+zig
 zombie
 zonkey
 zorse

@@ -9,6 +9,7 @@ acentor común
 acrioptera manga
 addax
 adormecido
+afanc
 affenpinscher
 agrupador
 aguilucho
@@ -35,6 +36,7 @@ alpaca
 alsaciano americano
 alusky
 amargasaurio
+amarok
 american staffordshire terrier
 anaconda
 anaconda amarilla
@@ -42,6 +44,8 @@ anaconda boliviana
 anaconda verde
 anchoa
 anchoas
+anfibio
+anfiteatro
 angelote
 angora turca
 anguila
@@ -56,7 +60,9 @@ anguila lobo
 anolis verde
 anomalocaris
 antílope
+anubis
 anémona de mar
+apophis
 arapaima
 araña
 araña camello
@@ -144,6 +150,7 @@ bahía
 baiji
 bajista
 bajo
+bakunawa
 balinés
 ballena
 ballena asesina
@@ -190,6 +197,7 @@ blenio cortacésped
 boa amazónica
 boa arcoiris
 boa común
+boa constrictora
 boa cubana
 boa de arena de kenia
 boa de cola roja
@@ -342,6 +350,7 @@ chacal
 charlatán
 charrán elegante
 chartreux
+charybdis
 cheagle
 chihuahua
 chihuahua cabeza de manzana
@@ -364,6 +373,7 @@ cigarra
 cigüeña
 cigüeña marabú
 cigüeña picozapato
+cipactli
 cisne
 civeta africana
 civeta de palma africana
@@ -372,6 +382,7 @@ civeta de palma enmascarada
 civeta de palma rayada
 civeta malaya
 coala
+coatl
 coatí
 cobra amarilla
 cobra china
@@ -390,6 +401,7 @@ cobra monóculo
 cobra real
 cobra árabe
 cobras
+cocatriz
 cochinilla
 cockalero
 cocker
@@ -455,6 +467,7 @@ cucaracha dubia
 cucaracha silbante de madagascar
 cuco
 cucú
+cuerno de oro
 cuervo
 cuervo común
 cuervo hawaiano
@@ -473,6 +486,7 @@ daeodon
 dalmadoodle
 dalmador
 danio
+dargón
 delfín
 delfín del río amazonas
 delfín nariz de botella
@@ -487,6 +501,7 @@ diablo espinoso
 diablos entrenador caballo escarabajo
 diente de colmillo
 dik-dik
+dilong
 dingo
 diplodoco
 disco
@@ -500,12 +515,17 @@ douc
 dox dorado
 doxiepoo
 doxle
+dragonesa
+dragonesse
 dragón
 dragón barbudo
 dragón de agua
 dragón de komodo
 dragón marino
+drakon
+drakontas
 drever
+drácula
 duende
 duendes
 dugongo
@@ -514,6 +534,7 @@ dóberman pinscher
 dólar de plata
 efímera
 eglefino
+eikthyrnir
 el atún blanco
 el ciervo de pere david
 el leopardo de amur
@@ -569,6 +590,8 @@ faisán
 falcón
 fauno
 faunos
+fenghuang
+fenrir
 festejar
 fila brasilero
 flamenco
@@ -590,6 +613,7 @@ frailecillo
 frenchton
 freno alemán
 frenético
+fuzanglong
 fénix
 gacela
 galgo
@@ -698,6 +722,7 @@ guppy
 gusano
 gusano cogollero
 gusano de escama antártica
+gusano de tilo
 gusano lento
 gusanos de bambú
 hada
@@ -712,6 +737,7 @@ halcón tarántula
 harapiento
 havapoo
 havashire
+hellhound
 hidra
 hiena
 hiena marrón
@@ -727,6 +753,8 @@ hombre lobo
 horgi
 hormiga
 hormiga carpintera
+horus
+hugin
 humano
 hurones albinos
 hurón
@@ -783,6 +811,7 @@ krait anillado
 krait malayo
 kril
 kudú
+kukulkán
 kuvasz
 la carpa herbívora
 la rana de darwin
@@ -824,6 +853,7 @@ laika yakutiana
 lamprea
 langosta
 langosta del desierto
+largo
 lebrel
 lechuza
 lechuza de madriguera
@@ -853,6 +883,7 @@ lince
 lince balcánico
 lince de canadá
 lince euroasiático
+lindwyrm
 lirón
 liviatán
 llama
@@ -869,6 +900,7 @@ lobo terrible
 lobo ártico
 locha
 lombriz
+longwang
 lorito
 loro
 loro amazona
@@ -891,6 +923,7 @@ madera británica
 mahi mahi
 maiasaura
 maine coon
+makara
 malamute de alaska
 malchi
 malteagle
@@ -986,6 +1019,7 @@ muchacha
 mudi
 mujer pitón
 mula
+munin
 muntjac
 murciélago
 murciélago blanco hondureño
@@ -999,6 +1033,7 @@ musaraña elefante
 muttaburrasaurio
 muñeca de trapo
 más rudo
+naga
 napoleón
 narval
 neanderthal
@@ -1022,11 +1057,13 @@ orangután de borneo
 orangután de sumatra
 orangután tapanuli
 orca
+ormr
 ornitomimo
 ornitorrinco
 oropéndola
 oropéndola encapuchada
 orquidea inca peruana
+orthrus
 oruga
 oruga de la polilla halcón
 osezno
@@ -1045,6 +1082,7 @@ oso negro norteamericano
 oso panda gigante
 oso polar
 ostra
+ouroboros
 oveja
 oviraptor
 pademelon
@@ -1265,6 +1303,7 @@ pitón manchado
 pitón oenpelli
 pitón pigmea
 pitón reticulada
+pixiu
 planeador del azúcar
 platija
 platino arowana
@@ -1300,6 +1339,7 @@ potoo
 potoroo
 procoptodón
 protelo
+psicopompo
 psitacosauro
 pteranodón
 pterodáctilo
@@ -1330,6 +1370,7 @@ párroco russell terrier
 quebrantahuesos
 queja
 quetzal
+quetzalcóatl
 quilla
 quimera
 quokka
@@ -1386,6 +1427,7 @@ rinoceronte indio
 rinoceronte lanudo
 rinoceronte negro
 robin
+roc
 roedores
 rottsky
 rottweiler
@@ -1441,6 +1483,7 @@ schnauzer gigante
 schneagle
 schnoodle
 schnoodle gigante
+selket
 sello
 sello encapuchado
 serpiente
@@ -1561,6 +1604,7 @@ setter gordon
 setter ingles
 setter irlandés
 shar-pei chino
+shenlong
 shepkita
 shepsky gerberiano
 shepweiler
@@ -1576,6 +1620,7 @@ sinosauropteryx
 sirena
 skye-terrier
 snorkie
+sobek
 sobresaltarse
 somalí
 spaniel de picardía azul
@@ -1587,6 +1632,7 @@ sumador común europeo
 sumador de peringuey
 suricata
 sábalo
+sátiro
 taco terrier
 taipan interior
 taipán
@@ -1642,6 +1688,8 @@ teta de cola larga
 tetra
 tetra de rayos x
 tetra neón
+thunderbird
+tianlong
 tiburon arcoiris
 tiburon cebra
 tiburon cuerno
@@ -1699,6 +1747,7 @@ tigre malayo
 tigre siberiano
 tijereta
 tilacoleo
+tinniína
 tipo de serpiente venenosa
 tiracosaurio
 tirano-saurio rex
@@ -1750,16 +1799,19 @@ trucha toro
 tucán
 tucán pico de quilla
 turquía
+turul
 turón
 turón europeo
 tuátara
 tábano
 uakarí
 uguisu
+uktena
 unaú
 unicornio
 untaterio
 uro
+uroboros
 urraca
 utonagan
 uómbat
@@ -1797,15 +1849,19 @@ víbora rinoceronte
 waimanu
 weimaraner
 weimardoodle
+werehyena
 westiepoo
+wyrm
 xerus
 xoloitzcuintli
+xolotl
 yak
 yarara
 yoranian
 yorkie-poo
 zarapito trinador
 zarigüeya
+zig
 zombi
 zonkey
 zorrillo

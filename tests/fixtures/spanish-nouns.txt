@@ -2697,7 +2697,6 @@ oceanodelsur
 pacífico
 indio
 
-
 tepeu
 tlaloc
 tezcatlipoca
@@ -2708,3 +2707,16 @@ chimalman
 azteca
 Totec
 tepeu
+cárcel
+cañón
+leña
+rebaño
+paño
+isleño
+huraño
+pacífica
+atlántica
+olímpica
+olímpico
+perra
+pacifica

@@ -266,6 +266,7 @@ apalear
 aparecer
 apartadero
 apartardesacerdocio
+apañar
 apelación
 apestar
 apisonar
@@ -1676,6 +1677,7 @@ empleado
 emplear
 empobrecer
 empollón
+emponzoñar
 empotrar
 emprender
 empresa
@@ -3931,6 +3933,7 @@ rezagarse
 rezar
 rezumar
 reírsedisimuladaytontamente
+reñir
 reñira
 ridiculizar
 ridículo
@@ -4041,6 +4044,7 @@ satirizar
 satisfacer
 saturar
 savia
+saña
 schlepp
 sección
 secesionarse

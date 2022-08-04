@@ -4644,6 +4644,7 @@ adoración
 elpeor
 herida
 reñira
+reñir
 enguirnaldar
 llaveinglesa
 arrancararrebatar
@@ -4686,3 +4687,6 @@ liquidado
 comerciar
 renovado
 renovación
+emponzoñar
+apañar
+saña

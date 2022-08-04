@@ -17,9 +17,9 @@ remove = ['lists of deities', 'cpu', 'oh my goddess!',
     'cautious hero', 'the three shaman queens[3]',
     'holy spirit is feminine for some christians[2][better\xa0source\xa0needed]',
     'aka "the goddess"', 'turquoise woman); yoołgai asdzą́ą́ ',
-    'loviatar / louhi'
-
-    ]
+    'loviatar / louhi',
+    'holy spirit is feminine for some christians[2][better source needed]',
+]
 add = ['aka', 'loviatar', 'louhi']
 new_lines_correction = []
 multi_name_correction = []
@@ -73,6 +73,12 @@ for goddess in hyphen_correction:
     elif '\xa0[zh]' in goddess:
         goddess = goddess.replace('\xa0[zh]', '')
         zerox_correction.append(goddess[-1])
+    elif '[3]' in goddess:
+        goddess = goddess.replace('[3]', '')
+        zerox_correction.append(goddess[-1])
+    elif '[1]' in goddess:
+        goddess = goddess.replace('[1]', '')
+        zerox_correction.append(goddess[-1])
     else:
         zerox_correction.append(goddess)
 
@@ -83,15 +89,15 @@ for goddess in zerox_correction:
     else:
         coma_correction.append(goddess)
 
-for goddess in zerox_correction:
+for goddess in coma_correction:
     if goddess not in remove: 
         goddess = goddess.strip()
         clean.append(goddess)
 clean.extend(add)
 
 # Sort & dedup.
-coma_correction.sort()
-clean = list(dict.fromkeys(coma_correction))
+clean.sort()
+clean = list(dict.fromkeys(clean))
 
 f = open(f"{FIXTURE_PATH}/english-goddesses.txt", 'w')
 for word in clean:

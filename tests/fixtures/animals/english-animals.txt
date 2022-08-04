@@ -1248,7 +1248,7 @@ persian
 peruvian inca orchid
 pesquet’s parrot
 dracula parrot
-petit basset griffon vendéen
+petit basset griffon vendeen
 petite goldendoodle
 pheasant
 philippine cobra
@@ -1697,7 +1697,6 @@ vaquita
 velociraptor
 venus flytrap
 vervet monkey
-vicuña
 vine snake
 vinegaroon
 viper
@@ -1861,21 +1860,18 @@ hippogriff
 harpy
 pegasus
 jackalope
+
+scylla
 amarok
 cerberus
 chupacabra
 typhon
 fenrir
 behemoth
-ccylla
 charybdis
 leviathan
-
-
-
 Selket
 Fenghuang
-Fènghuáng
 Horus
 Hugin
 Munin
@@ -1906,14 +1902,9 @@ Afanc
 Eikthyrnir
 Goldhorn
 Satyr
-
-
-
-
-
 drac
 draak
-guldendraak
+gulden draak
 dreki
 drache
 drago
@@ -1935,13 +1926,13 @@ uktena
 dargon
 drakon
 dragonessa
-fuzanglong
+fuzang long
 dragonesse
 tinniin
-tianlong
-Fuzanglong
+tian long
+Fuzang long
 Dilong
-Shenlong
-Longwang
+Shen long
+Long wang
 long
 

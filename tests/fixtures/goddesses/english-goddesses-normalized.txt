@@ -1,5 +1,5 @@
 a'akuluujjusi
-aaghu gugu
+aaghugugu
 aasterinian
 aba-khatun
 abeguwo
@@ -8,20 +8,20 @@ abere
 abet
 abhijit
 abhimukhi
-abkai hehe
+abkaihehe
 abnoba
 abohli
 abtet
 abuk
 abundantia
 abyang
-abyang durunuun
+abyangdurunuun
 acala
-acca larentia
+accalarentia
 acchupta
 aceso
 achelois
-achi chokyi drolma
+achichokyidrolma
 achlys
 achos
 acionna
@@ -33,12 +33,12 @@ adarateja
 adastreia
 adeona
 adephagia
-adgilis deda 
-adgilis ghvtismshobeli
+adgilisdeda
+adgilisghvtismshobeli
 adhimukticarya
 adhimuktivasita
-adi lakshmi 
-adi parashakti 
+adilakshmi
+adiparashakti
 adi-mailagu
 adidharma
 adikia
@@ -47,7 +47,6 @@ aditi
 adjassou-linguetor
 adrastea
 adrasteia
-adrasteia 
 adrastia
 adrestea
 adrestia
@@ -55,32 +54,32 @@ adsullata
 aegiale
 aegle
 aequitas
-aerdrie faenya
+aerdriefaenya
 aergia
 aeschyne
 aeternitas
-afri 
+afri
 africa
 afrika
 ag-aganney
 agemem
 agenoria
-aglaea 
+aglaea
 aglaïa
 agneya
 agrona
 ahemait
-ahia njoku
+ahianjoku
 ahrishwang
 ahti
 ahurani
-ahöl mana 
+ahölmana
 ai-tupuai
 aida-weddo
 aide
-aido hwedo
-aido quedo
-aidos 
+aidohwedo
+aidoquedo
+aidos
 aigeiros
 aijotar
 ailsie
@@ -88,48 +87,50 @@ ailuros
 aimend
 aindri
 ainina
-airmed 
+airmed
 airmid
 aisa
-aishwarya lakshmi
+aishwaryalakshmi
 aiätär
-aja 
-ajatar 
+aja
+ajatar
 ajattara
 ajaya
 aje
-ak ana
-aka "the goddess"
+akana
+aka
 akadi
-akaru-hime 
+akaru-hime
 akhilāṇḑeśvarī
 akhushtal
-akilandeswari 
+akilandeswari
 akinagatarashi-hime
 akka
-akka 
 akna
 akodau
 akonadi
-akte 
+akte
 akycha
-al-lat 
+al-lat
 al-‘uzzá
+al-uzza
 ala
 alabatis
 alaisiagae
 alakshmi
 alala
-alamelu 
-alamelu manga
+alamelu
+alamelumanga
 alausha
 albina
-alcyone 
+alcyone
 alecto
 alectrona
-alegoría de españa
-alegoría de la patria mexicana
-alemona 
+alegoríadeespaña
+alegoriadeespana
+alegoríadelapatriamexicana
+alegoriadelapatriamexicana
+alemona
 alemonia
 algea
 alilat
@@ -138,36 +139,34 @@ allani
 allat
 almoshi
 alokotán
+alokotan
 alovai
 alpan
-alpanu 
+alpanu
 alpnu
 alunsina
 amamikyu
 amanozako
 amasagnudi
 amaterasu
-amaterasu 
 amaterasu-ōmikami
 amathaunta
 amaunet
 amazake-babaa
 ambika
-ambika 
 ambikā
-ambikā devī
+ambikādevī
 ame-no-mikumari-no-kami
 ame-no-tanabata-hime
 ame-no-toyotarashikara-hime
-ame-no-uzume 
-amechania 
+ame-no-uzume
+amechania
 amekhania
 ament
-ament 
 amentet
-ameretat 
+ameretat
 ammavaru
-ammit 
+ammit
 ammut
 amn
 amordad
@@ -175,66 +174,65 @@ ampelos
 amphictyonis
 amphillogiai
 amphitrite
-amunet 
+amunet
 amurdad
 ana
 anagolay
-anahit 
-anahita 
+anahit
+anahita
 anaideia
-anaisa la chiquita
-anaisa pie
-anaisa pie danto
-anaisa pye 
+anaisalachiquita
+anaisapie
+anaisapiedanto
+anaisapye
 anaitis
 anaka
 anand
 ananke
 anann
 anant
-anasuya 
+anasuya
 anat
-anat 
-anatole 
+anatole
 anatolia
-anauk mibaya
+anaukmibaya
 anaulikutsai'x
 ancamna
 ancasta
 andarta
 andrasta
-andraste 
+andraste
 andriaahoabu
 andriamahilala
 andriamanitra
 androktasiai
-angak-chin mana 
+angak-chinmana
 angelia
-angelos 
+angelos
 angerona
 angeyja
 angitia
 angrboda
-angrboða 
-angwushahai-i 
-angwusnasomtaka 
+angrboða
+angwushahai-i
+angwusnasomtaka
 anhefta
 ania
 anit
-aniton tauo
-anitun tabu
+anitontauo
+anituntabu
 anjea
-ankalamma 
+ankalamma
 ankalamman
 ankalaparamecuvari
-anna kuari
-anna perenna
-annapurna devi mata
+annakuari
+annaperenna
+annapurnadevimata
 annawan
-annea clivana
+anneaclivana
 annona
 annunitum
-anput 
+anput
 anqet
 anta
 antd
@@ -243,9 +241,9 @@ antheia
 anti
 antit
 antu
-anu 
+anu
 anuke
-anuket 
+anuket
 anukis
 anumati
 anuput
@@ -254,7 +252,7 @@ anusuya
 anzotica
 aoide
 apate
-apemerukoyan-mat unamerukoyan-mat
+apemerukoyan-matunamerukoyan-mat
 apet
 aphaea
 aphrodisias
@@ -263,8 +261,9 @@ api
 apollonis
 aporia
 apsaras
-apúng sinukuan
-aqua 
+apúngsinukuan
+apungsinukuan
+aqua
 arachne
 aradia
 arae
@@ -277,67 +276,68 @@ arctus
 ardoxsho
 arduinna
 areatha
-aredvi sura anahita
+aredvisuraanahita
 arete
 argimpasa
 ariadne
 arianrhod
 arien
-arinniti 
+arinniti
 aritimi
 arke
-arktos 
+arktos
 arnakua'gsak
-arnakuagsak 
+arnakuagsak
 arnapkapfaaluk
 arnaqquassaaq
 arnarquagsag
 arnemetia
 arsay
-arshtat 
-arsinoe ii
+arshtat
+arsinoeii
 artemis
 artemitei
-artemitos 
+artemitos
 arthapratisamvit
 artio
-artume 
+artume
 artumes
 arubani
 arundhati
 arurin
 aruru
-arya tara
-asaase afua
-asaase yaa
+aryatara
+asaaseafua
+asaaseyaa
 asagao-hime
-asase ya 
-asase yaa
-asdzą́ą́ nádleehé 
+asaseya
+asaseyaa
+asdzą́ą́nádleehé
+asdzaanadleehe
 aserdus
 aset
-ashapura mata 
-ashi 
-ashi vanghuhi
-ashi vanuhi
+ashapuramata
+ashi
+ashivanghuhi
+ashivanuhi
 ashiakle
 ashima
-ashketanne mat
-ashlesha 
+ashketannemat
+ashlesha
 ashnan
 ashokasundari
-ashta lakshmi
+ashtalakshmi
 ashtad
 ashtar-chemosh
 ashvini
 asiaq
 asibikaashi
-asintmah 
+asintmah
 aslesa
 aspalis
 astarte
 asteria
-astghik 
+astghik
 astraea
 astrape
 astrild
@@ -346,20 +346,19 @@ asvayujau
 asībowan
 atabey
 ataecina
-ataegina 
+ataegina
 ataensic
 ataentsic
-atahensic 
+atahensic
 ataksak
-atana potinija
+atanapotinija
 atanua
 atarapa
 atargatis
 atemito
 atete
-athana potnia 
+athanapotnia
 athena
-athena 
 athrpa
 aticandika
 atimite
@@ -368,7 +367,7 @@ atira
 atla
 atlanteia
 atlatonan
-atropos 
+atropos
 atsintma
 atua-anua
 atë
@@ -384,21 +383,21 @@ aurora
 ausaas
 austėja
 auxesia
-auxo 
+auxo
 aušra
 aušrinė
 aveta
 avilix
 awasiukiu
-awilix 
-awitelin tsita
-awitelin tsta 
+awilix
+awitelintsita
+awitelintsta
 axomamma
 aya
 ayaba
 ayakashikone
 ayao
-ayida-weddo 
+ayida-weddo
 ayida-wedo
 ayizan
 ayu-ikalti
@@ -406,64 +405,65 @@ ayurvasita
 azimua
 ašḫara
 b'sst
-ba'alat gebal
+ba'alatgebal
 ba-khati
 baast
 baba
-baba gvozdenzuba
-baba korizma
-baba roga
-baba slata 
-baba yaga 
+babagvozdenzuba
+babakorizma
+babaroga
+babaslata
+babayaga
 bachué
+bachue
 baculbotet
-badb 
-badb catha
+badb
+badbcatha
 badhbh
-badi mata
+badimata
 baduhenna
 bagalamukhi
 bagbartu
 bagiwang
 bagmashtu
 bagmasti
-bago medaw
+bagomedaw
 bagparti
-bagvarti 
-bahuchara mata
-bai mudan
+bagvarti
+bahucharamata
+baimudan
 baiut-s-ảmiu-heh
 bakunawa
-bala tripurasundari 
+balatripurasundari
 bala-sakti
-balanos 
+balanos
 balanus
 balinsogo
 balintawag
-bambar baini
+bambarbaini
 bana-jiermu
 banai
 banba
-banba 
 banbha
 bandua
 bangamata
 bangan
-bangu māte
+bangumāte
 bankamundi
 barama
 barbale
-bari gongju
+barigongju
 baset
 bast
-bastet 
+bastet
 bat
 bau
 baubo
 baītpandī
 baʼáłchíní
-beag 
-beaivi 
+baachini
+beag
+beaivi
 bec
 becuille
 beda
@@ -473,23 +473,23 @@ beivve
 beiwe
 bel
 belenos
-belenus 
-belet ili
-belet nagar
+belenus
+beletili
+beletnagar
 belet-ili
 belet-seri
-belgica 
-beli mawr
+belgica
+belimawr
 belili
 belinus
-belldandy 
+belldandy
 bellona
 bendis
 benten-sama
 benthesikyme
-benzaiten 
-bera pennu
-bereginia 
+benzaiten
+berapennu
+bereginia
 beregynia
 berehynia
 bergusia
@@ -503,7 +503,7 @@ bhadrakali
 bhagavati
 bhairavi
 bharani
-bharat mata
+bharatmata
 bharati
 bhavani
 bhramari
@@ -512,7 +512,7 @@ bhumidevi
 bhumis
 bhutamata
 bhuvaneshvari
-bhūmi 
+bhūmi
 bia
 bia-ka-pusud-an-langit
 bia-t'oden
@@ -520,24 +520,25 @@ biejje
 bievve
 bigois
 bila
-bilig-un cinadu kijaghar-a kuruksen
+bilig-uncinadukijaghar-akuruksen
 binayo
-bipodtarini devi
+bipodtarinidevi
 birrahgnooloo
 birutė
 bituoon
 bizilla
-blanc 
+blanc
 blibdoolpoolp
-blue corn maiden
+bluecornmaiden
 blóðughadda
+bloughadda
 boand
-boann 
+boann
 bodek
 boginka
-boldogasszony 
-bona dea
-bong libun
+boldogasszony
+bonadea
+bonglibun
 bonobibi
 bormana
 borysthenis
@@ -548,78 +549,89 @@ branwen
 bricta
 brig
 brigantia
-brigid 
+brigid
 brigit
 brimo
 britannia
-britomartis 
+britomartis
 brizo
 bronte
-brynhildr 
+brynhildr
 brėkšta
 bubona
 buddhabodhiprabhavasita
-buddhalocana 
+buddhalocana
 buddhalochana
 buddhi
-budhi pallien
+budhipallien
 budraganá
+budragana
 budtė
-budung yihé ibi
-buffalo maiden
+budungyihéibi
+budungyiheibi
+buffalomaiden
 bugan
-bugan inbulul
-bugan inintongnin
-bugan inkinulhudan
-bugan inmagnad
-bugan inmanahaut
-bugan inmonkulabe
-bugan inngilin
-bugan inpati
-bugan inpunholdaiyan
-bugan inuldi
-bugan inwigan
-bugan nak amtalao
-bugan nak hinumbian
-buk 
+buganinbulul
+buganinintongnin
+buganinkinulhudan
+buganinmagnad
+buganinmanahaut
+buganinmonkulabe
+buganinngilin
+buganinpati
+buganinpunholdaiyan
+buganinuldi
+buganinwigan
+bugannakamtalao
+bugannakhinumbian
+buk
 bulan
-bulon la mogoaw
+bulonlamogoaw
 bunzi
-burigadang pada sinaklang bulawan
+burigadangpadasinaklangbulawan
 bushasp
-bushyasta 
+bushyasta
 buto
 butsugen
 butsumo
-butterfly maiden
+butterflymaiden
 bylgja
-bà chúa kho
-bà chúa thượng ngàn
-bà chúa xứ 
-bà dàn
-bà dâu and another incarnation called bà keo
-bà mụ
-bà triệu
-bà trời
-bà tướng
-bà đen
-bà đậu
+bàchúakho
+bachuakho
+bàchúathượngngàn
+bachuathuongngan
+bàchúaxứ
+bachuaxu
+bàdàn
+bàdâuandanotherincarnationcalledbàkeo
+bàmụ
+bàtriệu
+bàtrời
+bàtướng
+bàđen
+bàđậu
 bára
-bé chuille 
-bé chuma
+bara
+béchuille
+bechuille
+béchuma
+bechuma
 bébhinn
-bébinn 
+bebhinn
+bébinn
+bebinn
 bóinn
+boinn
 búlai
+bulai
 bālā
-bālā tripurasundarī
-c'abawil ix
+bālātripurasundarī
+c'abawilix
 c'thalpa
 c-ga
 caguana
 cailleach
-cailleach 
-cailleach bheur
+cailleachbheur
 caipora
 cakresvari
 calaina
@@ -631,18 +643,18 @@ camenae
 camunda
 candelifera
 cangu
-cangu nainai
-canmu 
+cangunainai
+canmu
 carcika
 cardea
 carme
 carmenta
 carphos
-carpo 
+carpo
 carya
 caryatis
 cath
-catha 
+catha
 cathena
 cathubodua
 cauri
@@ -651,9 +663,9 @@ cavtha
 caṇḍālī
 cegilune
 cel
-cela māte
+celamāte
 celaeno
-cenakatla'x 
+cenakatla'x
 cenkalaniyammal
 centeocihuatl
 cephisso
@@ -661,31 +673,31 @@ cerca
 ceres
 ceridwen
 cethleann
-cethlenn 
+cethlenn
 ceto
-ch'aska 
-ch'aska quyllur
-chaabou 
+ch'aska
+ch'askaquyllur
+chaabou
 chalchiuhcihuatl
 chalchiuhtlicue
 chalmecacihuitl
-chamunda 
+chamunda
 chanda
-chandi 
+chandi
 chandika
 chandraghanta
 chang'e
-changing woman
+changingwoman
 changxi
-chantico 
-chao mae kuan im
-chaomae thapthim
-chaomae thongkham 
-charchika devi
+chantico
+chaomaekuanim
+chaomaethapthim
+chaomaethongkham
+charchikadevi
 charis
 charites
 charmalaine
-charmo vetr
+charmovetr
 chauntea
 chaxiraxi
 chaya
@@ -695,36 +707,39 @@ cheimon
 chelamma
 chenjiamman
 chenrézik
+chenrezik
 chensit
 cheuksin
-chhaya 
+chhaya
 chhinnamasta
-chibirias 
-chicomecoatl 
+chibirias
+chicomecoatl
 chicomexochitl
 chiconahui
 chietsum
 chihucoatl
 chilseongsin
-chimalma 
+chimalma
 chimalman
 chimalmat
-china poblana
+chinapoblana
 chinnamunda
 chione
 chirakan-ixmucane
-chirtel ma
+chirtelma
 chislev
-chislobog 
+chislobog
 chitrā
 chrysopeleia
 chrysothemis
 chuangmu
 chía
-chúa xứ thánh mẫu
+chia
+chúaxứthánhmẫu
+chuaxuthanhmau
 cica
 cihuacalli
-cihuacoatl 
+cihuacoatl
 cihuacuauhtli
 cihuacuiahuitl
 cihuamazatl
@@ -735,7 +750,7 @@ cipactli
 circe
 cisa
 cithaeronides
-citlalicue 
+citlalicue
 citlalinicue
 citrasena
 cittavasita
@@ -749,28 +764,32 @@ cloacina
 clota
 clotho
 clídna
-clíodhna 
+clidna
+clíodhna
+cliodhna
 clíodna
+cliodna
 clíona
-coatlicue 
-coi coi-vilu
-cold woman
-cold-bringing woman
-colel cab
+cliona
+coatlicue
+coicoi-vilu
+coldwoman
+cold-bringingwoman
+colelcab
 columbia
 concordia
 copacati
-copper woman
+copperwoman
 coventina
 coyolxauhqui
 creiddylad
 creirwy
-crow bride
-crow mother
+crowbride
+crowmother
 cuauhxolotl
 cuba
 culsu
-cumulus cloud maiden
+cumuluscloudmaiden
 cunda
 cunina
 cupra
@@ -779,13 +798,13 @@ cybele
 cyca
 cyhyraeth
 cyllene
-cymidei cymeinfoll
+cymideicymeinfoll
 cynosura
 cypris
 cyrollalee
-cô đôi thượng ngàn
+côđôithượngngàn
 dadmiš
-daena 
+daena
 dagat
 dagau
 dagdagamiyan
@@ -795,7 +814,7 @@ dakiniten
 dali
 dalia
 dalikamata
-dallah thaun
+dallahthaun
 damavukha
 damgalnuna
 damia
@@ -803,60 +822,59 @@ damkina
 damona
 dana
 danana
-danina 
+danina
 danu
-danu 
 daphne
 daphnis
-dapuritojo potinija
-daragang magayon
+dapuritojopotinija
+daragangmagayon
 darago
 darinka
 dartsa-naana
 darzamāte
 daungen
-day woman
-dea dia
-dea matrona
-dea tacita
+daywoman
+deadia
+deamatrona
+deatacita
 decima
-deer maiden
+deermaiden
 deleyte-sagan-khatun
-demeter 
+demeter
 den
 dena
 derceto
 despoina
-dev mogra
+devmogra
 deva
 devaki
-devana 
+devana
 devananda
 devasena
 deverra
 devi
-devi kanya kumari
+devikanyakumari
 devoina
 dewa
 dewana
-dewi danu
-dewi kwan im 
-dewi lanjar
-dewi ratih
-dewi sri
+dewidanu
+dewikwanim
+dewilanjar
+dewiratih
+dewisri
 dewin
 dewina
 dezalik
-dhairya lakshmi
-dhana lakshmi
+dhairyalakshmi
+dhanalakshmi
 dhanada
 dhanishta
-dhanya lakshmi
+dhanyalakshmi
 dharani
 dharmamegha
 dharmapratisamvit
 dharmavasita
-dharti mata
+dhartimata
 dhat-badan
 dhavdi
 dheghom
@@ -867,14 +885,14 @@ dhumorna
 dhupa
 dhupatara
 dhvajagrakeyura
-di nixi
+dinixi
 dia
 diana
 diancastra
 diang
 dianmu
 dictynna
-didi thakrun
+didithakrun
 didilia
 didilla
 dies
@@ -883,12 +901,14 @@ diewen
 digambara
 diiwica
 dike
-diksa 
+diksa
 diksha
 dilga
-dilyéhé 
-din 
+dilyéhé
+dilyehe
+din
 dinawágan
+dinawagan
 dindymene
 dingir.ge6
 dione
@@ -901,18 +921,18 @@ disciplina
 disni
 diti
 divona
-diwata ng kagubatan
+diwatangkagubatan
 diwia
-diyan masalanta
-dizane 
-diêu trì kim mẫu
+diyanmasalanta
+dizane
+diêutrìkimmẫu
 djanggawul
 djigonasee
 djila'qons
 djiyin
 dju
-doda etc.
-domania 
+dodaetc.
+domania
 domovikha
 doqeia
 doris
@@ -920,24 +940,24 @@ doumu
 drvaspa
 dryad
 dryope
-dröfn 
+dröfn
 dudula
 dugnė
 duillae
 dumuzi-abzu
 durga
-durga ashtami
-durga puja
+durgaashtami
+durgapuja
 durjaya
 durumgama
 duskeah
 duthila
 duttur
-duwe da 
+duweda
 dysis
 dysnomia
 dyssebeia
-dzelarhons 
+dzelarhons
 dzewa
 dzidziela
 dzidzilelya
@@ -952,27 +972,34 @@ dziwitza
 dzydzilelya
 dæl
 dís
+dis
 dôn
 dúfa
-düza minkar
-dēkla 
-dēkla māte
+dufa
+düzaminkar
+duzaminkar
+dēkla
+dēklamāte
 d’endrrah
-e akom
-e bukura e dheut
-e huang
+eakom
+ebukuraedheut
+ehuang
 e'lg'eldokwila
 eagentci
 echo
 edesia
 edusa
 ee-eh-ch-chó-ri-ch'áhm-nin
-efígie da república
+ee-eh-ch-cho-ri-ch'ahm-nin
+efígiedarepública
+efigiedarepublica
 egeria
 egungun-oya
 ehaema
-ehé tazar
-ehé ureng ibi
+ehétazar
+ehetazar
+ehéurengibi
+eheurengibi
 eiar
 eijebong
 eileithyia
@@ -990,18 +1017,18 @@ ekecheiria
 ekhi
 eldath
 ele-ele
-electra 
-electryone 
+electra
+electryone
 elete
 eleutheria
-eleuthia 
+eleuthia
 elihino
 elina
 elinai
-elinei 
-elisah 
+elinei
+elisah
 ellaiyamman
-ellaman 
+ellaman
 elli
 elpis
 emotan
@@ -1013,19 +1040,17 @@ enyo
 eopsin
 eos
 epane
-epimeliad 
+epimeliad
 epimēlides
 epione
 epona
 era
-era 
 erato
-erato 
 erecura
 ereshkigal
 ereutija
-erewijo potinija
-erinu 
+erewijopotinija
+erinu
 erinuwe
 erinyes
 eris
@@ -1033,20 +1058,20 @@ ernmas
 ernutet
 ersa
 erzili
-erzulie 
+erzulie
 ese
 eset
 eshebala
 eskeilay
 esna
-estsanatlehi) 
+estsanatlehi)
 estë
 esus
 eth
-ethausva 
-ethniu 
+ethausva
+ethniu
 etugen
-etugen eke
+etugeneke
 eucleia
 eukarpia
 eunomia
@@ -1055,7 +1080,6 @@ eupheme
 euphrosyne
 euporia
 euporie
-euporie 
 eupraxia
 eurydice
 eurydome
@@ -1063,23 +1087,23 @@ eurynome
 euterpe
 euthenia
 euturpa
-eye of ra 
+eyeofra
 eyrgjafa
 ezili
-ezili dantor
-eštan 
-fand 
+ezilidantor
+eštan
+fand
 fann
 farbans
-farore 
+farore
 faumea
 fauna
 faustitas
 febris
 fecunditas
 felicitas
-female divinity
-feng popo
+femaledivinity
+fengpopo
 ferentina
 feronia
 ferspnai
@@ -1087,19 +1111,19 @@ fides
 filomena
 fimmilena
 fionnghuala
-first woman
+firstwoman
 fjallkona
 fjörgyn
-flidais 
+flidais
 flidas
 fliodhais
 fliodhas
 flora
 fornax
 fortuna
-fortuna huiusce diei
-fortuna redux
-fortuna virilis
+fortunahuiuscediei
+fortunaredux
+fortunavirilis
 fraujō
 fraus
 frea
@@ -1107,47 +1131,51 @@ freja
 freke
 freya
 freyia
-freyja 
+freyja
 friagabis
 frig
 frigg
 frija
-frijjō 
+frijjō
 fuamnach
 fulgora
 fulla
 fullō
 furrina
 fódhla
+fodhla
 fódla
-fódla 
+fodla
 fóla
+fola
 fótla
-gabija 
+fotla
+gabija
 gabjauja
 gadintoja
 gaia
-gaillimh inion breasail
-gaja lakshmi
+gaillimhinionbreasail
+gajalakshmi
 gajalakshmi
 galene
 gallia
 gameunjang
 gandha
-gandha tara
+gandhatara
 gandhari
-ganga 
-ganga devi
-gangamma devi
+ganga
+gangadevi
+gangammadevi
 garmangabis
 gatumdag
 gauri
 gaus!tukoba'ni
-gausu māte
+gausumāte
 gawaunduk
-gaxi sonnim
+gaxisonnim
 gayatri
 gaygayóma
+gaygayoma
 gazbaba
 geezhigo-quae
 gefjon
@@ -1158,82 +1186,87 @@ geirrönul
 geirskögul*
 geirölul
 geirömul
-geirönul 
+geirönul
 gendenwitha
 genetaska
 germania
 gersemi
 gerðr
 geshtinanna
-giant cloud maiden
+giantcloudmaiden
 gigeiten
-giltinė 
+giltinė
 gita
 gjálp
+gjalp
 gleti
 gnowee
 gná
+gna
 godasiyo
-goddess i
-goddess of courage
-goddess of power
-goddess of wisdom
+goddessi
+goddessofcourage
+goddessofpower
+goddessofwisdom
 gondu
 gontia
-gorska maika
+gorskamaika
 grace
 graeae
 grahamatrka
-gran brigitte
-grandmother bear
-grann brigitte
+granbrigitte
+grandmotherbear
+grannbrigitte
 grdhrasya
-great mother
+greatmother
 greip
-gráinne mhaol hibernia
+gráinnemhaolhibernia
+grainnemhaolhibernia
 guabancex
 guanyin
-guanyin 
-guard woman
+guardwoman
 gula
-gullveig 
-gulses 
+gullveig
+gulses
 gulshesh
-gulsilia mata
-gun ana
-gun yam
-gunnr 
+gulsiliamata
+gunana
+gunyam
+gunnr
 gunura
 guðr
-gwan-eum 
+gwan-eum
 gwanse-eum
-gwun yam
+gwunyam
 gymnasia
 gymnastica
-gymnastike 
+gymnastike
 göll
 göndul
-haashchʼéé baʼáádí 
-haashchʼéé oołtʼohí 
-hahay-i wuhti 
-hai bà trưng
+haashchʼéébaʼáádí
+haashcheebaaadi
+haashchʼééoołtʼohí
+haashcheeootohi
+hahay-iwuhti
+haibàtrưng
 hainuwele
-hajnal anyácska
-hakʼaz asdzą́ą́ 
+hajnalanyácska
+hajnalanyacska
+hakʼazasdzą́ą́
 haliya
 hamadryad
 hamadryas
 hamavehae
-hammu mata
+hammumata
 hanan
-hanani celanil
+hananicelanil
 hane
 hanea
-hanhepi wi
+hanhepiwi
 haniyasu-hime
-hano mana 
+hanomana
 hanwasuit
-hanwi 
+hanwi
 haoreima
 hariasa
 hariti
@@ -1241,35 +1274,37 @@ harkor
 harmonia
 harsa
 harsidhhi
-haruhi suzumiya 
-hasinaw-uk-kamuy 
+haruhisuzumiya
+hasinaw-uk-kamuy
 hasta
 hastsébaádi
+hastsebaadi
 hastséoltoi
+hastseoltoi
 hastyeoltoi
 hatepuna
 hathor
-hatmehit 
+hatmehit
 hatmehyt
 hatthi
 hauhet
 haumea
-haurvatat 
+haurvatat
 hausos
 hawit-mahuyat
 hayaakitsu-hime
-he wuhti
-he xiangu
+hewuhti
+hexiangu
 hebat
 hebe
 hecate
-hedetet 
+hedetet
 hedimeku
 hedjedjet
-hefring 
+hefring
 hegemone
 hegir-nuna
-hehea mana
+heheamana
 hehee
 heimarmene
 heiðr
@@ -1283,15 +1318,15 @@ helvetia
 hemadryamba
 hemantadevi
 hemera
-hemsut 
+hemsut
 hemuset
-heoto mana 
+heotomana
 heptet
-heqet 
+heqet
 heqtit
 hera
 heret
-heret-kau 
+heret-kau
 herfjötur
 herja
 hersilia
@@ -1299,12 +1334,11 @@ hert-ketit-s
 hert-nemmat-set
 hert-sefu-s
 heru-pa-kaut
-hervör alvitr
+hervöralvitr
 hesat
 heset
 hesperis
 hestia
-hestia 
 hetemit
 hetepes-sekhus
 hevring
@@ -1321,77 +1355,79 @@ hina-puku-ia
 hine-ahuone
 hine-ata-uira
 hine-i-tapeka
-hine-nui-te-pō 
+hine-nui-te-pō
 hine-titama
 hine-titamauri
 hine-tu-whenua
-hinglaj mata
+hinglajmata
 hippeia
 hippona
 hjalmþrimul
 hjörþrimul
-hlaðguðr svanhvít
+hlaðguðrsvanhvít
+hlagursvanhvit
 hludana
 hlín
+hlin
 hlóðyn
+hloyn
 hlökk
 hnamadawgyi
 hnoss
 hokohoko
 holda
-holo 
-holy spirit is feminine for some christians[2][better source needed]
+holo
 homonoia
-honotohata-hime kochiji-hime
+honotohata-himekochiji-hime
 horae
 hordad
 horea
 horme
-horo mana 
+horomana
 horsel
 horta
-hotogov mailgan
-hotr 
+hotogovmailgan
+hotr
 hotra
 houtu
 hrist
 hrund
 hrêða
 hrönn
-htibyuhsaung medaw
-hua mulan
-huang daopo
+htibyuhsaungmedaw
+huamulan
+huangdaopo
 huba
 huitaca
-huixtocihuatl 
+huixtocihuatl
 hukluban
-hulka devi
+hulkadevi
 hutash
-hutena and hutellura
+hutenaandhutellura
 hušbišag
 hvashi
 hygieia
-hylia 
+hylia
 hypate
 hysminai
 hämarik
-hé-é-e wuhti 
+hé-é-ewuhti
+he-e-ewuhti
 i'i
 iab
-iabet 
+iabet
 iabtet
 iallanis
 ialysos
 iambadoule
 iana
 iansã
-iansã 
 ianuaria
 iaso
 iat
-ibu pertiwi
+ibupertiwi
 icauna
-ichikishima-hime 
+ichikishima-hime
 ichnaea
 ichpochtli
 icovellauna
@@ -1402,41 +1438,42 @@ idiyanale
 idyia
 idā
 iemanjá
+iemanja
 igaehinvdo
 ignirtoq
 ihi
 ikutamayori-hime
 ila
-ila 
 ilamatecuhtli
 ilargi
 ilithiia
-ilmaneitsi 
+ilmaneitsi
 ilmarë
-ilmatar 
+ilmatar
 ilmatütar
+ilmatutar
 ilmr
 ilo
-imentet 
+imentet
 imentit
-immap ukua
+immapukua
 imoinu
 imð
-imðr 
+imðr
 ina
 ina-bikari
 ina-tsurubi
 inanna
 inara
-inari ōkami
-inazuma 
+inariōkami
+inazuma
 inciona
-indo' belo tumbang
-indo' ongon-ongon
+indo'belotumbang
+indo'ongon-ongon
 indraja
 indrani
 indukari
-indung tibuan
+indungtibuan
 inkosikazi
 inmar
 inpewt
@@ -1448,86 +1485,87 @@ ioi
 iord
 iouga
 ipemedeja
-iphemedeia 
+iphemedeia
 ipy
 ira
-irai leima
-iresu kamuy
+iraileima
+iresukamuy
 iris
 irpa
 isa
-isa 
 isarraitaitsoq
 ishara
 ishtar
 ishtarat
 ishvari
-isis 
-isosange mat
+isis
+isosangemat
 issa
 issaki
 istenanya
 istustaya
 isukeyori-hime
-italia turrita
+italiaturrita
 ito-ori-hime
-itzcueye 
+itzcueye
 itzcuintli
 itzpapaloti-itzcueye
 itzpapalotl
 iunit
 iusaas
-iusaaset 
+iusaaset
 iustitia
 iwanaga-hime
 iwatsu-hime
-ix chebel yax
-ix hun tah dz'ib
-ix hun tah nok
-ix kanan
-ix zacal nok
+ixchebelyax
+ixhuntahdz'ib
+ixhuntahnok
+ixkanan
+ixzacalnok
 ixazaluoh
 ixchel
 ixnextli
 ixtab
-iyami aje
+iyamiaje
 iyatiku
-iyeruame 
+iyeruame
 iyerúgame
-iyá mésàn
+iyerugame
+iyámésàn
+iyamesan
 izanami
 izuna-hime-no-mikoto
 iárnvidia
+iarnvidia
 iðunn
 išskalbėja
 ištanu
 jabme-akka
 jacheongbi
-jaga baba
+jagababa
 jagaddhatri
 jaganmata
 jagdamba
-jahi 
-jande jari
+jahi
+jandejari
 janguli
 jarð
-jaya lakshmi 
+jayalakshmi
 jayanti
 jayatara
-jeen mata
+jeenmata
 jeh
-jeoseung halmang
-jestak 
-jetsun dölma
+jeoseunghalmang
+jestak
+jetsundölma
 ježibaba
-jiang yuan
+jiangyuan
 jijang
-jinguang shengmu
+jinguangshengmu
 jingwei
-jinmu yuanjun
+jinmuyuanjun
 jisin
-jiutian xuannü[1]
-jivdani mata
+jivdanimata
 jnanadakini
 jnanaparamita
 jnanavasita
@@ -1536,118 +1574,120 @@ jorth
 jowangsin
 juksakka
 julunggul
-jumõn üdõr
-jumõn šočõn
+jumõnüdõr
+jumonudor
+jumõnšočõn
 junda
-jungsegyeong 
+jungsegyeong
 juno
-juno caelestis
+junocaelestis
 jutta
 juturna
 juventas
 jyestha
 járnsaxa
-jörð 
+jarnsaxa
+jörð
 jēṣṭak
-jūras māte
+jūrasmāte
 ka'cak
 ka'ohelo
 ka-ata-killa
 kaabu
-kab yeeb
+kabyeeb
 kabechet
 kabehchet
-kachin mana) 
+kachinmana)
 kadlu
 kadru
-kahaila mana 
+kahailamana
 kaikara
 kakasya
 kakia
 kaladuti
 kalamainu'u
 kalaratri
-kale 
-kali 
+kale
+kali
 kalleis
 kalligeneia
 kallone
 kalma
 kalmuneiu
-kaltes ankw
+kaltesankw
 kaltes-ekwa
 kamadhenu
 kamakhya
-kamakshi 
-kamakshi amman
+kamakshi
+kamakshiamman
 kamaksi
 kamala
 kamalatmika
-kamalatmika 
 kamar
-kamimusubi 
+kamimusubi
 kamini
 kamira
 kamrušepa
 kamumusubi
-kamuy paseguru
-kamuy-huci 
+kamuypaseguru
+kamuy-huci
 kamuyatate-hime
-kamuōichi-hime 
+kamuōichi-hime
 kan'on
 kanayama-hime
-kanene ski amai yehi 
+kaneneskiamaiyehi
 kanike
 kanisurra
-kankar mata
-kanna kamuy
+kankarmata
+kannakamuy
 kannagi
-kannon 
+kannon
 kanti
 kanzeon
 kapalini
 kapo
-kapu māte
-karaikkal ammaiyar
+kapumāte
+karaikkalammaiyar
 karatgurk
-kari nordmann
+karinordmann
 karini
 karmavasita
 karna
 kartikeyani
-kartlis deda
+kartlisdeda
 karttiki
-karya 
+karya
 kataḫziwuri
-kateri amman
-kathleen ni houlihan
+kateriamman
+kathleennihoulihan
 katrin
 kauket
 kaulinyčia
-kaumari 
+kaumari
 kaumudi
 kaushiki
 kayanarumi
-kayano-hime 
-kebechet 
+kayano-hime
+kebechet
 kebehut
 kebehwet
-kele-yin ükin tengri
+kele-yinükintengri
+kele-yinukintengri
 ken
 kenas-unarpe
 kerana
 keres
 kesini
-khamnung kikoi louonbi
+khamnungkikoilouonbi
 khasa
 khebhut
 khefthernebes
 khemukhi
 khen-ma
-khensit 
+khensit
 khodiyar
 khordad
-khunu leima
+khunuleima
 kianda
 kiaransalee
 kichijōten
@@ -1658,22 +1698,22 @@ kiririsha
 kirti
 kisagai-hime
 kishimojin
-kisshōten 
+kisshōten
 kittum
 kivutar
 klallam
-kocha mana) 
+kochamana)
 kohara
 kohkomhdena
 kokopelmimi
 kokuanten
-kokyang wuhti 
+kokyangwuhti
 kolaramma
-kollapura mahalakshmi
-komawenteia 
+kollapuramahalakshmi
+komawenteia
 komaweteja
 konohanasakuya-hime
-konthoujam tampha lairembi
+konthoujamtamphalairembi
 kore
 korravai
 korrigan
@@ -1681,25 +1721,24 @@ kostroma
 kotharat
 kotisri
 kotys
-koujeng leima
+koujengleima
 kounu
 kourotrophos
-koyemsi mana 
+koyemsimana
 kraneia
 krasopani
 kricco
 krittika
 krsodari
 krumai
-krumu māte
+krumumāte
 kruonis
 krūminė
-ksama 
+ksama
 kshama
-kshumai 
-kuan im
-kuan im 
-kuan se im
+kshumai
+kuanim
+kuanseim
 kuanja
 kubaba
 kubai
@@ -1716,44 +1755,46 @@ kulisankusa
 kulisesvari
 kumari
 kumārikā
-kun lam
+kunlam
 kunapipi
-kundali 
+kundali
 kundalini
-kupala 
+kupala
 kupalnica
 kupalnitsa
-kurukullā 
+kurukullā
 kurupuram
 kushinada-hime
 kushmanda
 kuu
 kuutar
 kuvava
-kwan yin medaw
+kwanyinmedaw
 kwannon
 kweeto
-kweetoo 
-kwun yam
+kweetoo
+kwunyam
 kára
+kara
 kólga
+kolga
 kālarātri
 kālikā
-kārta 
-kārta māte
+kārta
+kārtamāte
 kātyāyanī
-kṛttikā 
+kṛttikā
 kṣitigarbha
-la baliene
-la belgique
-la fun
-la madre patria
-la sirène
+labaliene
+labelgique
+lafun
+lamadrepatria
+lasirène
 la'aka
 lachesis
 lada
-lady liberty
-lady of hungaria
+ladyliberty
+ladyofhungaria
 laetitia
 lagamal
 laghusyamala
@@ -1762,7 +1803,7 @@ laima
 laimė
 lainaotabi
 lajbegelda
-lajja gauri
+lajjagauri
 laka
 lakanbini
 lakapati
@@ -1774,38 +1815,38 @@ lamia
 lampad
 lampetia
 lampsace
-lan caihe
+lancaihe
 lankini
 lannanah
-lapu māte
+lapumāte
 larentina
 lasa
-lasa vecuvia
+lasavecuvia
 latis
 latva
-laufey 
-lauka māte
-lauku māte
+laufey
+laukamāte
+laukumāte
 lauma
 laumė
 laverna
 lazdona
-lazdu māte
+lazdumāte
 laṣ
-leimarel sidabi
+leimarelsidabi
 leinth
-leizi 
+leizi
 leizu
 lelawala
 lelia
 lelluri
 lelwani
-leshachikha 
+leshachikha
 lesovikha
 leszachka
 leta
 letha
-letham 
+letham
 lethe
 lethms
 lethns
@@ -1814,99 +1855,102 @@ letun
 leutogi
 levana
 lewalevu
-li jilan
-li ye 
+lijilan
+liye
 libera
 liberalitas
 libertas
 libitina
 libya
 lidagat
-lietus māte
+lietusmāte
 lietuva
 lima
 limos
-linamin at barat
-linamin at bulag
+linaminatbarat
+linaminatbulag
 linda
-lingnan shengmu
-linu māte
+lingnanshengmu
+linumāte
 lisin
-lists of deities
 lisuga
 litae
-liễu hạnh
-liễu hạnh 
+liễuhạnh
 lliira
 lofn
 loha
-lok snewédjas
+loksnewédjas
+loksnewedjas
 lolth
 longmu
 longnü
+longnu
 loo-wit
-lopes māte
-lopu marija
-lopu māte
+lopesmāte
+lopumarija
+lopumāte
 losna
 louhetar
+louhi
 louhiatar
 loveatar
 loveheta
 lovetar
 loviatar
-loviatar / louhi 
+loviatar/louhi
 lrooaspa
 lu-kthu
 lua
 lubanga
-lubay-lubyok hanginun si mahuyokhuyokan
+lubay-lubyokhanginunsimahuyokhuyokan
 lucina
 luhdee
 luna
 lunang
 lunitari
-luobo gelda 
+luobogelda
 luonnotar
 lupe
 lurbira
 lurue
 luthic
-luyong baybay
+luyongbaybay
 lympha
 lyssa
-lâm cung thánh mẫu
-lí ban
-ma ngwe taung
+lâmcungthánhmẫu
+lamcungthanhmau
+líban
+liban
+mangwetaung
 ma'at
-ma-ga 
-maa tarini
+ma-ga
+maatarini
 maa-neter-s
 maa-ā
 maaemonen
 maalikapurathamma
 maan-emo
-maat 
+maat
 macaria
 macha
 machai
-madayi kavu
-mademoiselle charlotte
+madayikavu
+mademoisellecharlotte
 maderakka
-mae phra thorani
-mafdet 
+maephrathorani
+mafdet
 maftet
 maga
 magec
 maghā
-magna dea
-mago halmoni
+magnadea
+magohalmoni
 magu
-maguayan 
+maguayan
 magwayan
-mah 
-maha lakshmi
-maha shakti
+mah
+mahalakshmi
+mahashakti
 mahadevi
 mahagauri
 mahakali
@@ -1919,45 +1963,44 @@ mahishasuramardini
 mahohrah
 mahuika
 maia
-maika bulgariya
+maikabulgariya
 maisamma
-majka srbija
-mak kwan im
+majkasrbija
+makkwanim
 maka
 malabai
 malina
 malinalxoch
-malinalxochitl 
+malinalxochitl
 maliya
 mama
-mama allpa
-mama killa 
-mama ocllo
-mama pacha
-mama qucha
-mama quilla
-mama sara 
-mama sranan
-maman brigitte 
-maman brijit
-mami 
-mami wata
+mamaallpa
+mamakilla
+mamaocllo
+mamapacha
+mamaqucha
+mamaquilla
+mamasara
+mamasranan
+mamanbrigitte
+mamanbrijit
+mami
+mamiwata
 mamitu
 mamlambo
 mammitum
 mamu
 mamuriena
-mana genita
+managenita
 manaf
 manakamana
-manana take
+mananatake
 mananangal
 manasa
-manasa 
 manda
 mandarava
 mangacha
-mangechay 
+mangechay
 manggagaway
 mangha
 mania
@@ -1965,82 +2008,84 @@ maniae
 manisha
 manisilat
 manman
-manman brigit
+manmanbrigit
 mano
-manolge inbahiwag
-mansa devi
+manolgeinbahiwag
+mansadevi
 manungal
 manzat
 manāt
 mao
 mara
 maras
-marble player maiden
+marbleplayermaiden
 marena
 mari
-maria cacao
-maria makiling
+mariacacao
+mariamakiling
 marianne
 marici
-marija glavjenica
-marija ognjenica
-marinette 
-marinette bras cheche
-marinette pied cheche
+marijaglavjenica
+marijaognjenica
+marinette
+marinettebrascheche
+marinettepiedcheche
 marishiten
 marmora
 marmuriena
 marukha
-marzanna 
-maría clara
+marzanna
+maríaclara
+mariaclara
 maržena
 maslenitsa
 mastorava
 masâkamek'okiu
-mat zemlya
+matzemlya
 matangi
-matar kubeleya
-matar kubileya 
-mater deva
-mater larum
-mater matuta
-mater theia 
-matere teija
-matergabia 
+matarkubeleya
+matarkubileya
+materdeva
+materlarum
+matermatuta
+matertheia
+matereteija
+matergabia
 matit
-matka gabia
+matkagabia
 matlalcueitl
 matrikas
-matronae aufaniae
-matushka rossiya
-maula kalika
+matronaeaufaniae
+matushkarossiya
+maulakalika
 maut
 mawu
-maya moon goddess
+mayamoongoddess
 mayahuel
 mayari
-mayr hayastan
+mayrhayastan
 mazu
-maîtresse délai
-maîtresse hounon'gon
-mbaba mwana waresa 
+maîtressedélai
+maitressedelai
+maîtressehounon'gon
+mbabamwanawaresa
 mbokomu
 me-tanabata-sama
 meadhbh
-mean 
+mean
 meanpe
 meaḋḃ
-medaw shwezaga
-medb 
-medb lethderg
-medeina 
+medawshwezaga
+medb
+medblethderg
+medeina
 meditrina
 medjed
 medziojna
 mefitis
 megaera
 mehet-weret
-mehit 
+mehit
 mehyt
 mekhit
 melete
@@ -2050,29 +2095,30 @@ melinoë
 melita
 mellona
 melpomene
-mem loimis
+memloimis
 menchit
 mene
-meng jian nü
-meng po
-menhit 
-menil 
+mengjiannü
+mengjiannu
+mengpo
+menhit
+menil
 menily
 menrva
 merau
-meret 
-meretseger 
+meret
+meretseger
 merit
-merope 
+merope
 mert
 mertseger
 mese
 mesembria
 mesenet
 meshkent
-meskhenet 
+meskhenet
 meskhent
-metaia 
+metaia
 metančioji
 metis
 metresili
@@ -2080,16 +2126,15 @@ metua
 metus
 metvia
 metztli
-meza māte
+mezamāte
 mezulla
-mezulla 
 mhalsa
 mictecacihuatl
 mielikki
-mieza māte
-miglas māte
+miezamāte
+miglasmāte
 mihotsu-hime
-mikak'e ukithath'in
+mikak'eukithath'in
 milda
 milotou
 mina
@@ -2100,20 +2145,20 @@ mingan
 miru
 mishakal
 mist
-mizokui 
+mizokui
 mizokuimimi
 mlandava
 mneme
 mnemosyne
-moasäm beps
-moder svea
+moasämbeps
+modersvea
 modheshwari
 modron
 mohini
 moirai
 mokh-naana
 mokienė
-mokosh 
+mokosh
 mokoš
 molae
 momoko-hime
@@ -2122,9 +2167,9 @@ momu
 moneiba
 moneta
 mongfhionn
-mongfind 
-mooinarkw 
-mor norge
+mongfind
+mooinarkw
+mornorge
 mora
 morana
 mordad
@@ -2132,44 +2177,50 @@ morea
 morena
 morta
 morė
-mosairu mana 
-moterų gabija
-mother corn
-mother macedonia
-mother montenegro
-mother of pus
-mousike 
+mosairumana
+moterųgabija
+mothercorn
+mothermacedonia
+mothermontenegro
+motherofpus
+mousike
 mout
 mozh
-mrigashīrsha 
-mu guiying
-mudhead maiden
+mrigashīrsha
+muguiying
+mudheadmaiden
 mudu
 mula
 mulindwa
 mullissu
-mumbadevi 
+mumbadevi
 mumbā
 munthukh
 murcia
 muse
 muses
 musica
-mut 
+mut
 muthyalamma
 muzzu-kummik-quae
-mya nan nwe
-myaukhpet shinma
+myanannwe
+myaukhpetshinma
 mycene
 myeongwol
 mystra
 máidicdac
+maidicdac
 méabh
-mór mhumhan
-mór mumain
-mór muman 
+meabh
+mórmhumhan
+mormhumhan
+mórmumain
+mormumain
+mórmuman
+mormuman
 móðguðr
-māra 
+mogur
+māra
 māre
 mārgaśīrṣa
 mārīte
@@ -2177,22 +2228,23 @@ mārša
 māršava
 mēness
 mėnuo
-mėšlų boba
+mėšlųboba
 mṛgaśira
-mẫu cửu trùng thiên
-mẫu thoải 
-mẫu thượng ngàn 
-mẫu thượng thiên
-mẫu địa phủ
-na'ashjé'ii asdzáá 
+mẫucửutrùngthiên
+mẫuthoải
+mẫuthượngngàn
+mẫuthượngthiên
+mẫuđịaphủ
+na'ashjé'iiasdzáá
+na'ashje'iiasdzaa
 nabarbi
 nabia
-nachigai 
+nachigai
 nafanua
 nagadya
 nagawonyi
-nagmalitong yawa sinagmaling diwata
-nagnechiya maa
+nagmalitongyawasinagmalingdiwata
+nagnechiyamaa
 nagyboldogasszony
 nahid
 nahkeeta
@@ -2204,100 +2256,99 @@ nalq
 nambi
 nammu
 nana
-nana buluku
-nana burukú
+nanabuluku
+nanaburukú
+nanaburuku
 nanai
 nanaya
-nandni mata
-nane 
-nang kwak
-nang thorani
+nandnimata
+nane
+nangkwak
+nangthorani
 nanna
-nanna tala
+nannatala
 nanshe
 nantosuelta
 nanã
-nanã 
-nap anya
+napanya
 nar
 naria
 narodakini
 narundi
 nascio
-natacka mana) 
-natacka wuhti) 
+natackamana)
+natackawuhti)
 naunet
 navadurga
-navadurga 
-navuk-chin mana 
+navuk-chinmana
 nayakaya
-nayru 
-neang neak
-neb au-t-ȧb
-neb aut 
-neb bȧa-t 
-neb khasa 
-neb khebit 
-neb per-res 
-neb petti 
-neb peḥti 
-neb sa 
-neb sam 
-neb sau-ta 
-neb sebu 
-neb septi 
-neb un 
-neb āāu 
-neb ȧa-t 
-neb ȧa-t-then 
-neb ȧkeb 
-neb ȧnit 
-neb ȧs-ur 
-neb ȧter 
-neb ȧter-shemā 
-neb ḥekau 
-neb ḥetep 
-neb ảri-t-qerr-t 
-neb ảrit-tcheṭflu
-neb ảs-ḥatt
-neb ảur 
-neb-t au-t-ȧb
-neb-t aut
-neb-t kheper
-neb-t usha
-neb-t ānkh
-neb-t ānkhiu
-neb-t ȧakhu
-neb-t ȧnemit
-neb-t ảţu
-neb-ābui 
+nayru
+neangneak
+nebau-t-ȧb
+nebaut
+nebbȧa-t
+nebkhasa
+nebkhebit
+nebper-res
+nebpetti
+nebpeḥti
+nebsa
+nebsam
+nebsau-ta
+nebsebu
+nebsepti
+nebun
+nebāāu
+nebȧa-t
+nebȧa-t-then
+nebȧkeb
+nebȧnit
+nebȧs-ur
+nebȧter
+nebȧter-shemā
+nebḥekau
+nebḥetep
+nebảri-t-qerr-t
+nebảrit-tcheṭflu
+nebảs-ḥatt
+nebảur
+neb-tau-t-ȧb
+neb-taut
+neb-tkheper
+neb-tusha
+neb-tānkh
+neb-tānkhiu
+neb-tȧakhu
+neb-tȧnemit
+neb-tảţu
+neb-ābui
 neber-het
 nebethetepet
-nebt bȧa-t
-nebt khasa
-nebt khebit
-nebt per-res
-nebt petti
-nebt peḥti
-nebt sa
-nebt sam
-nebt sau-ta
-nebt sebu
-nebt septi
-nebt un
-nebt ānnu
-nebt āāu
-nebt ȧa-t
-nebt ȧa-t-then
-nebt ȧkeb
-nebt ȧnit
-nebt ȧri-t-qerr-t
-nebt ȧs-ur
-nebt ȧter-meḥ
-nebt ȧter-shemā
-nebt ḥekau
-nebt ḥetep
-nebt ảur
+nebtbȧa-t
+nebtkhasa
+nebtkhebit
+nebtper-res
+nebtpetti
+nebtpeḥti
+nebtsa
+nebtsam
+nebtsau-ta
+nebtsebu
+nebtsepti
+nebtun
+nebtānnu
+nebtāāu
+nebtȧa-t
+nebtȧa-t-then
+nebtȧkeb
+nebtȧnit
+nebtȧri-t-qerr-t
+nebtȧs-ur
+nebtȧter-meḥ
+nebtȧter-shemā
+nebtḥekau
+nebtḥetep
+nebtảur
 nebt-ankhiu
 nebt-khu
 nebt-mat
@@ -2309,13 +2360,13 @@ nebthet
 nebtu
 nebtuwi
 necessitas
-nederlandse maagd
+nederlandsemaagd
 nefertȧry
 nehalennia
 nehmetawy
-nei tituaabine
+neitituaabine
 neit
-neith 
+neith
 nekhbet
 nemain
 nemesis
@@ -2323,12 +2374,12 @@ nemetona
 nemissa
 nenet
 neopaganism
-neper 
+neper
 nephele
-nephthys 
+nephthys
 nepra
 nepri
-neptune 
+neptune
 nerio
 neris
 nerrivik
@@ -2339,26 +2390,27 @@ net
 netami-gho
 nete
 neterit-nekhenit-rā
-netrit fent
+netritfent
 nevinbimbaau
-newopejo potinija
+newopejopotinija
 ngaleima
-nganu leima
+nganuleima
 nienna
-night woman
+nightwoman
 nijolė
 nike
 nikkal
 nikkal-wa-ib
-nila devi
-ninatta and kulitta
-nine daughters of ægir and rán
-nine mothers of heimdallr
+niladevi
+ninattaandkulitta
+ninedaughtersofægirandrán
+ninedaughtersofgirandran
+ninemothersofheimdallr
 ninegal
 ningal
 ningikuga
 ningirima
-ninhursag 
+ninhursag
 ninigizibara
 ninimma
 ninisina
@@ -2372,7 +2424,7 @@ ninmug
 ninshubur
 ninsianna
 ninsumun
-ninsun 
+ninsun
 ninsutu
 ninti
 nintinugga
@@ -2385,81 +2437,88 @@ nit
 niutsu-hime
 njörun
 nohpyttecha
-noire 
+noire
 nok-a-mi
 nokomis
-nomhewena pokaila
+nomhewenapokaila
 nomhoyi
 nomia
 nomkhubulwane
 nona
-nongthang leima
+nongthangleima
 nonō'osqua
 norwan
 nozuchi-no-kami
-nu 
-nu ying
+nuying
 nuakea
-nuestra señora de guadalupe
+nuestraseñoradeguadalupe
+nuestrasenoradeguadalupe
 nuha
 nuit
 nujalik
 nukirpėja
 nuliajuk
-nunda igehi
-nungthel leima
+nundaigehi
+nungthelleima
 nungui
 nunuso
 nunut
 nurtia
-nut 
-nuvak-chin mana) 
-nyai pohaci sanghyang asri
-nyai roro kidul
+nut
+nuvak-chinmana)
+nyaipohacisanghyangasri
+nyairorokidul
 nymph
 nympha
-nymphe 
+nymphe
 nyohaiva
 nyx
-náhookǫs baʼáádí 
+náhookǫsbaʼáádí
+nahookosbaaadi
 nál
-nëna shqipëri
+nal
+nënashqipëri
 nótt
+nott
 núwakanda
-nüba 
+nuwakanda
+nüba
+nuba
 nüwa
+nuwa
 nā'ila
 o-ne-ha-tah
 oba
-od ana
+odana
 oenone
 oenotropae
 ognevikha
-ognjena mariya
+ognjenamariya
 ognyena
-ognyena maria 
-ogre grandmother
-ogre maiden
+ognyenamaria
+ogregrandmother
+ogremaiden
 ohoyochisba
 oizys
 oiá
+oia
 okame
-okinagatarashi-hime 
+okinagatarashi-hime
 olapa
-old age woman
+oldagewoman
 olokun
-om el donia
+omeldonia
 onatah
 onennaya
-onennaya mariya
+onennayamariya
 oneuli
 onuava
 oo-kwa-we
 ops
 orbona
 oread
-orihime 
-orisa oluwa
+orihime
+orisaoluwa
 orisnica
 orsel
 oryol
@@ -2468,46 +2527,48 @@ ostara
 otafuku
 otarashi-hime
 othreis
-otogisa-hime 
+otogisa-hime
 oxomoco
 oxúm
-oya 
+oxum
+oya
 ozwiena
 p'áh-hlee-oh
+p'ah-hlee-oh
 paapooddkwaki
-pachamama 
-pachavuin mana
+pachamama
+pachavuinmana
 pachet
 padmavati
 pah
 pahalali
 pahto
-pajau yan
+pajauyan
 pajauta
-pakchuso pokaila
-pakhet 
+pakchusopokaila
+pakhet
 palatua
-palden lhamo
+paldenlhamo
 pales
-palhik mana 
+palhikmana
 palioxis
 pallas
-pan jinlian
+panjinlian
 panacea
 panchakanya
 pandia
 panthoibi
 panyoka
-papa 
+papa
 papahānaumoku
 paparuda
 papatūānuku
 papaya
-parama shakti
+paramashakti
 paranasabari
 parcae
 partula
-parvati 
+parvati
 pasht
 pasikrata
 pasiphaë
@@ -2517,15 +2578,15 @@ patelana
 pathibhara
 paventia
 pavietrė
-pavin mana 
+pavinmana
 pax
-peashy 
+peashy
 pehkhet
-pehtra baba
+pehtrababa
 peitharchia
 peitho
 pele
-pelenų gabija
+pelenųgabija
 pelican
 pellonia
 pemphetru
@@ -2540,11 +2601,11 @@ pergrubė
 perit
 periyachi
 perkūnaitėlė
-perperuna and dodola 
-persephone 
-persipnei 
+perperunaanddodola
+persephone
+persipnei
 pesi
-petorush mat
+petorushmat
 phaenna
 phastet
 pheme
@@ -2557,45 +2618,49 @@ philotes
 phoebe
 phosop
 phouoibi
-phra mae kuan im
-phra mae thorani 
+phramaekuanim
+phramaethorani
 phrike
 phthinoporon
-phul mata
-pháp lôi 
-pháp vân 
-pháp vũ 
-pháp điện 
-phạm thị trân
-phật mẫu man nương
+phulmata
+pháplôi
+phaploi
+phápvân
+phapvan
+phápvũ
+phapvu
+phápđiện
+phapien
+phạmthịtrân
+phậtmẫumannương
 piambar
 pidari
 pidray
-piena māte
+pienamāte
 pikâkamik'okiu
 pilvytė
 pinga
 pinikir
 pipituna
-pirta māte
+pirtamāte
 pistis
 pitys
-planting stars
+plantingstars
 planē
 pleiad
 pleiades
-plutia 
-po yan dari
+plutia
+poyandari
 poena
 pohaha
 poland
 polednica
 polednice
 poleramma
-poli mana 
+polimana
 poliʻahu
 poloznicha
-poludnica 
+poludnica
 poludniowka
 poludnitsa
 poludnitza
@@ -2603,22 +2668,22 @@ polyhymnia
 pomona
 pook-jin-skwess
 pooyam
-popa medaw
-poppy goddess
+popamedaw
+poppygoddess
 postverta
 potamides
 potii-ta-rire
 potina
-potinija asiwija
-potinija iqeja
-potinija wokode
-potnia hippeia 
-potnia of sitos 
-potnia of the labyrinth 
-potnia of thebes 
-potnia theron
+potinijaasiwija
+potinijaiqeja
+potinijawokode
+potniahippeia
+potniaofsitos
+potniaofthelabyrinth
+potniaofthebes
+potniatheron
 poulomi
-pour water grandmother
+pourwatergrandmother
 południca
 prabhakari
 prajnaparamita
@@ -2629,15 +2694,14 @@ pratisamvits
 pratyangira
 praurimė
 praxidike
-preah mae kong si im
-preah mae thoroni
+preahmaekongsiim
+preahmaethoroni
 prende
-prende 
-preswa 
-prithvi 
+preswa
+prithvi
 proioxis
 prophasis
-prorsa postverta
+prorsapostverta
 proserpina
 proserpnai
 providentia
@@ -2645,20 +2709,21 @@ prporuša
 przeginia
 przypoludnika
 ptehíŋčalasaŋwiŋ
+ptehicalasawi
 ptelea
 ptocheia
 puana
-puchi yushuba
+puchiyushuba
 pudicitia
 pukimna
 pukkeenegak
 pulomaja
 punarpusam
 punartham
-punarvasu 
-purva ashadha
-purva phalguni
-pushya 
+punarvasu
+purvaashadha
+purvaphalguni
+pushya
 puta
 putana
 päivätär
@@ -2666,46 +2731,48 @@ pêp'âkijisê
 pārvatī
 přezpołdnica
 připołdnica
-pūrva bhādrapadā
+pūrvabhādrapadā
 qailertetang
 qamaits
 qastcebaad
 qazagar
 qebehut
 qebhet
-qerasia 
+qerasia
 qerasija
 qererti
 qerhet
 qetesh
-qetesh 
 qeuxu
-qin liangyu
-qiu jin
-qoqole mana 
-qowia 
+qinliangyu
+qiujin
+qoqolemana
+qowia
 qowija
-quan âm
+quanâm
 qudshu
-queen of air and darkness
-queen oronsen
+queenofairanddarkness
+queenoronsen
 querquetulanae
 quetzalcoatl
 quilaztli
 quiritis
-quán thế âm 
-quảng cung công chúa
+quánthếâm
+quantheam
+quảngcungcôngchúa
+quangcungcongchua
 radha
 raet
-raet-tawy 
+raet-tawy
 ragana
-ragutiene pati
-raja lakshmi 
-rajya lakshmi
+ragutienepati
+rajalakshmi
+rajyalakshmi
 rakteswari
-rana niejta
+rananiejta
 randgrid
-randgríðr 
+randgríðr
+randgrir
 rangda
 rasa
 ratainyčia
@@ -2714,12 +2781,12 @@ ratri
 razivia
 raziwia
 rearea
-regina caeli
+reginacaeli
 reginleif
-regional goddess
+regionalgoddess
 reitia
 rekhit
-renenutet 
+renenutet
 renetet
 renpet
 renuka
@@ -2735,13 +2802,13 @@ ricagambeda
 rigbyedma
 rindr
 riri-tuna-rai
-ristarte 
+ristarte
 ritona
 ro'e
 robigo
-rock crystal girl
+rockcrystalgirl
 rodina-mat'
-rodiva 
+rodiva
 rodiwa
 rodjenica
 rodzhanitsa
@@ -2758,14 +2825,17 @@ rumina
 rusalka
 rusina
 rán
+ran
 ráðgríðr
+ragrir
 róta
+rota
 röskva
-sachayay mata
+sachayaymata
 sachchika
-sachchiya mata
-sachchiyay mata
-sachiya 
+sachchiyamata
+sachchiyaymata
+sachiya
 sachmis
 sadhumati
 safekh-aubi
@@ -2775,26 +2845,27 @@ sait
 sakhala-khatun
 sakhet
 sakhmet
-sakwa mana 
+sakwamana
 salacia
 salini
 salmacis
-salmon woman
+salmonwoman
 samaleswari
 samantabhadrī
-samding dorje phagmo
+samdingdorjephagmo
 samdzimar
-samodiva 
-samseung halmang
-samsin halmoni 
+samodiva
+samseunghalmang
+samsinhalmoni
 sandaramet
 sandraudiga
 sanna
 sanngriðr
-sanqaliń qatĕń
-santana lakshmi
-santoshi mata
+sanqalińqatĕń
+santanalakshmi
+santoshimata
 sanyu.xáv
+sanyu.xav
 saosis
 sarakka
 sarama
@@ -2804,35 +2875,36 @@ saranyu
 saraswati
 saris
 sarpanit
-sarthal mata
+sarthalmata
 sasagani-hime
-sassuma arnaa
+sassumaarnaa
 sata
 satana
 satet
 sati
 satiada
-satis 
+satis
 satyabhama
-saubhagya lakshmi
+saubhagyalakshmi
 saule
 sauliyau
 saulė
 sayori-hime
 scomalt
 scáthach
+scathach
 securitas
-sedna 
-seelasat 
+sedna
+seelasat
 sefkhet-abwy
-sehanine moonbow
+sehaninemoonbow
 sehith
 sehu
 seiōbo
 sekhat-hor
 sekhet
 sekhet-metu
-sekhmet 
+sekhmet
 sela-sata
 selardi
 selcis
@@ -2845,7 +2917,7 @@ semine
 semla
 semonia
 sentia
-senu māte
+senumāte
 senuna
 seonangsin
 seowangmo
@@ -2854,31 +2926,31 @@ seqinek
 sequana
 seret
 sergėtoja
-serket 
+serket
 serqet
 sesenet-khu
-seshat 
+seshat
 seta
 setesuyara
 seyatatara-hime
-shachi 
+shachi
 shaheded
 shailaputri
 shakambhari
 shakti
 shala
-shalako mana 
+shalakomana
 shalash
 shams
 shantadurga
 shapash
-shapi leima
+shapileima
 shar
 shashthi
 shatabhisha
 shatarupa
 shaushka
-sheela peryroyl
+sheelaperyroyl
 sheetla
 shekinah
 shekinester
@@ -2887,40 +2959,41 @@ shentayet
 shenty
 shesemtet
 shesmet
-shesmetet 
-sheyanna flaxenstrand
+shesmetet
+sheyannaflaxenstrand
 shichimen-daimyojin
-shin nemi
+shinnemi
 shinare
 shingon
 shingwa
 shinmei
 shitala
 shitateru-hime
-shitateru-hime 
 shivadooti
-shooting god
-shopkeeping goddesses
+shootinggod
+shopkeepinggoddesses
 shoōgatsu-sama
 shravana
 shub-niggurath
 shuimu
-shuiwei shengniang
+shuiweishengniang
 shumaliya
 shuwala
 shuzianna
-shwe nabay
+shwenabay
 siddhidhatri
 sieba
 sif
 sigrdrífa
+sigrdrifa
 sigrún
+sigrun
 sigyn
-silewe nazarate
+silewenazarate
 silvanae
 sina
-sinan maharek
-sinan maniray
+sinanmaharek
+sinanmaniray
 sinivali
 sinoe
 sinthgunt
@@ -2931,7 +3004,7 @@ sisilim
 sita
 sitatapatra
 sito
-sito potinija
+sitopotinija
 siua
 siva
 siwa
@@ -2940,68 +3013,68 @@ skalmöld
 skandamata
 skaði
 skeggjöld
-skeggöld 
+skeggöld
 skuld
-skuld 
 skögul
-slata baba
-smilšu māte
+slatababa
+smilšumāte
 smithis
-snake goddess
-sniega māte
+snakegoddess
+sniegamāte
 snotra
-snow maiden
+snowmaiden
 sointse
-solmundae halmang
-songzi niangniang
+solmundaehalmang
+songziniangniang
 soorinek
-sopdet 
-sophie 
+sopdet
+sophie
 sosamsin
 sothis
 souconna
-south korea: ungnyeo
-sowi-ing mana 
+southkorea:ungnyeo
+sowi-ingmana
 sowilō
-soyal mana 
-soyok mana 
-soyok wuhti 
-spandaramet 
+soyalmana
+soyokmana
+soyokwuhti
+spandaramet
 spendarmad
-spenta armaiti 
+spentaarmaiti
 spes
-sphragitides 
-spider grandmother
+sphragitides
+spidergrandmother
 sponde
-spring maiden
-sri ramalinga sowdeswari amman
-star mother
-stata mater
-sterope 
+springmaiden
+sriramalingasowdeswariamman
+starmother
+statamater
+sterope
 stimula
 strenua
-su ana
+suana
 suadela
-sudenica 
+sudenica
 sudica
 sudurjaya
-suklang malayon
+suklangmalayon
 suleviae
 sulis
-sumska majka
-sun bu'er
-sunan ambu
+sumskamajka
+sunbu'er
+sunanambu
 sune
-sunna 
+sunna
 suomi-neito
 surasa
 suseri-hime
 suwa'
 svaha
-svati 
+svati
 sveið
 svipul
 sváfa
+svafa
 swasthani
 swati
 swenet
@@ -3012,10 +3085,14 @@ syranita
 syt-kul-amine
 syöjätär
 szélanya
+szelanya
 sága
+saga
 sélu
+selu
 sól
-są́ 
+sol
+są́
 sėlija
 sīnag
 ta-bitjet
@@ -3027,9 +3104,9 @@ taema
 tafner
 tagiri-hime
 tagitsu-hime
-tagori-hime 
+tagori-hime
 tailte
-tailtiu 
+tailtiu
 tait
 taka-hime
 takannaaluk
@@ -3037,14 +3114,15 @@ takhisis
 takimono-hime
 takitu
 takuhatachiji-hime
-takursh mana 
-takánakapsâluk 
+takurshmana
+takánakapsâluk
+takanakapsaluk
 tala
 talakin
 tallay
 talona
 tamagushi-hime
-tamakushi-hime 
+tamakushi-hime
 tamar
 tamara
 tamayori-hime
@@ -3057,7 +3135,6 @@ taouris
 tapati
 tappinu
 tara
-tara 
 tara-bosatsu
 taranis
 tarawa
@@ -3066,16 +3143,16 @@ tatsuta-hime
 taueret
 taurt
 tawaret
-taweret 
+taweret
 tayet
 taygete
-tayt 
+tayt
 taytet
-te anu-matao
+teanu-matao
 te-uri
-teakwaina mana) 
+teakwainamana)
 tefnet
-tefnut 
+tefnut
 telanke
 teleglen-edzen
 tellervo
@@ -3083,28 +3160,27 @@ temazcalteci
 temet
 tempestas
 temtith
-ten ten-vilu
-tenenet 
+tenten-vilu
+tenenet
 tenenit
-tenma goddesses
+tenmagoddesses
 tenshō-daijin
 tenshō-kodaijin
-teojusin 
+teojusin
 teposuruyan
 terpsichore
 terra
-teteoh innan
+teteohinnan
 tetogolee
 teutates
-tewa maiden
+tewamaiden
 thalatte
 thalia
-thalia 
-thallo 
+thallo
 thalna
-thana 
-the morrígan
-the three shaman queens[3]
+thana
+themorrígan
+themorrigan
 thebe
 theia
 theleya
@@ -3118,26 +3194,28 @@ thesmophoros
 thethis
 thetis
 thiana
-thiên hậu
-thiên y a na
+thiênhậu
+thiênyana
 thmei
 thoeris
 thonbanhla
-thongak lairembi
-thought woman
+thongaklairembi
+thoughtwoman
 thouéris
+thoueris
 thumleima
-thủy cung thánh mẫu
-thủy tổ quan họ
+thủycungthánhmẫu
+thuycungthanhmau
+thủytổquanhọ
 tia
 tiamat
 tilafaiga
 tinjis
-tirgus māte
+tirgusmāte
 tishya
 tisiphone
 titania
-tiur 
+tiur
 tiv
 tivr
 tjenenet
@@ -3145,21 +3223,21 @@ tjenenyet
 tjenmyt
 tkashi-mapa
 tlachtga
-tlalli iyollo
+tlalliiyollo
 tlazolteotl
 tlitcaplitana
-toci 
+toci
 toeris
 tokapcup-kamuy
 tomaiyovit
 tonacacihuatl
-tonantzin 
+tonantzin
 tootega
 topoh
-toshikami 
+toshikami
 toshitokujin
 totolmatha
-toutatis 
+toutatis
 toyotama-hime
 toyouke-hime
 tranquillitas
@@ -3167,30 +3245,30 @@ trebaruna
 trebopala
 tridevi
 trijata
-triple goddess 
-tripura sundari
+triplegoddess
+tripurasundari
 trishina
 tritonis
 trivia
-tsichtinako 
+tsichtinako
 tsinatsinau
 tskarishdida
-tsovinar 
+tsovinar
 tsubura-hime
 tsumatsu-hime
-tséghádiʼnídíinii atʼééd 
+tséghádiʼnídíiniiatʼééd
+tseghadinidiiniiateed
 tu-metua
 tuart
 tuat
-tukwinong mana 
+tukwinongmana
 tulsi
-tummo 
+tummo
 tumu-te-ana-oa
 tuonetar
 tuoyalaha
 turan
-turquoise woman); yoołgai asdzą́ą́ 
-turtle maiden
+turtlemaiden
 tusholi
 tushpuea
 tutela
@@ -3199,29 +3277,30 @@ twert
 tyche
 tymora
 tzitzimitl
-tây vương mẫu 
-töngyi gyalmo 
-tűz anya
-u'thu uta
+tâyvươngmẫu
+töngyigyalmo
+tűzanya
+u'thuuta
 uadjet
 ubaste
 udelnica
 udjo
-uga benzaiten
+ugabenzaiten
 ugajin
 uinen
 uixtochihuatl
-ukemochi 
+ukemochi
 uksakka
 ulaa
 ulfrún
+ulfrun
 ultio
 uma
 umay
 umberlee
 umugai-hime
 umā
-un-baiusit 
+un-baiusit
 unelanuhi
 unet
 ungnyeo
@@ -3232,15 +3311,15 @@ unn
 unnit
 unnuit
 unt-baiusit
-unut 
-upes māte
+unut
+upesmāte
 upinė
 upit
-upojo potinija
+upojopotinija
 ur-ā
 urania
 urash
-urd 
+urd
 urit
 urit-em-sekhemu-s
 urit-en-kru
@@ -3249,7 +3328,7 @@ urit-ȧmi-t-ṭuat
 urit-ḥekau
 uroda
 ursala
-ursula 
+ursula
 urthekau
 urti-ḥethati
 urunzimu
@@ -3259,15 +3338,15 @@ usiququmadevu
 usit
 usnisavijaya
 usuramassu
-uti hiata 
+utihiata
 utlunta
 uto
-uttara ashadha
-uttara bhādrapadā
-uttara phalguni
+uttaraashadha
+uttarabhādrapadā
+uttaraphalguni
 uttu
-uzume tennouboshi 
-uðr 
+uzumetennouboshi
+uðr
 ušḫara
 užsparinė
 vacuna
@@ -3275,67 +3354,67 @@ vagdavercustis
 vaiare
 vairë
 vaishnavi
-vaishno devi
+vaishnodevi
 vaivora
 vajrayogini
 vajreshwari
-vakarinė 
+vakarinė
 vakarė
-vakula devi
+vakuladevi
 valginė
 valkauna
-valkyrie 
+valkyrie
 valli
 vallonia
 vammatar
 vanadevata
 vanadurga
-vandria gilmadrith
+vandriagilmadrith
 vanth
-vara lakshmi
+varalakshmi
 varahi
 varda
 varima-te-takere
 varuni
-vasavi kanyaka parameswari
+vasavikanyakaparameswari
 vasitas
 vasudhara
 vecu
 vecui
 vecuvia
 veenemo
-veera lakshmi 
-vegoia 
-veja māte
+veeralakshmi
+vegoia
+vejamāte
 velekete
-veliona 
+veliona
 veliuona
-vellamo 
+vellamo
 velonia
 venilia
 ventila
 venus
-venus castina
-venus verticordia
+venuscastina
+venusverticordia
 verbeia
 verenestra
 veritas
-verpiančioji 
+verpiančioji
 verpėja
-vert 
+vert
 verðandi
-vesna 
+vesna
 vesta
 vesuna
 vete-ema
-veļu māte
-vica pota
+veļumāte
+vicapota
 victoria
-vida 
-vidya lakshmi
+vida
+vidyalakshmi
 vielona
 vielonia
-vijaya lakshmi
+vijayalakshmi
 vijayadurga
 vila
 vimala
@@ -3346,81 +3425,85 @@ viriplaca
 virtus
 vishākhā
 vita
-volla 
+volla
 volossatka
 volumna
 volutina
-vua bà 
+vuabà
 vána
+vana
 vár
-víz anya
+var
+vízanya
+vizanya
 vör
 vāc
-wadjet 
-wah sil
+wadjet
+wahsil
 wah-kah-nee
 waka
-waka-ush kamuy 
+waka-ushkamuy
 wakahirume
 wakakunitama
 wakasa-hime
-wakonda hiutseta
-wakonda hon don
-wakonda hon nonpathe
+wakondahiutseta
+wakondahondon
+wakondahonnonpathe
 wala
-wangmu niangniang
+wangmuniangniang
 warharmi
-warrior woman
+warriorwoman
 waslaag
 wasret
-water drinking maiden
-water maiden
-wathondara 
+waterdrinkingmaiden
+watermaiden
+wathondara
 wathondare
-watse miga
+watsemiga
 wedjat
-wei huacun
+weihuacun
 wellamo
 wenet
 wenut
 wepset
-weret hekau
-werethekau 
-weshellequa 
+werethekau
+werethekau
+weshellequa
 whaitiri
-whale mother
-whirling woman
-white maiden
-white shell woman
+whalemother
+whirlingwoman
+whitemaiden
+whiteshellwoman
 wida
 winonah
-winter solstice maiden
+wintersolsticemaiden
 wiosna
 wita
 witsduk
-wongang ami
-wosret 
+wongangami
+wosret
 wosyet
 wurdiz
 wuriupranili
 wurunšemu
-wusheng laomu
+wushenglaomu
 wyrd
 wäh-trōhn-yŏ-nōh'-nĕh
-wóȟpe 
-xa'a da 
-xaalajaat 
+wóȟpe
+wohpe
+xa'ada
+xaalajaat
 xarpo
 xbaquiyalo
-xi lingshi
-xi shi
-xian furen 
+xilingshi
+xishi
+xianfuren
 xiangshuishen
 xihe
 xilonen
-xiwangmu 
+xiwangmu
 xmucane
-xochiquetzal 
+xochiquetzal
 xpiacoc
 xpuch
 xquic
@@ -3429,53 +3512,56 @@ xtabay
 xtah
 xulsigiae
 yakshini
-yal-un eke
+yal-uneke
 yami
-yamuna 
-yan po nagar
-yaochi jinmu
+yamuna
+yanponagar
+yaochijinmu
 yavanna
-yebaad) 
-yellow corn maiden
-yemanjá 
+yebaad)
+yellowcornmaiden
+yemanjá
+yemanja
 yemayá
+yemaya
 yemoja
-yenakha paotapi
+yenakhapaotapi
 yeongdeung
-yer tanrı
-yeshe tsogyal
+yertanrı
+yeshetsogyal
 yhi
 yhoundeh
 yidhra
 yineput
 yogini
 yohaulticetl
-yohozro wuhti) 
+yohozrowuhti)
 yondalla
 yonot
-yorozuhata-hime 
-yu xuanji
+yorozuhata-hime
+yuxuanji
 yuhwa
-yumjao leima
-yushkep kamuy 
+yumjaoleima
+yushkepkamuy
 zak
 zarich
-zarik 
-zarni ań
+zarik
+zarniań
 zealandia
 zeboim
 zeiz
-zemes māte
+zemesmāte
 zenenet
 zewena
 zhinü
+zhinu
 zhiva
 zhiwud
-zhunti 
-zhunti pusa
-zhuntu fomu
-ziedu māte
-ziemala mamulina
+zhunti
+zhuntipusa
+zhuntufomu
+ziedumāte
+ziemalamamulina
 ziewonia
 zintuḫi
 zinzerena
@@ -3483,70 +3569,83 @@ zisa
 zislobog
 ziza
 zizilia
-zlatá baba
+zlatábaba
+zlatababa
 zlota-baba
-zolotaya baba
-zonja e bukuris
-zorya 
-zorya polunoshnaya
-zorya utrennyaya
-zorya vechernyaya
+zolotayababa
+zonjaebukuris
+zorya
+zoryapolunoshnaya
+zoryautrennyaya
+zoryavechernyaya
 zulki
 zvezda
-zvezda dennitsa
-zvezda vechernyaya
+zvezdadennitsa
+zvezdavechernyaya
 zywie
 zywye
 zyzlila
 zäna
 áine
-áłtsé asdzáán 
-âu cơ
+aine
+áłtséasdzáán
+atseasdzaan
+âucơ
 äiatar
 éadaoin
+eadaoin
 édaín
+edain
 éire
-ériu 
-étaín 
+eire
+ériu
+eriu
+étaín
+etain
 ölrún
+olrun
 þorgerðr
 þrima
 þrúðr
+rur
 þögn
 þökk
 āpertra
 ārohirohi
 čodõra-kuva
-đinh triều thánh mẫu
-địa mẫu 
+đinhtriềuthánhmẫu
+inhtrieuthanhmau
+địamẫu
 ēostre
 ōgetsu-hime
 ōhirume-no-muchi-no-kami
 ōtomabe
 ōtomadoime
-ōtonobe 
+ōtonobe
 ōtoshimioya-no-kami
 ōtoshimioya-no-mikoto
 ōyatsuhime
 šarrāḫītu
 šerua
-šočõn ava
-ūdens māte
+šočõnava
+ūdensmāte
 žemyna
-žemės motina
+žemėsmotina
 žiezdrė
-živa 
+živa
 žvoruna
 ʼattart
 ʼaṯirat
 αlkuónē
+lkuone
 ḍizálik
+dizalik
 ḥebit
 ḥunit
-ḥunit pe
-ḥunit urit
+ḥunitpe
+ḥuniturit
 ḥuntheth
-ḥurit urit
+ḥuriturit
 ḫannaḫanna
 ḫapantali
 ảmi-khent-āat
@@ -3558,4 +3657,4 @@ zäna
 ảrit-ȧakhu
 ảriti
 ọya-iyansan
-ỷ lan
+ỷlan
