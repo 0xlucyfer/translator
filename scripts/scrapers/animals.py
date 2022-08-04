@@ -2,10 +2,8 @@ import requests
 import sys
 from pprint import pprint
 from bs4 import BeautifulSoup
-from scripts.settings import (
-    FIXTURE_PATH,
-    create_ordered_alpha_txt_files
-)
+from scripts.settings import FIXTURE_PATH
+from scripts.utils import normalize_file
 
 ADD = [
     'serpent',
@@ -99,4 +97,4 @@ def run_scraper():
     f.close()
 
     # Feed cleaned file, creates alphabetical + no spaces text files.
-    create_ordered_alpha_txt_files(f"{FIXTURE_PATH}/{sys.argv[1]}")
+    normalize_file(f"{FIXTURE_PATH}/{sys.argv[1]}")

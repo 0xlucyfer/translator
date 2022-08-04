@@ -8,7 +8,7 @@ from scripts.settings import (
 )
 from scripts.utils import (
     get_csv_file_paths,
-    create_ordered_alpha_txt_files,
+    normalize_file,
     get_text_file_paths
 )
 
@@ -97,8 +97,10 @@ def translate_txt():
         f.writelines('\n')
     f.close()
 
+    # import pdb; pdb.set_trace()
+
     # Create a cleaned & a normalized text file.
-    create_ordered_alpha_txt_files(TRANSLATED_CLEAN_WORDS_FILE)
+    test = normalize_file(TRANSLATED_CLEAN_WORDS_FILE)
 
 
 # def SS_data_from_1970():

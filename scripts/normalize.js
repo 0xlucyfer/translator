@@ -5,7 +5,7 @@ const utils = ethers.utils
 
 
 try {  
-    var data = fs.readFileSync('tests/fixtures/spanish-nouns-ordered-nospaces.txt').toString().split("\n");
+    var data = fs.readFileSync('tests/fixtures/spanish-months-days-normalized.txt').toString().split("\n");
     // console.log(es_animals)
 } catch(e) {
     console.log('Error:', e.stack);

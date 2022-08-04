@@ -44,7 +44,7 @@ def get_text_file_paths(txt_files: str = None) -> List[str]:
     return glob.glob(os.path.join(path, "*.txt"))
 
 
-def create_ordered_alpha_txt_files(file = None):
+def normalize_file(file = None):
     '''
         Takes an uncleaned file and produces a cleaned &
         normalized file.
