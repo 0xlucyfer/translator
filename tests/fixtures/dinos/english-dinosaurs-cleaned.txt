@@ -183,6 +183,7 @@ dicraeosaurus
 dilong
 dilophosaurus
 dimetrodon
+dinosauria
 diplodocus
 dollodon
 draconyx
@@ -373,7 +374,7 @@ limaysaurus
 limusaurus
 linhenykus
 linheraptor
-linhevenato -r
+linhevenato
 lophorhothon
 lophostropheus
 loricatosaurus
@@ -530,6 +531,7 @@ protarchaeopteryx
 protoceratops
 protohadros
 psittacosaurus
+pterosaurs
 puertasaurus
 pyroraptor
 qantassaurus
@@ -622,6 +624,8 @@ spinosaurus
 spinostropheus
 staurikosaurus
 stegoceras
+stegosauria
+stegosaurian
 stegosaurus
 stenopelix
 stokesosaurus
@@ -672,6 +676,7 @@ tianyuraptor
 tianzhenosaurus
 timimus
 titanoceratops
+titanosaur
 titanosaurus
 tochisaurus
 tornieria
@@ -686,6 +691,9 @@ tuojiangosaurus
 turanoceratops
 turiasaurus
 tylocephale
+tyrannosaurid
+tyrannosauridae
+tyrannosaurids
 tyrannosaurus rex
 tyrannotitan
 uberabatitan

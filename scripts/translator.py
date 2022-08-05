@@ -74,8 +74,8 @@ def translate_txt():
         CMD EX: $ run-txt english-animals spanish-animals
     '''
     try:
-        CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}"
-        TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}"
+        CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[1]}.txt"
+        TRANSLATED_CLEAN_WORDS_FILE = f"{FIXTURE_PATH}/{sys.argv[2]}.txt"
     except IndexError as ie:
         print(f"CMD: $ run-txt file1 file2")
         sys.exit(f"Invalid run command. {ie}")
@@ -97,10 +97,8 @@ def translate_txt():
         f.writelines('\n')
     f.close()
 
-    # import pdb; pdb.set_trace()
-
     # Create a cleaned & a normalized text file.
-    test = normalize_file(TRANSLATED_CLEAN_WORDS_FILE)
+    normalize_file(TRANSLATED_CLEAN_WORDS_FILE)
 
 
 # def SS_data_from_1970():

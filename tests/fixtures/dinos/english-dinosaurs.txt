@@ -373,7 +373,7 @@ limaysaurus
 limusaurus
 linhenykus
 linheraptor
-linhevenato -r
+linhevenato
 lophorhothon
 lophostropheus
 loricatosaurus
@@ -622,6 +622,8 @@ spinosaurus
 spinostropheus
 staurikosaurus
 stegoceras
+stegosauria
+stegosaurian
 stegosaurus
 stenopelix
 stokesosaurus
@@ -672,6 +674,7 @@ tianyuraptor
 tianzhenosaurus
 timimus
 titanoceratops
+titanosaur
 titanosaurus
 tochisaurus
 tornieria
@@ -686,6 +689,9 @@ tuojiangosaurus
 turanoceratops
 turiasaurus
 tylocephale
+tyrannosauridae
+tyrannosaurid
+tyrannosaurids
 tyrannosaurus rex
 tyrannotitan
 uberabatitan
@@ -755,3 +761,5 @@ zhuchengtyrannus
 zuniceratops
 zuolong
 zupaysaurus
+dinosauria
+pterosaurs
